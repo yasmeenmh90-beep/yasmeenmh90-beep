@@ -47,7 +47,7 @@ A chatbot web app for practising AI/ML, Data Science, and Python interview quest
 
 ## 📊 GitHub Stats
 
-![Yasmeen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasmeenmh90-beep&show_icons=true&theme=tokyonight&hide_border=true)
+![Yasmeen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasmeenmh90-beep&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
 ---
 
