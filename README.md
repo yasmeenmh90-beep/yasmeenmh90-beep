@@ -7,15 +7,17 @@
 
 ## 🚀 About Me
 
-I'm an AI/ML engineer passionate about building real-world, production-ready AI systems. My MSc dissertation involved architecting a **cloud-based real-time sentiment analysis pipeline** on AWS EC2, processing millions of tweets using Apache Kafka, Spark Streaming, and transformer models (BERTweet, XLM-RoBERTa).
+I'm an AI/ML engineer and Android developer passionate about building real-world, production-ready systems. My MSc dissertation involved architecting a **cloud-based real-time sentiment analysis pipeline** on AWS EC2, processing millions of tweets using Apache Kafka, Spark Streaming, and transformer models (BERTweet, XLM-RoBERTa).
 
-I love working across the full ML lifecycle — from data collection and model training to deployment and live dashboards.
+I love working across the full ML lifecycle — from data collection and model training to deployment and live dashboards. Recently I've expanded into **Android development** using Kotlin and Jetpack Compose, building beautiful, feature-rich mobile apps.
 
 ---
 
 ## 🛠️ Tech Stack
 
 **AI/ML:** Machine Learning · Deep Learning · NLP · Sentiment Analysis · Transformers (BERT, XLM-R)
+
+**Android:** Kotlin · Jetpack Compose · Material Design · Android Studio
 
 **Data & Streaming:** Apache Kafka · Apache Spark Structured Streaming · MongoDB · Pandas · Scikit-learn
 
@@ -27,7 +29,9 @@ I love working across the full ML lifecycle — from data collection and model t
 
 ## 📌 Featured Projects
 
-### 🔴 [Real-Time Twitter Sentiment Analysis](https://github.com/yasmeenmh90-beep/Real-Time-Twitter-Sentiment-Analysis)
+### 🤖 AI Projects
+
+#### 🔴 [Real-Time Twitter Sentiment Analysis](https://github.com/yasmeenmh90-beep/Real-Time-Twitter-Sentiment-Analysis)
 > MSc Dissertation — First Class
 
 End-to-end cloud pipeline: Kafka → Spark Streaming → BERTweet/XLM-RoBERTa → MongoDB → Django live dashboard. Deployed on AWS EC2. Processed 2.39M tweets.
@@ -36,7 +40,7 @@ End-to-end cloud pipeline: Kafka → Spark Streaming → BERTweet/XLM-RoBERTa �
 
 ---
 
-### 🤖 [AI Interview Practice Bot](https://github.com/yasmeenmh90-beep/ai-interview-practice-bot)
+#### 🤖 [AI Interview Practice Bot](https://github.com/yasmeenmh90-beep/ai-interview-practice-bot)
 > Django Web App
 
 A chatbot web app for practising AI/ML, Data Science, and Python interview questions with real-time scoring, hints, and feedback.
@@ -45,13 +49,48 @@ A chatbot web app for practising AI/ML, Data Science, and Python interview quest
 
 ---
 
-### 🌍 [Climate & Weather Analytics Dashboard](https://github.com/yasmeenmh90-beep/climate-weather-dashboard)
+#### 🌍 [Climate & Weather Analytics Dashboard](https://github.com/yasmeenmh90-beep/climate-weather-dashboard)
 > Django Web App | Real-Time Data
 
 Real-time weather dashboard with AI outdoor advice, Air Quality Index tracking, and multi-city comparison with interactive charts.
 
 `Python` `Django` `OpenWeatherMap API` `Chart.js` `REST API`
 
+---
+
+### 📱 Android Projects
+
+#### 😊 [Mood Journal](https://github.com/yasmeenmh90-beep/MoodJournal)
+> Android App — Kotlin & Jetpack Compose
+
+A beautiful personal mood tracking app with PIN lock security, dark/light mode, mood streak counter, weekly chart, favorites, and fully customizable moods.
+
+**Features:**
+- 🔐 PIN lock to protect your journal
+- 🌙 Dark & Light mode toggle
+- 🔥 Streak counter — track daily logging
+- 📊 Mood chart — visual breakdown
+- ❤️ Favorite moods
+- 🎨 Custom moods — add your own emoji & color
+
+`Kotlin` `Jetpack Compose` `Material Design 3` `Android Studio`
+
+---
+
+#### 🧠 [Quiz Master](https://github.com/yasmeenmh90-beep/QuizMaster)
+> Android App — Kotlin & Jetpack Compose
+
+An engaging quiz app with a 30-second countdown timer per question, score tracking, correct/wrong answer feedback, and a results screen.
+
+**Features:**
+- ⏱ 30 second timer per question
+- ✅ Green/Red answer feedback
+- ⭐ Score tracking
+- 🏆 Results screen with percentage
+
+`Kotlin` `Jetpack Compose` `Material Design 3` `Android Studio`
+
+---
 
 ## 📊 GitHub Stats
 
@@ -63,4 +102,4 @@ Real-time weather dashboard with AI outdoor advice, Air Quality Index tracking, 
 
 - 💼 [LinkedIn](https://linkedin.com/in/yasmeen-azmat-a02b44340)
 - 📧 yasmeenazmat.ali97@icloud.com
-- 🌐 Open to **remote AI/ML internships and junior roles globally**
+- 🌐 Open to **remote AI/ML and Android development opportunities globally**
