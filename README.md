@@ -80,15 +80,23 @@ A beautiful personal mood tracking app with PIN lock security, dark/light mode, 
 #### 🧠 [Quiz Master](https://github.com/yasmeenmh90-beep/QuizMaster)
 > Android App — Kotlin & Jetpack Compose
 
-An engaging quiz app with a 30-second countdown timer per question, score tracking, correct/wrong answer feedback, and a results screen.
+An engaging and feature-rich quiz app with 6 categories, 3 difficulty levels, hints, daily challenge, achievements, local multiplayer, leaderboard, and sound effects.
 
 **Features:**
-- ⏱ 30 second timer per question
+- 🔬 📜 ⚽ 🌍 🎬 🎵 Six categories — Science, History, Sports, Geography, Movies, Music
+- 🟢 🟡 🔴 Three difficulty levels — Easy, Medium, Hard
+- ⏱ 30 second countdown timer per question
+- 🔊 Sound effects — correct and wrong answer
+- 💡 Hints system — one hint per question
+- 📅 Daily Challenge — new quiz every day
+- 🎖️ 12 Achievements — unlock badges by playing
+- 👥 Local Multiplayer — 2 players, same phone
+- 🏆 Leaderboard — Top 10 with gold, silver, bronze medals
 - ✅ Green/Red answer feedback
-- ⭐ Score tracking
-- 🏆 Results screen with percentage
+- ⭐ Live score tracking
+- 🔄 Play Again button
 
-`Kotlin` `Jetpack Compose` `Material Design 3` `Android Studio`
+`Kotlin` `Jetpack Compose` `Material Design 3` `Android Studio` `ToneGenerator`
 
 ---
 
