@@ -45,6 +45,14 @@ A chatbot web app for practising AI/ML, Data Science, and Python interview quest
 
 ---
 
+### 🌍 [Climate & Weather Analytics Dashboard](https://github.com/yasmeenmh90-beep/climate-weather-dashboard)
+> Django Web App | Real-Time Data
+
+Real-time weather dashboard with AI outdoor advice, Air Quality Index tracking, and multi-city comparison with interactive charts.
+
+`Python` `Django` `OpenWeatherMap API` `Chart.js` `REST API`
+
+
 ## 📊 GitHub Stats
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasmeenmh90-beep&theme=tokyonight)
