@@ -5,6 +5,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasmeen-azmat-a02b44340/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yasmeenazmat.ali97@icloud.com)
 
+🌱 Currently exploring:  []
+
 **MSc Artificial Intelligence** | University of West London — **First Class, Ranked #1**
 📍 Sharjah, UAE &nbsp;|&nbsp; 🌍 Open to Remote Opportunities
 
