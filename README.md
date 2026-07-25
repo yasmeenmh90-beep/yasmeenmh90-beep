@@ -61,7 +61,7 @@ Django chatbot covering 24 AI/ML, Data Science, Python, and Behavioural intervie
 #### 🌍 [Climate & Weather Analytics Dashboard](https://github.com/yasmeenmh90-beep/climate-weather-dashboard)
 > Django Web App | Real-Time Data
 
-Real-time weather dashboard covering [X] cities, with AI-generated outdoor activity advice, live AQI tracking, and side-by-side multi-city comparison via interactive Chart.js visualizations.
+Real-time weather dashboard supporting any city search via OpenWeatherMap, with AI-generated outdoor activity advice, live AQI tracking, and side-by-side comparison of up to 3 cities via interactive Chart.js visualizations.
 
 `Python` `Django` `OpenWeatherMap API` `Chart.js` `REST API`
 
