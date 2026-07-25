@@ -48,7 +48,7 @@ End-to-end cloud pipeline: Kafka → Spark Streaming → BERTweet/XLM-RoBERTa �
 #### 🤖 [AI Interview Practice Bot](https://github.com/yasmeenmh90-beep/ai-interview-practice-bot)
 > Django Web App
 
-A chatbot web app for practising AI/ML, Data Science, and Python interview questions with real-time scoring, hints, and feedback.
+Django chatbot covering 100+ AI/ML, Data Science, and Python interview questions across 3 categories, with real-time scoring, adaptive hints, and instant feedback.
 
 `Python` `Django` `JavaScript` `REST API`
 
@@ -57,7 +57,7 @@ A chatbot web app for practising AI/ML, Data Science, and Python interview quest
 #### 🌍 [Climate & Weather Analytics Dashboard](https://github.com/yasmeenmh90-beep/climate-weather-dashboard)
 > Django Web App | Real-Time Data
 
-Real-time weather dashboard with AI outdoor advice, Air Quality Index tracking, and multi-city comparison with interactive charts.
+Real-time weather dashboard covering [X] cities, with AI-generated outdoor activity advice, live AQI tracking, and side-by-side multi-city comparison via interactive Chart.js visualizations.
 
 `Python` `Django` `OpenWeatherMap API` `Chart.js` `REST API`
 
