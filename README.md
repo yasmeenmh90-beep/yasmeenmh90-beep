@@ -52,7 +52,7 @@ End-to-end cloud pipeline: Kafka → Spark Streaming → BERTweet/XLM-RoBERTa �
 #### 🤖 [AI Interview Practice Bot](https://github.com/yasmeenmh90-beep/ai-interview-practice-bot)
 > Django Web App
 
-Django chatbot covering 100+ AI/ML, Data Science, and Python interview questions across 3 categories, with real-time scoring, adaptive hints, and instant feedback.
+Django chatbot covering 24 AI/ML, Data Science, Python, and Behavioural interview questions across 4 categories, with real-time scoring, adaptive hints, and instant feedback.
 
 `Python` `Django` `JavaScript` `REST API`
 
