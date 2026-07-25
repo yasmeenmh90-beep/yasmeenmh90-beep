@@ -72,7 +72,7 @@ Real-time weather dashboard supporting any city search via OpenWeatherMap, with 
 #### 😊 [Mood Journal](https://github.com/yasmeenmh90-beep/MoodJournal)
 > Android App — Kotlin & Jetpack Compose
 
-A beautiful personal mood tracking app with PIN lock security, dark/light mode, mood streak counter, weekly chart, favorites, and fully customizable moods.
+Android mood tracking app with PIN lock security, streak tracking, and weekly PDF reports — starts with 8 default mood categories, fully customizable with unlimited user-added moods and emojis.
 
 **Features:**
 - 🔐 PIN lock to protect your journal
