@@ -7,6 +7,8 @@
 
 🌱 Currently exploring:  []
 
+📄 [Download my Resume](https://raw.githubusercontent.com/yasmeenmh90-beep/yasmeenmh90-beep/main/Yasmeen_Azmat_Ali_CV_Remote_AI.pdf)
+
 **MSc Artificial Intelligence** | University of West London — **First Class, Ranked #1**
 📍 Sharjah, UAE &nbsp;|&nbsp; 🌍 Open to Remote Opportunities
 
