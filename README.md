@@ -317,6 +317,64 @@ Feature-rich Android quiz application.
 
 </table>
 
+---
+
+# 🏆 Achievements
+
+
+<table>
+
+<tr>
+
+<td align="center">
+
+🎓
+
+<br>
+
+<b>MSc Artificial Intelligence</b>
+
+<br>
+
+First Class Distinction
+
+</td>
+
+
+<td align="center">
+
+🥇
+
+<br>
+
+<b>Rank #1</b>
+
+<br>
+
+AI Programme
+
+</td>
+
+
+<td align="center">
+
+🚀
+
+<br>
+
+<b>2.39M+</b>
+
+<br>
+
+Tweets Processed
+
+</td>
+
+
+</tr>
+
+</table>
+
 
 ---
 
