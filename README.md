@@ -253,13 +253,13 @@ Tweets Processed
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasmeenmh90-beep&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasmeenmh90-beep&theme=github_dark" />
 
-<br>
+<br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yasmeenmh90-beep&theme=tokyonight"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yasmeenmh90-beep&theme=github_dark" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yasmeenmh90-beep&theme=tokyonight"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yasmeenmh90-beep&theme=github_dark" />
 
 </div>
 
