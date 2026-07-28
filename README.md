@@ -266,9 +266,12 @@ Tweets Processed
 ## 📫 Get in Touch
 
 <div align="center">
-- 💼 [LinkedIn](https://linkedin.com/in/yasmeen-azmat-a02b44340)
-- 📧 yasmeenazmat.ali97@icloud.com
-- 🌐 Open to **remote AI/ML and Android development opportunities globally**
+
+💼 [LinkedIn](https://linkedin.com/in/yasmeen-azmat-a02b44340)  
+📧 yasmeenazmat.ali97@icloud.com  
+🌐 Open to remote AI/ML and Android opportunities globally
+
+</div>
 ---
 
 <div align="center">
