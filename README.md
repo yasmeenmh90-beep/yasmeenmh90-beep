@@ -13,7 +13,7 @@
 📍 Sharjah, UAE  
 🌍 Building AI systems, ML pipelines & Android applications
 
-[LinkedIn]([your-link](https://www.linkedin.com/in/yasmeen-azmat-a02b44340/)) • [Portfolio]([your-link](https://yasmeen-portfolio-gamma.vercel.app)) • [Email](mailto:yasmeenazmat.ali97@icloud.com)
+[LinkedIn](https://www.linkedin.com/in/yasmeen-azmat-a02b44340/) • [Portfolio](https://yasmeen-portfolio-gamma.vercel.app) • [Email](mailto:yasmeenazmat.ali97@icloud.com)
 
 </div>
 
