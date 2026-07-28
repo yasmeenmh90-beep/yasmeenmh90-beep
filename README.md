@@ -261,6 +261,10 @@ Tweets Processed
 
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yasmeenmh90-beep&theme=github_dark" />
 
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yasmeenmh90-beep&theme=github-dark&hide_border=true"/>
+
 </div>
 
 ## 📫 Get in Touch
