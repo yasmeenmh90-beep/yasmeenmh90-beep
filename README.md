@@ -108,6 +108,34 @@ An engaging and feature-rich quiz app with 6 categories, 3 difficulty levels, hi
 `Kotlin` `Jetpack Compose` `Material Design 3` `Android Studio` `ToneGenerator`
 
 ---
+## 🎓 MSc Artificial Intelligence Coursework
+
+### 📧 [Spam Email Classification](https://github.com/yasmeenmh90-beep/spam-email-classification)
+
+> CP70069O Artificial Intelligence Coursework
+
+Machine learning-based spam filtering system developed to classify emails as **Spam** or **Non-Spam (Ham)** using Natural Language Processing (NLP) and binary classification techniques. The project includes text preprocessing, TF-IDF feature extraction, model training, and comparative evaluation of multiple classification algorithms.
+
+**Key Highlights**
+
+* Processed and analysed 5,574 labelled messages
+* Applied TF-IDF vectorisation for feature extraction
+* Compared four machine learning classification models
+* Evaluated performance using Accuracy, Precision, Recall, F1-Score, ROC-AUC, and Confusion Matrices
+* Identified the best-performing model for spam detection
+
+**Best Results (SVM)**
+
+* 🎯 Accuracy: 98.95%
+* 🎯 Precision: 99.23%
+* 🎯 Recall: 96.25%
+* 🎯 F1-Score: 97.72%
+* 🎯 AUC: 0.980
+
+`Python` `Scikit-learn` `NLTK` `TF-IDF` `Machine Learning` `NLP`
+
+---
+
 
 ## 📊 GitHub Stats
 
