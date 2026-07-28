@@ -47,7 +47,7 @@
 
 ---
 
-# 🛠️ Tech Arsenal
+# 🛠️ Tech Stack
 
 <table>
 <tr>
