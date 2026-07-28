@@ -1,150 +1,273 @@
-# Hi, I'm Yasmeen Azmat Ali 👋
-![MSc AI](https://img.shields.io/badge/MSc_AI-First_Class-brightgreen?style=flat-square)
-![Location](https://img.shields.io/badge/📍-Sharjah,_UAE-blue?style=flat-square)
-![Open to Work](https://img.shields.io/badge/Open_to-Remote_Opportunities-orange?style=flat-square)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasmeen-azmat-a02b44340/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yasmeenazmat.ali97@icloud.com)
+<div align="center">
 
-🌱 Currently exploring:  []
+# 👋 Hi, I'm Yasmeen Azmat Ali
 
-📄 [Download my Resume](https://raw.githubusercontent.com/yasmeenmh90-beep/yasmeenmh90-beep/main/Yasmeen_Azmat_Ali_CV_Remote_AI.pdf)
+### 🤖 AI/ML Engineer | Android Developer | MSc Artificial Intelligence
 
-**MSc Artificial Intelligence** | University of West London — **First Class, Ranked #1**
-📍 Sharjah, UAE &nbsp;|&nbsp; 🌍 Open to Remote Opportunities
+<img src="https://img.shields.io/badge/MSc_AI-First_Class-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ranked-#1-gold?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open_to-Remote_Work-blue?style=for-the-badge"/>
+
+<br>
+
+📍 Sharjah, UAE  
+🌍 Building AI systems, ML pipelines & Android applications
+
+[LinkedIn](your-link) • [Portfolio](your-link) • [Email](mailto:)
+
+</div>
+
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-I'm an AI/ML engineer and Android developer passionate about building real-world, production-ready systems. My MSc dissertation involved architecting a **cloud-based real-time sentiment analysis pipeline** on AWS EC2, processing millions of tweets using Apache Kafka, Spark Streaming, and transformer models (BERTweet, XLM-RoBERTa).
+<table>
+<tr>
+<td width="55%">
 
-I love working across the full ML lifecycle — from data collection and model training to deployment and live dashboards. Recently I've expanded into **Android development** using Kotlin and Jetpack Compose, building beautiful, feature-rich mobile apps.
+### 👩‍💻 AI/ML Engineer
+
+- MSc Artificial Intelligence — First Class
+- Ranked #1 in MSc AI cohort
+- NLP & Transformer models
+- Real-time ML pipelines
+- Cloud deployment experience
+
+</td>
+
+<td width="45%">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250">
+
+</td>
+</tr>
+</table>
+
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Arsenal
 
-**AI/ML:** Machine Learning · Deep Learning · NLP · Sentiment Analysis · Transformers (BERT, XLM-R)
+<table>
+<tr>
 
-**Android:** Kotlin · Jetpack Compose · Material Design · Android Studio
+<td>
 
-**Data & Streaming:** Apache Kafka · Apache Spark Structured Streaming · MongoDB · Pandas · Scikit-learn
+### 🤖 Artificial Intelligence
+Python
+Machine Learning
+Deep Learning
+NLP
+Transformers
+BERT
+XLM-R
+Scikit-learn
 
-**Backend:** Python · Django · REST APIs · AWS EC2
 
-**Dev:** Git · GitHub · Linux · Docker (learning)
+</td>
+
+<td>
+
+### ☁️ Cloud & Data
+
+Apache Kafka
+Apache Spark
+AWS
+MongoDB
+Django
+REST APIs
+
+
+</td>
+
+
+<td>
+
+### 📱 Mobile
+
+Kotlin
+Jetpack Compose
+Material Design
+Android Studio
+
+
+</td>
+
+</tr>
+</table>
+
 
 ---
 
-## 📌 Featured Projects
+# ⭐ Featured Projects
 
-### 🤖 AI Projects
 
-#### 🔴 [Real-Time Twitter Sentiment Analysis](https://github.com/yasmeenmh90-beep/Real-Time-Twitter-Sentiment-Analysis)
-> MSc Dissertation — First Class
+<table>
 
-End-to-end cloud pipeline: Kafka → Spark Streaming → BERTweet/XLM-RoBERTa → MongoDB → Django live dashboard. Deployed on AWS EC2. Processed 2.39M tweets.
+<tr>
 
-`Python` `Apache Kafka` `Apache Spark` `NLP` `Django` `MongoDB` `AWS`
+<td width="50%">
 
----
+## 🔴 Real-Time Twitter Sentiment AI
 
-#### 🤖 [AI Interview Practice Bot](https://github.com/yasmeenmh90-beep/ai-interview-practice-bot)
-> Django Web App
+MSc Dissertation
 
-Django chatbot covering 24 AI/ML, Data Science, Python, and Behavioural interview questions across 4 categories, with real-time scoring, adaptive hints, and instant feedback.
+⭐ First Class Project
 
-`Python` `Django` `JavaScript` `REST API`
+━━━━━━━━━━━━━━
 
----
+Kafka → Spark → BERTweet → MongoDB → Django
 
-#### 🌍 [Climate & Weather Analytics Dashboard](https://github.com/yasmeenmh90-beep/climate-weather-dashboard)
-> Django Web App | Real-Time Data
+📌 2.39M tweets processed
 
-Real-time weather dashboard supporting any city search via OpenWeatherMap, with AI-generated outdoor activity advice, live AQI tracking, and side-by-side comparison of up to 3 cities via interactive Chart.js visualizations.
+🏆 Cloud-based real-time ML pipeline
 
-`Python` `Django` `OpenWeatherMap API` `Chart.js` `REST API`
 
----
+</td>
 
-### 📱 Android Projects
 
-#### 😊 [Mood Journal](https://github.com/yasmeenmh90-beep/MoodJournal)
-> Android App — Kotlin & Jetpack Compose
+<td width="50%">
 
-Android mood tracking app with PIN lock security, streak tracking, and weekly PDF reports — starts with 8 default mood categories, fully customizable with unlimited user-added moods and emojis.
+## 🧠 AI Interview Practice Bot
 
-**Features:**
-- 🔐 PIN lock to protect your journal
-- 🌙 Dark & Light mode toggle
-- 🔥 Streak counter — track daily logging
-- 📊 Mood chart — visual breakdown
-- ❤️ Favorite moods
-- 🎨 Custom moods — add your own emoji & color
+Django AI Platform
 
-`Kotlin` `Jetpack Compose` `Material Design 3` `Android Studio`
+━━━━━━━━━━━━━━
 
----
+✔ 24 Interview Questions  
+✔ Instant Feedback  
+✔ Adaptive Hints  
+✔ Scoring System
 
-#### 🧠 [Quiz Master](https://github.com/yasmeenmh90-beep/QuizMaster)
-> Android App — Kotlin & Jetpack Compose
 
-An engaging and feature-rich quiz app with 6 categories, 3 difficulty levels, hints, daily challenge, achievements, local multiplayer, leaderboard, and sound effects.
+</td>
 
-**Features:**
-- 🔬 📜 ⚽ 🌍 🎬 🎵 Six categories — Science, History, Sports, Geography, Movies, Music
-- 🟢 🟡 🔴 Three difficulty levels — Easy, Medium, Hard
-- ⏱ 30 second countdown timer per question
-- 🔊 Sound effects — correct and wrong answer
-- 💡 Hints system — one hint per question
-- 📅 Daily Challenge — new quiz every day
-- 🎖️ 12 Achievements — unlock badges by playing
-- 👥 Local Multiplayer — 2 players, same phone
-- 🏆 Leaderboard — Top 10 with gold, silver, bronze medals
-- ✅ Green/Red answer feedback
-- ⭐ Live score tracking
-- 🔄 Play Again button
+</tr>
 
-`Kotlin` `Jetpack Compose` `Material Design 3` `Android Studio` `ToneGenerator`
 
----
-## 🎓 MSc Artificial Intelligence Coursework
+<tr>
 
-### 📧 [Spam Email Classification](https://github.com/yasmeenmh90-beep/spam-email-classification)
 
-> CP70069O Artificial Intelligence Coursework
+<td width="50%">
 
-Machine learning-based spam filtering system developed to classify emails as **Spam** or **Non-Spam (Ham)** using Natural Language Processing (NLP) and binary classification techniques. The project includes text preprocessing, TF-IDF feature extraction, model training, and comparative evaluation of multiple classification algorithms.
+## 🌦 Climate Weather AI Dashboard
 
-**Key Highlights**
+━━━━━━━━━━━━━━
 
-* Processed and analysed 5,574 labelled messages
-* Applied TF-IDF vectorisation for feature extraction
-* Compared four machine learning classification models
-* Evaluated performance using Accuracy, Precision, Recall, F1-Score, ROC-AUC, and Confusion Matrices
-* Identified the best-performing model for spam detection
+✔ Real-time Weather API  
+✔ AQI Tracking  
+✔ AI Recommendations  
+✔ Data Visualization
 
-**Best Results (SVM)**
 
-* 🎯 Accuracy: 98.95%
-* 🎯 Precision: 99.23%
-* 🎯 Recall: 96.25%
-* 🎯 F1-Score: 97.72%
-* 🎯 AUC: 0.980
+</td>
 
-`Python` `Scikit-learn` `NLTK` `TF-IDF` `Machine Learning` `NLP`
+
+<td width="50%">
+
+
+## 📱 Mood Journal App
+
+Android Kotlin App
+
+━━━━━━━━━━━━━━
+
+✔ PIN Security  
+✔ Mood Analytics  
+✔ PDF Reports  
+✔ Custom Emotions
+
+
+</td>
+
+
+</tr>
+
+</table>
+
+
 
 ---
 
+# 🏆 Achievements
 
-## 📊 GitHub Stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasmeenmh90-beep&theme=tokyonight)
+<table>
+
+<tr>
+
+<td align="center">
+
+🎓
+
+<br>
+
+<b>MSc Artificial Intelligence</b>
+
+<br>
+
+First Class Distinction
+
+</td>
+
+
+<td align="center">
+
+🥇
+
+<br>
+
+<b>Rank #1</b>
+
+<br>
+
+AI Programme
+
+</td>
+
+
+<td align="center">
+
+🚀
+
+<br>
+
+<b>2.39M+</b>
+
+<br>
+
+Tweets Processed
+
+</td>
+
+
+</tr>
+
+</table>
+
 
 ---
 
-## 📫 Get in Touch
+# 📊 GitHub Analytics
 
-- 💼 [LinkedIn](https://linkedin.com/in/yasmeen-azmat-a02b44340)
-- 📧 yasmeenazmat.ali97@icloud.com
-- 🌐 Open to **remote AI/ML and Android development opportunities globally**
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=yasmeenmh90-beep&show_icons=true&theme=tokyonight"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmeenmh90-beep&layout=compact&theme=tokyonight"/>
+
+</div>
+
+
+---
+
+<div align="center">
+
+### 💫 Let's Build Something Intelligent
+
+AI • Machine Learning • Android • Cloud
+
+</div>
+
