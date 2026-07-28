@@ -251,12 +251,15 @@ Tweets Processed
 
 # 📊 GitHub Analytics
 
-
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=yasmeenmh90-beep&show_icons=true&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasmeenmh90-beep&theme=tokyonight"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmeenmh90-beep&layout=compact&theme=tokyonight"/>
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yasmeenmh90-beep&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yasmeenmh90-beep&theme=tokyonight"/>
 
 </div>
 
