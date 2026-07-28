@@ -5,7 +5,7 @@
 ### 🤖 AI/ML Engineer | Android Developer | MSc Artificial Intelligence
 
 <img src="https://img.shields.io/badge/MSc_AI-First_Class-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Ranked-#1-gold?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ranked-%231-gold?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Open_to-Remote_Work-blue?style=for-the-badge"/>
 
 <br>
