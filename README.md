@@ -99,15 +99,43 @@ Android Studio
 
 
 ---
-
 # 🎓 MSc Artificial Intelligence Coursework
 
-## 📧 Spam Email Classification
-
 <table>
+
 <tr>
 
-<td width="100%" valign="top">
+<td width="50%" valign="top">
+
+<h3>🔴 Real-Time Twitter Sentiment Analysis</h3>
+
+<a href="https://github.com/yasmeenmh90-beep/Real-Time-Twitter-Sentiment-Analysis">
+
+<img src="https://img.shields.io/badge/View_Project-GitHub-black?style=for-the-badge&logo=github"/>
+
+</a>
+
+<p>
+MSc Dissertation — First Class
+</p>
+
+<p>
+Real-time cloud pipeline:
+<br>
+Kafka → Spark → BERTweet/XLM-R → MongoDB → Django
+</p>
+
+<p>
+🚀 2.39M tweets processed
+</p>
+
+<code>Kafka</code>
+<code>Spark</code>
+<code>NLP</code>
+
+</td>
+
+<td width="50%" valign="top">
 
 <h3>📧 Spam Email Classification</h3>
 
@@ -137,50 +165,17 @@ Machine learning based spam detection system using NLP and binary classification
 </td>
 
 </tr>
+
 </table>
-
-
 ---
 
 # ⭐ Featured Projects
-
 
 <table>
 
 <tr>
 
-<td width="33%" valign="top">
-
-<h3>🔴 Real-Time Twitter Sentiment Analysis</h3>
-
-<a href="https://github.com/yasmeenmh90-beep/Real-Time-Twitter-Sentiment-Analysis">
-
-<img src="https://img.shields.io/badge/View-GitHub-black?style=for-the-badge&logo=github"/>
-
-</a>
-
-<p>
-MSc Dissertation — First Class
-</p>
-
-<p>
-Real-time cloud pipeline:
-<br>
-Kafka → Spark → BERTweet/XLM-R → MongoDB → Django
-</p>
-
-<p>
-🚀 2.39M tweets processed
-</p>
-
-<code>Kafka</code>
-<code>Spark</code>
-<code>NLP</code>
-
-</td>
-
-
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 <h3>🤖 AI Interview Practice Bot</h3>
 
@@ -208,8 +203,7 @@ Django AI interview assistant.
 
 </td>
 
-
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 <h3>🌍 Climate & Weather Dashboard</h3>
 
@@ -239,7 +233,6 @@ Real-time weather analytics platform.
 </tr>
 
 </table>
-
 
 
 ---
