@@ -99,11 +99,10 @@ Android Studio
 
 
 ---
-# 📌 Featured Projects
 
+# 🎓 MSc Artificial Intelligence Coursework
 
-## 🎓 MSc Artificial Intelligence Coursework
-
+## 📧 Spam Email Classification
 
 <table>
 <tr>
