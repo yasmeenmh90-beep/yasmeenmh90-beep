@@ -166,6 +166,64 @@ Machine learning based spam detection system using NLP and binary classification
 
 </tr>
 
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>⚖️ Responsible AI: Fairness, Interpretability & Privacy</h3>
+
+<a href="https://github.com/yasmeenmh90-beep/responsible-ai-fairness-interpretability">
+
+<img src="https://img.shields.io/badge/View_Project-GitHub-black?style=for-the-badge&logo=github"/>
+
+</a>
+
+<p>
+Fairness/bias mitigation, SHAP interpretability, and privacy-preserving ML analysis.
+</p>
+
+<p>
+⚖️ Bias Mitigation (Reweighting, Post-processing)
+<br>
+🔍 SHAP Model Explainability
+<br>
+🔐 Differential Privacy Case Studies
+</p>
+
+<code>Scikit-learn</code>
+<code>XGBoost</code>
+<code>SHAP</code>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🚢 Titanic Survival Prediction</h3>
+
+<a href="https://github.com/yasmeenmh90-beep/Titanic-Survival-Prediction-ML-Group-Project">
+
+<img src="https://img.shields.io/badge/View_Project-GitHub-black?style=for-the-badge&logo=github"/>
+
+</a>
+
+<p>
+Group project — full ML lifecycle applied to Titanic survival prediction.
+</p>
+
+<p>
+🌲 6 models compared (Logistic Regression, Random Forest, SVM, Gradient Boosting)
+<br>
+🎯 Best: 88.64% accuracy (Random Forest, top features)
+</p>
+
+<code>Scikit-learn</code>
+<code>Random Forest</code>
+<code>Python</code>
+
+</td>
+
+</tr>
+
 </table>
 ---
 
