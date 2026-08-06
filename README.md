@@ -227,6 +227,61 @@ Group project — full ML lifecycle applied to Titanic survival prediction.
 </table>
 ---
 
+# 🤝 Group Projects
+
+<table>
+
+<tr>
+
+<td width="100%" valign="top">
+
+<h3>🎯 AI Career Guidance Assistant</h3>
+
+<a href="https://github.com/yasmeenmh90-beep/AI-Career-Guidance-Assistant">
+
+<img src="https://img.shields.io/badge/View_Project-GitHub-black?style=for-the-badge&logo=github"/>
+
+</a>
+
+<p>
+AI-powered career guidance platform that provides personalized career advice, resume analysis, skill gap assessment, and AI-driven mock interview preparation.
+</p>
+
+<p>
+✔ AI Career Advisor
+<br>
+✔ Resume Analysis & Refinement
+<br>
+✔ Skill Gap Assessment
+<br>
+✔ Mock Interview Practice
+<br>
+✔ PDF Report Generation
+</p>
+
+<p>
+👥 <b>Team Members</b>
+<br>
+• Yasmeen Azmat Ali
+<br>
+• saikrishna1605
+<br>
+• git791
+<br>
+• gagan615
+</p>
+
+<code>Django</code> <code>Python</code> <code>OpenAI API</code> <code>HTML/CSS</code> <code>JavaScript</code>
+
+</td>
+
+</tr>
+
+</table>
+
+
+
+
 # ⭐ Featured Projects
 
 <table>
