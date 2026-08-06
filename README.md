@@ -225,7 +225,6 @@ Group project — full ML lifecycle applied to Titanic survival prediction.
 </tr>
 
 </table>
----
 
 # 🤝 Group Projects
 
