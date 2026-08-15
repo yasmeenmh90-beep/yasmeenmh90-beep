@@ -226,6 +226,57 @@ Group project — full ML lifecycle applied to Titanic survival prediction.
 
 </table>
 
+---
+
+# 🏆 Flagship Project
+
+<table>
+
+<tr>
+
+<td width="100%" valign="top">
+
+<h3>🔬 Multi-Agent RAG — Grounded Research Assistant</h3>
+
+<a href="https://github.com/yasmeenmh90-beep/multi-agent-rag-research-assistant">
+<img src="https://img.shields.io/badge/View_Project-GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://rag-dashboard-mpr4.onrender.com">
+<img src="https://img.shields.io/badge/Live_Demo-Render-46E3B7?style=for-the-badge&logo=render"/>
+</a>
+
+<p>
+A research assistant built around one core idea: the AI has to prove its own answer is correct before showing it to you, instead of asking you to trust it. A 7-agent LangGraph pipeline (Contextualizer → Router → Planner → Retriever → Synthesizer → Critic → Rewriter) verifies every answer against real retrieved documents before it's shown, with an honest "I don't know" instead of a hallucinated guess when nothing matches.
+</p>
+
+<p>
+✔ Grounded Q&A with full agent trace &amp; source citations
+<br>
+✔ Autonomous Literature Review Generator — searches arXiv &amp; Semantic Scholar, ingests open-access papers, writes a cited review with APA/IEEE bibliography
+<br>
+✔ Hybrid retrieval (BM25 + dense vector search + cross-encoder reranking)
+<br>
+✔ Document upload (PDF, TXT, MD, ZIP, or pasted text)
+<br>
+✔ Live usage dashboard with real grounded-rate metrics
+</p>
+
+<code>LangGraph</code>
+<code>LangChain</code>
+<code>FastAPI</code>
+<code>Django</code>
+<code>ChromaDB</code>
+<code>OpenAI</code>
+<code>Docker</code>
+<code>PostgreSQL</code>
+
+</td>
+
+</tr>
+
+</table>
+
+
 # 🤝 Group Projects
 
 <table>
