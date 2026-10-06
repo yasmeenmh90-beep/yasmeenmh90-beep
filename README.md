@@ -2,21 +2,24 @@
 
 # 👋 Hi, I'm Yasmeen Azmat Ali
 
-### 🤖 AI/ML Engineer | Android Developer | MSc Artificial Intelligence
+### 🤖 AI/ML Engineer | Applied AI Developer | Agentic Systems
 
 <img src="https://img.shields.io/badge/MSc_AI-First_Class-success?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Ranked-%231-gold?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Open_to-Remote_Work-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Focus-Agentic_AI-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open_to-Opportunities-blue?style=for-the-badge"/>
 
-<br>
+<br><br>
 
 📍 Sharjah, UAE  
-🌍 Building AI systems, ML pipelines & Android applications
+🌍 Building intelligent AI agents, RAG systems, ML pipelines & production AI applications
 
-[LinkedIn](https://www.linkedin.com/in/yasmeen-azmat-a02b44340/) • [Portfolio](https://yasmeen-portfolio-gamma.vercel.app) • [Email](mailto:yasmeenazmat.ali97@icloud.com)
+[LinkedIn](https://www.linkedin.com/in/yasmeen-azmat-a02b44340/) •
+[Portfolio](https://yasmeen-portfolio-1.netlify.app) •
+[GitHub](https://github.com/yasmeenmh90-beep) •
+[Email](mailto:yasmeenazmat.ali97@icloud.com)
 
 </div>
-
 
 ---
 
@@ -24,26 +27,30 @@
 
 <table>
 <tr>
-<td width="55%">
+<td width="60%" valign="top">
 
-### 👩‍💻 AI/ML Engineer
+### 👩‍💻 AI/ML Engineer & Applied AI Developer
 
-- MSc Artificial Intelligence — First Class
-- Ranked #1 in MSc AI cohort
-- NLP & Transformer models
-- Real-time ML pipelines
-- Cloud deployment experience
+- 🎓 MSc Artificial Intelligence — First Class Distinction
+- 🥇 Ranked #1 in MSc AI cohort
+- 🤖 Building Agentic AI & Multi-Agent systems
+- 📚 Retrieval-Augmented Generation (RAG)
+- 🧠 Machine Learning, NLP & LLM applications
+- 🔐 LLM security & AI guardrails
+- ⚡ Real-time ML & data pipelines
+- 👥 Human-in-the-loop AI workflows
+- ☁️ Cloud deployment & production APIs
+- 🧪 Testing, evaluation & reproducible AI systems
 
 </td>
 
-<td width="45%">
+<td width="40%" align="center">
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250">
 
 </td>
 </tr>
 </table>
-
 
 ---
 
@@ -52,54 +59,77 @@
 <table>
 <tr>
 
-<td>
+<td valign="top">
 
-### 🤖 Artificial Intelligence
-Python
-Machine Learning
-Deep Learning
-NLP
-Transformers
-BERT
-XLM-R
-Scikit-learn
+### 🤖 AI & Machine Learning
 
-
-</td>
-
-<td>
-
-### ☁️ Cloud & Data
-
-Apache Kafka
-Apache Spark
-AWS
-MongoDB
-Django
-REST APIs
-
+Python  
+Machine Learning  
+Deep Learning  
+NLP  
+LLMs  
+Transformers  
+RAG  
+Agentic AI  
+Multi-Agent Systems  
+Scikit-learn  
+XGBoost  
+SHAP  
 
 </td>
 
+<td valign="top">
 
-<td>
+### ⚙️ Backend & AI Systems
 
-### 📱 Mobile
+FastAPI  
+Django  
+LangChain  
+LangGraph  
+REST APIs  
+SQLAlchemy  
+PostgreSQL  
+MongoDB  
+ChromaDB  
+Redis  
 
-Kotlin
-Jetpack Compose
-Material Design
-Android Studio
+</td>
 
+<td valign="top">
+
+### ☁️ Data & Cloud
+
+Apache Kafka  
+Apache Spark  
+AWS  
+Docker  
+Render  
+Vercel  
+Vector Databases  
+Real-time Streaming  
+
+</td>
+
+<td valign="top">
+
+### 💻 Frontend & Mobile
+
+React  
+TypeScript  
+JavaScript  
+HTML/CSS  
+Kotlin  
+Jetpack Compose  
+Android Studio  
 
 </td>
 
 </tr>
 </table>
 
-
 ---
-# 🎓 MSc Artificial Intelligence Coursework
+
+# 🏆 Flagship AI Projects
 
 <table>
 
@@ -107,31 +137,287 @@ Android Studio
 
 <td width="50%" valign="top">
 
-<h3>🔴 Real-Time Twitter Sentiment Analysis</h3>
+<h3>🧾 InvoiceGuard</h3>
 
-<a href="https://github.com/yasmeenmh90-beep/Real-Time-Twitter-Sentiment-Analysis">
+<a href="https://github.com/yasmeenmh90-beep/invoiceguard">
+<img src="https://img.shields.io/badge/View-GitHub-black?style=for-the-badge&logo=github"/>
+</a>
 
-<img src="https://img.shields.io/badge/View_Project-GitHub-black?style=for-the-badge&logo=github"/>
-
+<a href="https://invoiceguard-murex.vercel.app">
+<img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel"/>
 </a>
 
 <p>
-MSc Dissertation — First Class
+Human-gated multi-agent invoice processing and financial risk assessment platform.
+AI investigates invoices while final financial decisions remain under human control.
 </p>
 
 <p>
-Real-time cloud pipeline:
-<br>
-Kafka → Spark → BERTweet/XLM-R → MongoDB → Django
+✔ Multi-agent invoice investigation<br>
+✔ Duplicate invoice detection<br>
+✔ Vendor & purchase-order validation<br>
+✔ Amount anomaly detection<br>
+✔ PO/vendor mismatch detection<br>
+✔ Explainable risk scoring<br>
+✔ Human approval/rejection gate<br>
+✔ Finance review dashboard<br>
+✔ Traceable approval history
+</p>
+
+<code>FastAPI</code>
+<code>React</code>
+<code>TypeScript</code>
+<code>PostgreSQL</code>
+<code>SQLAlchemy</code>
+<code>LLM</code>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🔬 Multi-Agent RAG Research Assistant</h3>
+
+<a href="https://github.com/yasmeenmh90-beep/multi-agent-rag-research-assistant">
+<img src="https://img.shields.io/badge/View-GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://rag-dashboard-mpr4.onrender.com">
+<img src="https://img.shields.io/badge/Live-Demo-46E3B7?style=for-the-badge&logo=render"/>
+</a>
+
+<p>
+Grounded AI research assistant built around a multi-agent workflow that verifies generated answers against retrieved evidence.
 </p>
 
 <p>
-🚀 2.39M tweets processed
+✔ Multi-agent research workflow<br>
+✔ Grounded Q&A with citations<br>
+✔ arXiv & Semantic Scholar integration<br>
+✔ Automated literature reviews<br>
+✔ Hybrid retrieval<br>
+✔ Vector search & reranking<br>
+✔ PDF/document ingestion<br>
+✔ Hallucination-aware responses
+</p>
+
+<code>LangGraph</code>
+<code>LangChain</code>
+<code>FastAPI</code>
+<code>Django</code>
+<code>ChromaDB</code>
+<code>PostgreSQL</code>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🔎 Scoutly — AI Research Assistant</h3>
+
+<a href="https://github.com/yasmeenmh90-beep/scoutly">
+<img src="https://img.shields.io/badge/View-GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+<p>
+Production-oriented AI research assistant combining document retrieval,
+multi-agent reasoning and grounded question answering.
+</p>
+
+<p>
+✔ Multi-agent research workflow<br>
+✔ Document ingestion & retrieval<br>
+✔ Source-grounded answers<br>
+✔ FastAPI AI backend<br>
+✔ Django dashboard<br>
+✔ Vector database retrieval<br>
+✔ Research-oriented Q&A
+</p>
+
+<code>FastAPI</code>
+<code>Django</code>
+<code>RAG</code>
+<code>ChromaDB</code>
+<code>PostgreSQL</code>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🛡️ PromptGuard</h3>
+
+<a href="https://github.com/yasmeenmh90-beep/PromptGuard-Automated-Security-Testing-for-LLM-Applications">
+<img src="https://img.shields.io/badge/View-GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+<p>
+Automated security testing platform for evaluating LLM applications against
+prompt injection, unsafe behavior and adversarial inputs.
+</p>
+
+<p>
+✔ Automated LLM security testing<br>
+✔ Prompt injection testing<br>
+✔ Adversarial prompt evaluation<br>
+✔ Security-focused AI evaluation<br>
+✔ Structured test results<br>
+✔ LLM application red-teaming
+</p>
+
+<code>Python</code>
+<code>LLM Security</code>
+<code>Red Teaming</code>
+<code>OpenAI API</code>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🤖 Agentic AI & Hackathon Projects
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>📑 Clerkly — Paperwork Agent</h3>
+
+<a href="https://github.com/yasmeenmh90-beep/Clerkly">
+<img src="https://img.shields.io/badge/View-GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+<p>
+Human-in-the-loop agentic paperwork automation system designed around
+safe execution and verified external actions.
+</p>
+
+<p>
+✔ Agentic workflow orchestration<br>
+✔ Human approval gates<br>
+✔ Verified Stripe webhooks<br>
+✔ Verified DocuSign events<br>
+✔ State-safe workflow transitions<br>
+✔ Automated backend testing
+</p>
+
+<code>FastAPI</code>
+<code>Python</code>
+<code>SQLAlchemy</code>
+<code>Agents</code>
+<code>HITL</code>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🏙️ CivicRelay</h3>
+
+<a href="https://github.com/yasmeenmh90-beep/civicrelay">
+<img src="https://img.shields.io/badge/View-GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+<p>
+Agentic civic-issue management platform that transforms citizen reports
+into structured, trackable workflows.
+</p>
+
+<p>
+✔ Triage Agent<br>
+✔ Research Agent<br>
+✔ Action Agent<br>
+✔ Tracking Agent<br>
+✔ Human approval workflow<br>
+✔ Web, WhatsApp, voice & IoT inputs<br>
+✔ 116 automated tests
+</p>
+
+<code>FastAPI</code>
+<code>Python</code>
+<code>Multi-Agent</code>
+<code>APIs</code>
+<code>HITL</code>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="100%" valign="top">
+
+<h3>🎯 AI Career Guidance Assistant</h3>
+
+<a href="https://github.com/yasmeenmh90-beep/AI-Career-Guidance-Assistant">
+<img src="https://img.shields.io/badge/View-GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+<p>
+AI-powered career guidance platform developed as a team hackathon project.
+It helps users identify career paths based on their skills, interests and
+education while identifying skill gaps and preparing them for interviews.
+</p>
+
+<p>
+✔ AI Career Advisor<br>
+✔ Resume Analysis & Refinement<br>
+✔ Skill Gap Assessment<br>
+✔ Career Recommendations<br>
+✔ Mock Interview Practice<br>
+✔ PDF Report Generation
+</p>
+
+<code>Django</code>
+<code>Python</code>
+<code>OpenAI API</code>
+<code>JavaScript</code>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🎓 Machine Learning & MSc Projects
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>📊 Real-Time Twitter Sentiment Analysis</h3>
+
+<a href="https://github.com/yasmeenmh90-beep/Real-Time-Twitter-Sentiment-Analysis">
+<img src="https://img.shields.io/badge/View-GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+<p>
+MSc dissertation implementing a cloud-based real-time sentiment analysis
+pipeline for social-media streams.
+</p>
+
+<p>
+🚀 2.39M tweets in the dataset<br>
+⚡ Real-time streaming architecture<br>
+🧠 NLP & machine-learning classification<br>
+☁️ Cloud deployment
 </p>
 
 <code>Kafka</code>
 <code>Spark</code>
+<code>Python</code>
 <code>NLP</code>
+<code>MongoDB</code>
+<code>Django</code>
 
 </td>
 
@@ -140,20 +426,16 @@ Kafka → Spark → BERTweet/XLM-R → MongoDB → Django
 <h3>📧 Spam Email Classification</h3>
 
 <a href="https://github.com/yasmeenmh90-beep/spam-email-classification">
-
-<img src="https://img.shields.io/badge/View_Project-GitHub-black?style=for-the-badge&logo=github"/>
-
+<img src="https://img.shields.io/badge/View-GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 
 <p>
-Machine learning based spam detection system using NLP and binary classification.
+Machine-learning spam detection system using NLP and binary classification.
 </p>
 
 <p>
-🎯 Accuracy: 98.95%  
-<br>
-🎯 F1-Score: 97.72%  
-<br>
+🎯 Accuracy: 98.95%<br>
+🎯 F1-Score: 97.72%<br>
 🎯 AUC: 0.980
 </p>
 
@@ -170,24 +452,22 @@ Machine learning based spam detection system using NLP and binary classification
 
 <td width="50%" valign="top">
 
-<h3>⚖️ Responsible AI: Fairness, Interpretability & Privacy</h3>
+<h3>⚖️ Responsible AI</h3>
 
 <a href="https://github.com/yasmeenmh90-beep/responsible-ai-fairness-interpretability">
-
-<img src="https://img.shields.io/badge/View_Project-GitHub-black?style=for-the-badge&logo=github"/>
-
+<img src="https://img.shields.io/badge/View-GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 
 <p>
-Fairness/bias mitigation, SHAP interpretability, and privacy-preserving ML analysis.
+Exploration of fairness, bias mitigation, model interpretability and
+privacy-preserving machine learning.
 </p>
 
 <p>
-⚖️ Bias Mitigation (Reweighting, Post-processing)
-<br>
-🔍 SHAP Model Explainability
-<br>
-🔐 Differential Privacy Case Studies
+⚖️ Bias mitigation<br>
+🔍 SHAP explainability<br>
+🔐 Privacy analysis<br>
+📊 Responsible ML evaluation
 </p>
 
 <code>Scikit-learn</code>
@@ -201,24 +481,23 @@ Fairness/bias mitigation, SHAP interpretability, and privacy-preserving ML analy
 <h3>🚢 Titanic Survival Prediction</h3>
 
 <a href="https://github.com/yasmeenmh90-beep/Titanic-Survival-Prediction-ML-Group-Project">
-
-<img src="https://img.shields.io/badge/View_Project-GitHub-black?style=for-the-badge&logo=github"/>
-
+<img src="https://img.shields.io/badge/View-GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 
 <p>
-Group project — full ML lifecycle applied to Titanic survival prediction.
+End-to-end machine-learning group project comparing multiple algorithms
+for passenger survival prediction.
 </p>
 
 <p>
-🌲 6 models compared (Logistic Regression, Random Forest, SVM, Gradient Boosting)
-<br>
-🎯 Best: 88.64% accuracy (Random Forest, top features)
+🌲 Multiple ML models compared<br>
+🎯 Best accuracy: 88.64%<br>
+🔍 Feature selection & model evaluation
 </p>
 
+<code>Python</code>
 <code>Scikit-learn</code>
 <code>Random Forest</code>
-<code>Python</code>
 
 </td>
 
@@ -228,111 +507,7 @@ Group project — full ML lifecycle applied to Titanic survival prediction.
 
 ---
 
-# 🏆 Flagship Project
-
-<table>
-
-<tr>
-
-<td width="100%" valign="top">
-
-<h3>🔬 Multi-Agent RAG — Grounded Research Assistant</h3>
-
-<a href="https://github.com/yasmeenmh90-beep/multi-agent-rag-research-assistant">
-<img src="https://img.shields.io/badge/View_Project-GitHub-black?style=for-the-badge&logo=github"/>
-</a>
-<a href="https://rag-dashboard-mpr4.onrender.com">
-<img src="https://img.shields.io/badge/Live_Demo-Render-46E3B7?style=for-the-badge&logo=render"/>
-</a>
-
-<p>
-A research assistant built around one core idea: the AI has to prove its own answer is correct before showing it to you, instead of asking you to trust it. A 7-agent LangGraph pipeline (Contextualizer → Router → Planner → Retriever → Synthesizer → Critic → Rewriter) verifies every answer against real retrieved documents before it's shown, with an honest "I don't know" instead of a hallucinated guess when nothing matches.
-</p>
-
-<p>
-✔ Grounded Q&A with full agent trace &amp; source citations
-<br>
-✔ Autonomous Literature Review Generator — searches arXiv &amp; Semantic Scholar, ingests open-access papers, writes a cited review with APA/IEEE bibliography
-<br>
-✔ Hybrid retrieval (BM25 + dense vector search + cross-encoder reranking)
-<br>
-✔ Document upload (PDF, TXT, MD, ZIP, or pasted text)
-<br>
-✔ Live usage dashboard with real grounded-rate metrics
-</p>
-
-<code>LangGraph</code>
-<code>LangChain</code>
-<code>FastAPI</code>
-<code>Django</code>
-<code>ChromaDB</code>
-<code>OpenAI</code>
-<code>Docker</code>
-<code>PostgreSQL</code>
-
-</td>
-
-</tr>
-
-</table>
-
-
-# 🤝 Group Projects
-
-<table>
-
-<tr>
-
-<td width="100%" valign="top">
-
-<h3>🎯 AI Career Guidance Assistant</h3>
-
-<a href="https://github.com/yasmeenmh90-beep/AI-Career-Guidance-Assistant">
-
-<img src="https://img.shields.io/badge/View_Project-GitHub-black?style=for-the-badge&logo=github"/>
-
-</a>
-
-<p>
-AI-powered career guidance platform that provides personalized career advice, resume analysis, skill gap assessment, and AI-driven mock interview preparation.
-</p>
-
-<p>
-✔ AI Career Advisor
-<br>
-✔ Resume Analysis & Refinement
-<br>
-✔ Skill Gap Assessment
-<br>
-✔ Mock Interview Practice
-<br>
-✔ PDF Report Generation
-</p>
-
-<p>
-👥 <b>Team Members</b>
-<br>
-• Yasmeen Azmat Ali
-<br>
-• saikrishna1605
-<br>
-• git791
-<br>
-• gagan615
-</p>
-
-<code>Django</code> <code>Python</code> <code>OpenAI API</code> <code>HTML/CSS</code> <code>JavaScript</code>
-
-</td>
-
-</tr>
-
-</table>
-
-
-
-
-# ⭐ Featured Projects
+# 💻 Additional Projects
 
 <table>
 
@@ -343,21 +518,12 @@ AI-powered career guidance platform that provides personalized career advice, re
 <h3>🤖 AI Interview Practice Bot</h3>
 
 <a href="https://github.com/yasmeenmh90-beep/ai-interview-practice-bot">
-
 <img src="https://img.shields.io/badge/View-GitHub-black?style=for-the-badge&logo=github"/>
-
 </a>
 
 <p>
-Django AI interview assistant.
-</p>
-
-<p>
-✔ Questions Bank
-<br>
-✔ Real-time scoring
-<br>
-✔ Adaptive feedback
+AI-powered interview preparation application with question practice,
+scoring and adaptive feedback.
 </p>
 
 <code>Django</code>
@@ -371,24 +537,16 @@ Django AI interview assistant.
 <h3>🌍 Climate & Weather Dashboard</h3>
 
 <a href="https://github.com/yasmeenmh90-beep/climate-weather-dashboard">
-
 <img src="https://img.shields.io/badge/View-GitHub-black?style=for-the-badge&logo=github"/>
-
 </a>
 
 <p>
-Real-time weather analytics platform.
-</p>
-
-<p>
-✔ Weather API
-<br>
-✔ AQI Tracking
-<br>
-✔ AI Recommendations
+Weather analytics dashboard with real-time weather information,
+AQI monitoring and recommendations.
 </p>
 
 <code>Django</code>
+<code>JavaScript</code>
 <code>Chart.js</code>
 
 </td>
@@ -397,11 +555,9 @@ Real-time weather analytics platform.
 
 </table>
 
-
 ---
 
 # 📱 Android Projects
-
 
 <table>
 
@@ -412,23 +568,17 @@ Real-time weather analytics platform.
 <h3>😊 Mood Journal</h3>
 
 <a href="https://github.com/yasmeenmh90-beep/MoodJournal">
-
 <img src="https://img.shields.io/badge/View-GitHub-black?style=for-the-badge&logo=github"/>
-
 </a>
 
-
 <p>
-Kotlin & Jetpack Compose mood tracking app.
+Kotlin & Jetpack Compose mood-tracking application.
 </p>
 
 <p>
-🔐 PIN Security
-<br>
-🔥 Streak Tracking
-<br>
-📊 Mood Analytics
-<br>
+🔐 PIN Security<br>
+🔥 Streak Tracking<br>
+📊 Mood Analytics<br>
 📄 PDF Reports
 </p>
 
@@ -437,29 +587,22 @@ Kotlin & Jetpack Compose mood tracking app.
 
 </td>
 
-
 <td width="50%" valign="top">
 
 <h3>🧠 Quiz Master</h3>
 
 <a href="https://github.com/yasmeenmh90-beep/QuizMaster">
-
 <img src="https://img.shields.io/badge/View-GitHub-black?style=for-the-badge&logo=github"/>
-
 </a>
-
 
 <p>
 Feature-rich Android quiz application.
 </p>
 
 <p>
-🏆 Leaderboard
-<br>
-🎯 Achievements
-<br>
-⏱ Timer System
-<br>
+🏆 Leaderboard<br>
+🎯 Achievements<br>
+⏱ Timer System<br>
 👥 Multiplayer
 </p>
 
@@ -474,8 +617,7 @@ Feature-rich Android quiz application.
 
 ---
 
-# 🏆 Achievements
-
+# 🏆 Highlights
 
 <table>
 
@@ -495,7 +637,6 @@ First Class Distinction
 
 </td>
 
-
 <td align="center">
 
 🥇
@@ -506,10 +647,23 @@ First Class Distinction
 
 <br>
 
-AI Programme
+MSc AI Cohort
 
 </td>
 
+<td align="center">
+
+🤖
+
+<br>
+
+<b>Agentic AI</b>
+
+<br>
+
+Multi-Agent Systems
+
+</td>
 
 <td align="center">
 
@@ -521,15 +675,13 @@ AI Programme
 
 <br>
 
-Tweets Processed
+Tweets Dataset
 
 </td>
-
 
 </tr>
 
 </table>
-
 
 ---
 
@@ -551,22 +703,22 @@ Tweets Processed
 
 </div>
 
-## 📫 Get in Touch
+---
+
+# 📫 Get in Touch
 
 <div align="center">
 
-💼 [LinkedIn](https://linkedin.com/in/yasmeen-azmat-a02b44340)  
-📧 yasmeenazmat.ali97@icloud.com  
-🌐 Open to remote AI/ML and Android opportunities globally
+💼 [LinkedIn](https://www.linkedin.com/in/yasmeen-azmat-a02b44340/)  
+🌐 [Portfolio](https://yasmeen-portfolio-gamma.vercel.app)  
+📧 [yasmeenazmat.ali97@icloud.com](mailto:yasmeenazmat.ali97@icloud.com)
+
+<br>
+
+### 🌍 Open to AI/ML, Applied AI & Software Engineering Opportunities
+
+### 💫 Let's Build Intelligent Systems
+
+**Agentic AI • Multi-Agent Systems • RAG • Machine Learning • LLMs • Cloud**
 
 </div>
-
-
-<div align="center">
-
-### 💫 Let's Build Something Intelligent
-
-AI • Machine Learning • Android • Cloud
-
-</div>
-
