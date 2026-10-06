@@ -611,6 +611,93 @@ End-to-end ML project comparing multiple classification algorithms.
 
 ---
 
+---
+
+# 💻 More Projects
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🤖 AI Interview Practice Bot</h3>
+
+<p>
+AI-powered interview preparation application designed to help users practice
+technical and general interview questions with automated scoring and feedback.
+</p>
+
+<p>
+✔ Interview question bank<br>
+✔ AI-assisted practice<br>
+✔ Real-time scoring<br>
+✔ Adaptive feedback
+</p>
+
+<code>Django</code>
+<code>Python</code>
+<code>REST API</code>
+<code>AI</code>
+
+<br><br>
+
+<a href="https://github.com/yasmeenmh90-beep/ai-interview-practice-bot">
+<img src="https://img.shields.io/badge/View_Project-GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+
+<td width="50%" valign="top">
+
+<h3>🌍 Climate & Weather Dashboard</h3>
+
+<p>
+Real-time climate and weather analytics dashboard providing weather information,
+air-quality monitoring and intelligent recommendations.
+</p>
+
+<p>
+✔ Real-time weather data<br>
+✔ AQI monitoring<br>
+✔ Weather analytics<br>
+✔ AI-powered recommendations
+</p>
+
+<code>Django</code>
+<code>Python</code>
+<code>Chart.js</code>
+<code>Weather API</code>
+
+<br><br>
+
+<a href="https://github.com/yasmeenmh90-beep/climate-weather-dashboard">
+<img src="https://img.shields.io/badge/View_Project-GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<div align="center">
+
+### 🔗 Explore More
+
+More experiments, coursework and development projects are available on my GitHub.
+
+<a href="https://github.com/yasmeenmh90-beep?tab=repositories">
+<img src="https://img.shields.io/badge/Explore_All_Repositories-GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
 # 📱 Android Development
 
 <table>
