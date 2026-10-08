@@ -14,7 +14,9 @@ Building production-oriented AI systems with a focus on
 📍 Sharjah, UAE &nbsp; • &nbsp; 🌍 Open to Remote Opportunities
 
 <a href="https://www.linkedin.com/in/yasmeen-azmat-a02b44340/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin"/></a>
-<a href="https://yasmeen-portfolio-gamma.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-FF7139?style=flat-square&logo=firefox"/></a>
+<a href="https://yasmeenazmat.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-FF7139?style=flat-square&logo=firefox" alt="Visit My Portfolio"/>
+</a>
 <a href="mailto:yasmeenazmat.ali97@icloud.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail"/></a>
 
 </div>
