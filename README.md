@@ -86,207 +86,46 @@
 
 # 💼 QuantumLogics Internship
 
-<div align="center">
-<a href="https://github.com/yasmeenmh90-beep/AI-Powered-Multi-Language-Code-Vulnerability-Scanner"><img src="./assets/project-polyguard.svg" width="49%" alt="PolyGuard — AI-Powered Code Vulnerability Scanner"/></a>
-<br/>
-<a href="https://github.com/yasmeenmh90-beep/AI-Powered-Multi-Language-Code-Vulnerability-Scanner"><img src="https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<br/>
-<sub>Evaluated on a hand-written suite of 271 cases: 74.54% accuracy, 77.50% precision, 68.89% recall (vulnerable class).</sub>
-</div>
+<p align="center">
+  <a href="https://github.com/yasmeenmh90-beep/AI-Powered-Multi-Language-Code-Vulnerability-Scanner"><img src="./assets/quantumlogics-polyguard.svg" width="100%" alt="PolyGuard — QuantumLogics internship team project. Fine-tuned GraphCodeBERT code vulnerability scanner. Evaluated on 271 hand-written cases: 74.54% accuracy, 77.50% precision, 68.89% recall, 72.94% F1."/></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/yasmeenmh90-beep/AI-Powered-Multi-Language-Code-Vulnerability-Scanner"><img src="https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
 # ⭐ Featured AI Projects
 
-<sub>▸ Click a project to expand</sub>
-
-<details>
-<summary><b>🛡️ PromptGuard</b> &nbsp;·&nbsp; <i>Automated security testing for LLM applications</i></summary>
-<br/>
-
-Security-testing platform for systematically evaluating LLM applications against adversarial inputs and unsafe behavior.
-
-- 🔐 Tests LLM applications against prompt-injection and adversarial scenarios
-- 🧪 Automates repeatable security evaluations instead of relying only on manual testing
-- 📊 Structures results so vulnerabilities can be inspected and compared
-- 🛡️ Demonstrates practical AI red-teaming and LLM application security
-
-`Python` `LLM Security` `Red Teaming` `OpenAI API`
-
-<a href="https://github.com/yasmeenmh90-beep/PromptGuard-Automated-Security-Testing-for-LLM-Applications"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=flat-square&logo=github"/></a>
-
-</details>
-
-<details>
-<summary><b>🔎 Scoutly</b> &nbsp;·&nbsp; <i>AI research & document intelligence assistant</i></summary>
-<br/>
-
-Research assistant for retrieving information from uploaded documents and generating grounded responses.
-
-- 📚 Converts uploaded research documents into a searchable knowledge base
-- 🔎 Retrieves relevant evidence before generating responses
-- 💬 Produces grounded answers using supporting document context
-- ⚙️ Separates the FastAPI AI service from the Django user-facing dashboard
-
-`FastAPI` `Django` `RAG` `ChromaDB` `PostgreSQL`
-
-<a href="https://github.com/yasmeenmh90-beep/scoutly"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=flat-square&logo=github"/></a>
-
-</details>
+<table>
+<tr><td width="50%"><a href="https://github.com/yasmeenmh90-beep/PromptGuard-Automated-Security-Testing-for-LLM-Applications"><img src="./assets/mini-promptguard.svg" width="100%" alt="PromptGuard — automated security testing for LLM applications"/></a></td><td width="50%"><a href="https://github.com/yasmeenmh90-beep/scoutly"><img src="./assets/mini-scoutly.svg" width="100%" alt="Scoutly — RAG research assistant"/></a></td></tr>
+</table>
 
 ---
 
 # 🎓 MSc Artificial Intelligence Projects
 
-<sub>▸ Click a project to expand</sub>
-
-<details>
-<summary><b>📡 Real-Time Twitter Sentiment Analysis</b> &nbsp;·&nbsp; <i>MSc Dissertation · 2.39M tweets</i></summary>
-<br/>
-
-End-to-end real-time sentiment analysis system combining distributed streaming, machine learning and cloud deployment.
-
-- 📊 Built and evaluated using a **2.39M-tweet dataset**
-- ⚡ Streams incoming data through **Apache Kafka and Spark Structured Streaming**
-- 🧠 Combines TF-IDF, numerical features and MiniLM embeddings for classification
-- 🌐 Delivers predictions through MongoDB and a real-time Django dashboard
-
-`Python` `Kafka` `Spark` `NLP` `MongoDB` `Django`
-
-<a href="https://github.com/yasmeenmh90-beep/Real-Time-Twitter-Sentiment-Analysis"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=flat-square&logo=github"/></a>
-
-</details>
-
-<details>
-<summary><b>📧 Spam Email Classification</b> &nbsp;·&nbsp; <i>NLP classification · 98.95% accuracy</i></summary>
-<br/>
-
-Machine-learning pipeline for identifying spam messages from textual email content.
-
-- 📝 Transforms email text into machine-readable TF-IDF representations
-- 🤖 Applies supervised ML classification to distinguish spam from legitimate email
-- 🎯 Achieved **98.95% accuracy** and **97.72% F1-score**
-- 📈 Evaluated classification performance with an **AUC of 0.980**
-
-`Python` `Scikit-learn` `NLP` `TF-IDF`
-
-<a href="https://github.com/yasmeenmh90-beep/spam-email-classification"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=flat-square&logo=github"/></a>
-
-</details>
-
-<details>
-<summary><b>⚖️ Responsible AI</b> &nbsp;·&nbsp; <i>Fairness · Interpretability · Privacy</i></summary>
-<br/>
-
-Responsible-ML project examining how predictive performance interacts with fairness, transparency and privacy.
-
-- ⚖️ Evaluates bias and applies mitigation approaches including reweighting and post-processing
-- 🔍 Uses SHAP to explain how individual features influence predictions
-- 🔐 Examines privacy-preserving ML through differential-privacy case studies
-- 📊 Connects model evaluation with practical responsible-AI considerations
-
-`Scikit-learn` `XGBoost` `SHAP` `Responsible AI`
-
-<a href="https://github.com/yasmeenmh90-beep/responsible-ai-fairness-interpretability"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=flat-square&logo=github"/></a>
-
-</details>
-
-<details>
-<summary><b>🚢 Titanic Survival Prediction</b> &nbsp;·&nbsp; <i>ML group project · 88.64% best accuracy</i></summary>
-<br/>
-
-End-to-end classification project comparing multiple ML approaches for passenger-survival prediction.
-
-- 🤖 Compared six machine-learning approaches on the same prediction task
-- 🔍 Investigated feature selection and its effect on predictive performance
-- 🌲 Random Forest produced the strongest result using selected features
-- 🎯 Achieved a best accuracy of **88.64%**
-
-`Python` `Scikit-learn` `Random Forest` `Machine Learning`
-
-<a href="https://github.com/yasmeenmh90-beep/Titanic-Survival-Prediction-ML-Group-Project"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=flat-square&logo=github"/></a>
-
-</details>
+<table>
+<tr><td width="50%"><a href="https://github.com/yasmeenmh90-beep/Real-Time-Twitter-Sentiment-Analysis"><img src="./assets/mini-twitter-sentiment.svg" width="100%" alt="Real-Time Twitter Sentiment Analysis — MSc dissertation, 2.39M tweets"/></a></td><td width="50%"><a href="https://github.com/yasmeenmh90-beep/spam-email-classification"><img src="./assets/mini-spam-classifier.svg" width="100%" alt="Spam Email Classification — 98.95% accuracy, AUC 0.980"/></a></td></tr>
+<tr><td width="50%"><a href="https://github.com/yasmeenmh90-beep/responsible-ai-fairness-interpretability"><img src="./assets/mini-responsible-ai.svg" width="100%" alt="Responsible AI — fairness, interpretability, privacy"/></a></td><td width="50%"><a href="https://github.com/yasmeenmh90-beep/Titanic-Survival-Prediction-ML-Group-Project"><img src="./assets/mini-titanic.svg" width="100%" alt="Titanic Survival Prediction — 88.64% best accuracy"/></a></td></tr>
+</table>
 
 ---
 
 # 💻 Additional Projects
 
-<sub>▸ Click a project to expand</sub>
-
-<details>
-<summary><b>🤖 AI Interview Practice Bot</b> &nbsp;·&nbsp; <i>Full-stack Django AI app</i></summary>
-<br/>
-
-AI-assisted interview preparation application for practicing questions and receiving structured feedback.
-
-- 💬 Provides interactive interview-question practice
-- 📊 Evaluates responses through automated scoring
-- 🧠 Generates adaptive feedback to support improvement
-- 🌐 Built as a full-stack Django AI application
-
-`Django` `Python` `REST API` `AI`
-
-<a href="https://github.com/yasmeenmh90-beep/ai-interview-practice-bot"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=flat-square&logo=github"/></a>
-
-</details>
-
-<details>
-<summary><b>🌍 Climate & Weather Dashboard</b> &nbsp;·&nbsp; <i>Interactive environmental dashboard</i></summary>
-<br/>
-
-Interactive dashboard for exploring weather conditions and environmental information.
-
-- 🌤️ Integrates real-time weather information through external APIs
-- 🌬️ Presents air-quality information alongside weather conditions
-- 📊 Visualizes environmental data through an interactive dashboard
-- 💡 Provides contextual recommendations based on retrieved conditions
-
-`Django` `Python` `Chart.js` `Weather API`
-
-<a href="https://github.com/yasmeenmh90-beep/climate-weather-dashboard"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=flat-square&logo=github"/></a>
-
-</details>
+<table>
+<tr><td width="50%"><a href="https://github.com/yasmeenmh90-beep/ai-interview-practice-bot"><img src="./assets/mini-interview-bot.svg" width="100%" alt="AI Interview Practice Bot"/></a></td><td width="50%"><a href="https://github.com/yasmeenmh90-beep/climate-weather-dashboard"><img src="./assets/mini-climate-dashboard.svg" width="100%" alt="Climate & Weather Dashboard"/></a></td></tr>
+</table>
 
 ---
 
 # 📱 Android Development
 
-<sub>▸ Click a project to expand</sub>
-
-<details>
-<summary><b>😊 Mood Journal</b> &nbsp;·&nbsp; <i>Kotlin · Jetpack Compose</i></summary>
-<br/>
-
-Privacy-focused Android application for recording moods and tracking emotional patterns over time.
-
-- 🔐 Protects journal data through PIN-based access
-- 🔥 Tracks journaling streaks to encourage consistent use
-- 📊 Visualizes mood patterns and historical trends
-- 📄 Generates PDF reports from recorded data
-
-`Kotlin` `Jetpack Compose` `Android`
-
-<a href="https://github.com/yasmeenmh90-beep/MoodJournal"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=flat-square&logo=github"/></a>
-
-</details>
-
-<details>
-<summary><b>🧠 Quiz Master</b> &nbsp;·&nbsp; <i>Kotlin · Jetpack Compose</i></summary>
-<br/>
-
-Feature-rich Android quiz application with competitive and progression-oriented functionality.
-
-- 🎯 Provides timed quiz sessions across interactive question flows
-- 🏆 Includes achievement and leaderboard functionality
-- 👥 Supports competitive and multiplayer-oriented features
-- 📱 Built with a modern declarative Android UI using Jetpack Compose
-
-`Kotlin` `Jetpack Compose` `Android`
-
-<a href="https://github.com/yasmeenmh90-beep/QuizMaster"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=flat-square&logo=github"/></a>
-
-</details>
+<table>
+<tr><td width="50%"><a href="https://github.com/yasmeenmh90-beep/MoodJournal"><img src="./assets/mini-mood-journal.svg" width="100%" alt="Mood Journal — Android"/></a></td><td width="50%"><a href="https://github.com/yasmeenmh90-beep/QuizMaster"><img src="./assets/mini-quiz-master.svg" width="100%" alt="Quiz Master — Android"/></a></td></tr>
+</table>
 
 ---
 
