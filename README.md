@@ -200,7 +200,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yasmeenmh90-beep&bg_color=1E1B3A&color=C4B5FD&title_color=FFFFFF&line=EC4899&point=A78BFA&area=true&area_color=7C3AED&hide_border=true&radius=16&height=300&custom_title=Contribution%20Activity" width="100%" alt="Contribution activity graph"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasmeenmh90-beep&theme=radical" width="100%" alt="Contribution activity"/>
 
 <table>
 <tr>
