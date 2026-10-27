@@ -7,17 +7,19 @@
 Building production-oriented AI systems with a focus on  
 **Multi-Agent AI • RAG • LLM Applications • Machine Learning • AI Safety**
 
-<img src="https://img.shields.io/badge/MSc_AI-First_Class-2ea44f?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Ranked-%231-gold?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Focus-Agentic_AI-8A2BE2?style=for-the-badge"/>
+<br/>
+
+<img src="https://img.shields.io/badge/MSc_AI-First_Class-2ea44f?style=for-the-badge"/>&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Ranked-%231-gold?style=for-the-badge"/>&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Focus-Agentic_AI-8A2BE2?style=for-the-badge"/>
+
+<br/>
 
 📍 Sharjah, UAE &nbsp; • &nbsp; 🌍 Open to Remote Opportunities
 
-<a href="https://www.linkedin.com/in/yasmeen-azmat-a02b44340/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin"/></a>
-<a href="https://yasmeenazmat.com/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-FF7139?style=flat-square&logo=firefox" alt="Visit My Portfolio"/>
-</a>
-<a href="mailto:yasmeenazmat.ali97@icloud.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail"/></a>
+<br/>
+
+<a href="https://www.linkedin.com/in/yasmeen-azmat-a02b44340/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/></a>&nbsp;&nbsp;&nbsp;<a href="https://yasmeenazmat.com/"><img src="https://img.shields.io/badge/Portfolio-Visit-FF7139?style=for-the-badge&logo=firefox" alt="Visit My Portfolio"/></a>&nbsp;&nbsp;&nbsp;<a href="mailto:yasmeenazmat.ali97@icloud.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/></a>
+
+<br/>
 
 </div>
 
