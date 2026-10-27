@@ -99,7 +99,18 @@
 # ⭐ Featured AI Projects
 
 <table>
-<tr><td width="50%"><a href="https://github.com/yasmeenmh90-beep/PromptGuard-Automated-Security-Testing-for-LLM-Applications"><img src="./assets/mini-promptguard.svg" width="100%" alt="PromptGuard — automated security testing for LLM applications"/></a></td><td width="50%"><a href="https://github.com/yasmeenmh90-beep/scoutly"><img src="./assets/mini-scoutly.svg" width="100%" alt="Scoutly — RAG research assistant"/></a></td></tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/yasmeenmh90-beep/PromptGuard-Automated-Security-Testing-for-LLM-Applications"><img src="./assets/project-promptguard.svg" width="100%" alt="PromptGuard"/></a>
+<br/>
+<a href="https://github.com/yasmeenmh90-beep/PromptGuard-Automated-Security-Testing-for-LLM-Applications"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=flat-square&logo=github&logoColor=white"/></a>
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/yasmeenmh90-beep/scoutly"><img src="./assets/project-scoutly.svg" width="100%" alt="Scoutly"/></a>
+<br/>
+<a href="https://github.com/yasmeenmh90-beep/scoutly"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=flat-square&logo=github&logoColor=white"/></a>
+</td>
+</tr>
 </table>
 
 ---
@@ -107,8 +118,30 @@
 # 🎓 MSc Artificial Intelligence Projects
 
 <table>
-<tr><td width="50%"><a href="https://github.com/yasmeenmh90-beep/Real-Time-Twitter-Sentiment-Analysis"><img src="./assets/mini-twitter-sentiment.svg" width="100%" alt="Real-Time Twitter Sentiment Analysis — MSc dissertation, 2.39M tweets"/></a></td><td width="50%"><a href="https://github.com/yasmeenmh90-beep/spam-email-classification"><img src="./assets/mini-spam-classifier.svg" width="100%" alt="Spam Email Classification — 98.95% accuracy, AUC 0.980"/></a></td></tr>
-<tr><td width="50%"><a href="https://github.com/yasmeenmh90-beep/responsible-ai-fairness-interpretability"><img src="./assets/mini-responsible-ai.svg" width="100%" alt="Responsible AI — fairness, interpretability, privacy"/></a></td><td width="50%"><a href="https://github.com/yasmeenmh90-beep/Titanic-Survival-Prediction-ML-Group-Project"><img src="./assets/mini-titanic.svg" width="100%" alt="Titanic Survival Prediction — 88.64% best accuracy"/></a></td></tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/yasmeenmh90-beep/Real-Time-Twitter-Sentiment-Analysis"><img src="./assets/project-twitter-sentiment.svg" width="100%" alt="Twitter Sentiment"/></a>
+<br/>
+<a href="https://github.com/yasmeenmh90-beep/Real-Time-Twitter-Sentiment-Analysis"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=flat-square&logo=github&logoColor=white"/></a>
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/yasmeenmh90-beep/spam-email-classification"><img src="./assets/project-spam-classifier.svg" width="100%" alt="Spam Classifier"/></a>
+<br/>
+<a href="https://github.com/yasmeenmh90-beep/spam-email-classification"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=flat-square&logo=github&logoColor=white"/></a>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/yasmeenmh90-beep/responsible-ai-fairness-interpretability"><img src="./assets/project-responsible-ai.svg" width="100%" alt="Responsible AI"/></a>
+<br/>
+<a href="https://github.com/yasmeenmh90-beep/responsible-ai-fairness-interpretability"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=flat-square&logo=github&logoColor=white"/></a>
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/yasmeenmh90-beep/Titanic-Survival-Prediction-ML-Group-Project"><img src="./assets/project-titanic.svg" width="100%" alt="Titanic Survival"/></a>
+<br/>
+<a href="https://github.com/yasmeenmh90-beep/Titanic-Survival-Prediction-ML-Group-Project"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=flat-square&logo=github&logoColor=white"/></a>
+</td>
+</tr>
 </table>
 
 ---
@@ -116,7 +149,18 @@
 # 💻 Additional Projects
 
 <table>
-<tr><td width="50%"><a href="https://github.com/yasmeenmh90-beep/ai-interview-practice-bot"><img src="./assets/mini-interview-bot.svg" width="100%" alt="AI Interview Practice Bot"/></a></td><td width="50%"><a href="https://github.com/yasmeenmh90-beep/climate-weather-dashboard"><img src="./assets/mini-climate-dashboard.svg" width="100%" alt="Climate & Weather Dashboard"/></a></td></tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/yasmeenmh90-beep/ai-interview-practice-bot"><img src="./assets/project-interview-bot.svg" width="100%" alt="AI Interview Bot"/></a>
+<br/>
+<a href="https://github.com/yasmeenmh90-beep/ai-interview-practice-bot"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=flat-square&logo=github&logoColor=white"/></a>
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/yasmeenmh90-beep/climate-weather-dashboard"><img src="./assets/project-climate-dashboard.svg" width="100%" alt="Climate Dashboard"/></a>
+<br/>
+<a href="https://github.com/yasmeenmh90-beep/climate-weather-dashboard"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=flat-square&logo=github&logoColor=white"/></a>
+</td>
+</tr>
 </table>
 
 ---
@@ -124,7 +168,18 @@
 # 📱 Android Development
 
 <table>
-<tr><td width="50%"><a href="https://github.com/yasmeenmh90-beep/MoodJournal"><img src="./assets/mini-mood-journal.svg" width="100%" alt="Mood Journal — Android"/></a></td><td width="50%"><a href="https://github.com/yasmeenmh90-beep/QuizMaster"><img src="./assets/mini-quiz-master.svg" width="100%" alt="Quiz Master — Android"/></a></td></tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/yasmeenmh90-beep/MoodJournal"><img src="./assets/project-mood-journal.svg" width="100%" alt="Mood Journal"/></a>
+<br/>
+<a href="https://github.com/yasmeenmh90-beep/MoodJournal"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=flat-square&logo=github&logoColor=white"/></a>
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/yasmeenmh90-beep/QuizMaster"><img src="./assets/project-quiz-master.svg" width="100%" alt="Quiz Master"/></a>
+<br/>
+<a href="https://github.com/yasmeenmh90-beep/QuizMaster"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=flat-square&logo=github&logoColor=white"/></a>
+</td>
+</tr>
 </table>
 
 ---
