@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 380" width="960" height="380" role="img" aria-label="What I work on">
+<defs>
+  <linearGradient id="grad" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#4F46E5"/><stop offset="50%" stop-color="#7C3AED"/><stop offset="100%" stop-color="#EC4899"/>
+  </linearGradient>
+  <linearGradient id="cardbg" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#1E1B3A"/><stop offset="100%" stop-color="#111827"/>
+  </linearGradient>
+</defs>
+<style>
+  .card { animation: fadeUp .7s ease-out both; }
+  .bg { fill: url(#cardbg); }
+  .border { fill: none; stroke: url(#grad); stroke-width: 2; stroke-dasharray: 740; stroke-dashoffset: 0; animation: draw 1.6s ease-out both, glow 3s ease-in-out 1.6s infinite; }
+  .icon { font-size: 34px; text-anchor: middle; animation: bob 2.8s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+  .title { font: 700 19px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; fill: #F3F4F6; text-anchor: middle; }
+  .desc { font: 400 13.5px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; fill: #A5B4FC; text-anchor: middle; }
+  .heading { font: 700 15px 'Fira Code', Consolas, monospace; fill: #A78BFA; letter-spacing: 3px; text-anchor: middle; animation: fadeUp .6s ease-out both; }
+  @keyframes fadeUp { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: translateY(0); } }
+  @keyframes draw { from { stroke-dashoffset: 740; } to { stroke-dashoffset: 0; } }
+  @keyframes glow { 0%,100% { stroke-opacity: .55; } 50% { stroke-opacity: 1; } }
+  @keyframes bob { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-5px); } }
+</style>
+<text x="480.0" y="28" class="heading">AREAS OF FOCUS</text>
+<g class="card" style="animation-delay:0.00s">
+  <rect x="24" y="50" width="216" height="150" rx="14" class="bg"/>
+  <rect x="24" y="50" width="216" height="150" rx="14" class="border" style="animation-delay:0.00s"/>
+  <text x="132.0" y="102" class="icon" style="animation-delay:0.0s">🤖</text>
+  <text x="132.0" y="142" class="title">Agentic AI</text>
+  <text x="132.0" y="168" class="desc">Multi-agent systems</text>
+</g>
+<g class="card" style="animation-delay:0.12s">
+  <rect x="256" y="50" width="216" height="150" rx="14" class="bg"/>
+  <rect x="256" y="50" width="216" height="150" rx="14" class="border" style="animation-delay:0.12s"/>
+  <text x="364.0" y="102" class="icon" style="animation-delay:0.3s">📚</text>
+  <text x="364.0" y="142" class="title">RAG</text>
+  <text x="364.0" y="168" class="desc">Grounded LLM apps</text>
+</g>
+<g class="card" style="animation-delay:0.24s">
+  <rect x="488" y="50" width="216" height="150" rx="14" class="bg"/>
+  <rect x="488" y="50" width="216" height="150" rx="14" class="border" style="animation-delay:0.24s"/>
+  <text x="596.0" y="102" class="icon" style="animation-delay:0.6s">🧠</text>
+  <text x="596.0" y="142" class="title">ML &amp; NLP</text>
+  <text x="596.0" y="168" class="desc">Transformers</text>
+</g>
+<g class="card" style="animation-delay:0.36s">
+  <rect x="720" y="50" width="216" height="150" rx="14" class="bg"/>
+  <rect x="720" y="50" width="216" height="150" rx="14" class="border" style="animation-delay:0.36s"/>
+  <text x="828.0" y="102" class="icon" style="animation-delay:0.9s">🛡️</text>
+  <text x="828.0" y="142" class="title">AI Safety</text>
+  <text x="828.0" y="168" class="desc">Guardrails &amp; LLM security</text>
+</g>
+<g class="card" style="animation-delay:0.48s">
+  <rect x="24" y="216" width="216" height="150" rx="14" class="bg"/>
+  <rect x="24" y="216" width="216" height="150" rx="14" class="border" style="animation-delay:0.48s"/>
+  <text x="132.0" y="268" class="icon" style="animation-delay:1.2s">👥</text>
+  <text x="132.0" y="308" class="title">Human-in-the-Loop</text>
+  <text x="132.0" y="334" class="desc">Approval workflows</text>
+</g>
+<g class="card" style="animation-delay:0.60s">
+  <rect x="256" y="216" width="216" height="150" rx="14" class="bg"/>
+  <rect x="256" y="216" width="216" height="150" rx="14" class="border" style="animation-delay:0.60s"/>
+  <text x="364.0" y="268" class="icon" style="animation-delay:1.5s">⚡</text>
+  <text x="364.0" y="308" class="title">Real-Time ML</text>
+  <text x="364.0" y="334" class="desc">Data pipelines</text>
+</g>
+<g class="card" style="animation-delay:0.72s">
+  <rect x="488" y="216" width="216" height="150" rx="14" class="bg"/>
+  <rect x="488" y="216" width="216" height="150" rx="14" class="border" style="animation-delay:0.72s"/>
+  <text x="596.0" y="268" class="icon" style="animation-delay:1.8s">☁️</text>
+  <text x="596.0" y="308" class="title">Full-Stack AI</text>
+  <text x="596.0" y="334" class="desc">APIs &amp; deployments</text>
+</g>
+<g class="card" style="animation-delay:0.84s">
+  <rect x="720" y="216" width="216" height="150" rx="14" class="bg"/>
+  <rect x="720" y="216" width="216" height="150" rx="14" class="border" style="animation-delay:0.84s"/>
+  <text x="828.0" y="268" class="icon" style="animation-delay:2.1s">📊</text>
+  <text x="828.0" y="308" class="title">Dashboards</text>
+  <text x="828.0" y="334" class="desc">Monitoring &amp; insights</text>
+</g>
+</svg>
