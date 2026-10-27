@@ -47,153 +47,62 @@
 
 # 🏆 Completed Hackathon Projects
 
-> Five completed and submitted hackathon projects spanning **agentic AI, RAG, financial automation, civic technology and career intelligence**.
+> Five completed and submitted hackathon projects spanning **agentic AI, RAG, financial automation, civic technology and career intelligence**. Click any card to open the code.
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 🔬 Multi-Agent RAG Research Assistant
-**👤 Solo Project**
-
-Multi-agent research system designed to generate evidence-grounded answers and reduce unsupported LLM responses.
-
-- 🧠 Orchestrates specialized agents for retrieval, synthesis, verification and refinement
-- 🔎 Combines document retrieval with source-grounded answer generation
-- 📚 Integrates academic workflows using arXiv and Semantic Scholar
-- 📄 Supports document ingestion, cited Q&A and automated literature reviews
-
-`LangGraph` `LangChain` `FastAPI` `Django` `ChromaDB`
-
-<a href="https://github.com/yasmeenmh90-beep/multi-agent-rag-research-assistant"><img src="https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github"/></a>
-<a href="https://rag-dashboard-mpr4.onrender.com"><img src="https://img.shields.io/badge/Live-Demo-00C7B7?style=flat-square&logo=render"/></a>
-<a href="https://www.youtube.com/watch?v=jM5vrCund78&t=309s"><img src="https://img.shields.io/badge/YouTube-Demo-FF0000?style=flat-square&logo=youtube"/></a>
-
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/yasmeenmh90-beep/multi-agent-rag-research-assistant"><img src="./assets/project-multi-agent-rag.svg" width="100%" alt="multi-agent-rag"/></a>
+<br/>
+<a href="https://github.com/yasmeenmh90-beep/multi-agent-rag-research-assistant"><img src="https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://rag-dashboard-mpr4.onrender.com"><img src="https://img.shields.io/badge/Live-Demo-00C7B7?style=flat-square&logo=render&logoColor=white"/></a> <a href="https://www.youtube.com/watch?v=jM5vrCund78&t=309s"><img src="https://img.shields.io/badge/YouTube-Demo-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
 </td>
-<td width="50%" valign="top">
-
-### 🧾 InvoiceGuard
-**👥 Team Project**
-
-Human-gated multi-agent invoice processing platform for detecting financial anomalies while keeping final decisions with finance teams.
-
-- 🔍 Detects duplicate invoices, amount anomalies and vendor/PO inconsistencies
-- 🤖 Coordinates agents for extraction, validation, context retrieval and risk assessment
-- ⚠️ Produces explainable risk signals for finance reviewers
-- 👤 Enforces human approval gates with review queues and traceable decision history
-
-`FastAPI` `React` `TypeScript` `SQLAlchemy` `PostgreSQL`
-
-<a href="https://github.com/yasmeenmh90-beep/invoiceguard"><img src="https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github"/></a>
-<a href="https://invoiceguard-murex.vercel.app"><img src="https://img.shields.io/badge/Live-Demo-000000?style=flat-square&logo=vercel"/></a>
-<a href="https://www.youtube.com/watch?v=PPiI_tBXf6A&t=3s"><img src="https://img.shields.io/badge/YouTube-Demo-FF0000?style=flat-square&logo=youtube"/></a>
-
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/yasmeenmh90-beep/invoiceguard"><img src="./assets/project-invoiceguard.svg" width="100%" alt="invoiceguard"/></a>
+<br/>
+<a href="https://github.com/yasmeenmh90-beep/invoiceguard"><img src="https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://invoiceguard-murex.vercel.app"><img src="https://img.shields.io/badge/Live-Demo-000000?style=flat-square&logo=vercel&logoColor=white"/></a> <a href="https://www.youtube.com/watch?v=PPiI_tBXf6A&t=3s"><img src="https://img.shields.io/badge/YouTube-Demo-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
 </td>
 </tr>
-
 <tr>
-<td width="50%" valign="top">
-
-### 📑 Clerkly
-**👥 Team Project**
-
-Agentic paperwork automation system built around verified external actions, controlled state transitions and human oversight.
-
-- 🤖 Automates multi-step paperwork workflows through agentic orchestration
-- 👤 Requires human approval before sensitive workflow transitions
-- 🔐 Verifies Stripe and DocuSign webhook events before state changes
-- 🧪 Uses automated backend testing to validate workflow behavior
-
-`FastAPI` `Python` `SQLAlchemy` `Agents` `HITL`
-
-<a href="https://github.com/yasmeenmh90-beep/Clerkly"><img src="https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github"/></a>
-<a href="https://clerkly-mu.vercel.app"><img src="https://img.shields.io/badge/Live-Demo-000000?style=flat-square&logo=vercel"/></a>
-<a href="https://www.youtube.com/watch?v=Qm3CAmAwrUo&t=25s"><img src="https://img.shields.io/badge/YouTube-Demo-FF0000?style=flat-square&logo=youtube"/></a>
-
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/yasmeenmh90-beep/Clerkly"><img src="./assets/project-clerkly.svg" width="100%" alt="clerkly"/></a>
+<br/>
+<a href="https://github.com/yasmeenmh90-beep/Clerkly"><img src="https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://clerkly-mu.vercel.app"><img src="https://img.shields.io/badge/Live-Demo-000000?style=flat-square&logo=vercel&logoColor=white"/></a> <a href="https://www.youtube.com/watch?v=Qm3CAmAwrUo&t=25s"><img src="https://img.shields.io/badge/YouTube-Demo-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
 </td>
-<td width="50%" valign="top">
-
-### 🏙️ CivicRelay
-**👥 Team Project**
-
-Agentic civic-issue platform that transforms citizen reports into structured and trackable resolution workflows.
-
-- 🧠 Coordinates Triage, Research, Action, Tracking and Approval agents
-- 🌐 Accepts reports through web, WhatsApp, voice and IoT telemetry
-- 👤 Introduces human approval before consequential actions are executed
-- 🧪 Validated through **116/116 passing automated tests**
-
-`FastAPI` `Python` `Multi-Agent` `APIs` `HITL`
-
-<a href="https://github.com/yasmeenmh90-beep/civicrelay"><img src="https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github"/></a>
-<a href="https://civic-relay.vercel.app"><img src="https://img.shields.io/badge/Live-Demo-000000?style=flat-square&logo=vercel"/></a>
-<a href="https://www.youtube.com/watch?v=IdlXDlYbDv4"><img src="https://img.shields.io/badge/YouTube-Demo-FF0000?style=flat-square&logo=youtube"/></a>
-
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/yasmeenmh90-beep/civicrelay"><img src="./assets/project-civicrelay.svg" width="100%" alt="civicrelay"/></a>
+<br/>
+<a href="https://github.com/yasmeenmh90-beep/civicrelay"><img src="https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://civic-relay.vercel.app"><img src="https://img.shields.io/badge/Live-Demo-000000?style=flat-square&logo=vercel&logoColor=white"/></a> <a href="https://www.youtube.com/watch?v=IdlXDlYbDv4"><img src="https://img.shields.io/badge/YouTube-Demo-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
 </td>
 </tr>
 </table>
 
-<table>
-<tr>
-<td width="100%" valign="top">
-
-### 🎯 AI Career Guidance Assistant
-**👥 Team Project**
-
-AI-powered career intelligence platform helping students and professionals connect their skills, interests and education with suitable career paths.
-
-- 🧭 Generates personalized career recommendations from user profiles and interests
-- 📄 Analyzes resumes and identifies areas for improvement
-- 📊 Identifies skill gaps between current capabilities and target career paths
-- 🎤 Provides AI-assisted mock interviews and downloadable career reports
-
-`Django` `Python` `OpenAI API` `JavaScript` `HTML/CSS`
-
-<a href="https://github.com/yasmeenmh90-beep/AI-Career-Guidance-Assistant"><img src="https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github"/></a>
-<a href="https://ai-career-guidance-assistant.onrender.com/login/?next=/"><img src="https://img.shields.io/badge/Live-Demo-00C7B7?style=flat-square&logo=render"/></a>
-<a href="https://www.youtube.com/watch?v=AOR4rf9_e1Y"><img src="https://img.shields.io/badge/YouTube-Demo-FF0000?style=flat-square&logo=youtube"/></a>
-
-</td>
-</tr>
-</table>
+<div align="center">
+<a href="https://github.com/yasmeenmh90-beep/AI-Career-Guidance-Assistant"><img src="./assets/project-career-guidance.svg" width="49%" alt="AI Career Guidance Assistant"/></a>
+<br/>
+<a href="https://github.com/yasmeenmh90-beep/AI-Career-Guidance-Assistant"><img src="https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://ai-career-guidance-assistant.onrender.com/login/?next=/"><img src="https://img.shields.io/badge/Live-Demo-00C7B7?style=flat-square&logo=render&logoColor=white"/></a> <a href="https://www.youtube.com/watch?v=AOR4rf9_e1Y"><img src="https://img.shields.io/badge/YouTube-Demo-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
+</div>
 
 ---
 
 # 💼 QuantumLogics Internship
 
-<table>
-<tr>
-<td width="100%" valign="top">
-
-### 🛡️ PolyGuard — AI-Powered Code Vulnerability Scanner
-**👥 Team Project**
-
-Full-stack code review dashboard that classifies submitted code as **safe** or **vulnerable** using a fine-tuned GraphCodeBERT model, with optional Gemini explanations and personal scan history.
-
-- 🧠 Fine-tuned **GraphCodeBERT** classifier with 512-token chunking and validation-tuned aggregation and thresholds
-- 💬 Optional **Google Gemini** explanations covering concerns and suggested remediation (explains only, never changes the verdict)
-- 📊 Dashboard with scan activity, result breakdowns, searchable history, CSV export and PDF reports
-- 🔐 JWT authentication with PostgreSQL-backed accounts and scan storage
-- 🧪 Evaluated on a hand-written suite of **271 cases**: **74.54% accuracy**, **77.50% precision**, **68.89% recall** (vulnerable class)
-
-`PyTorch` `GraphCodeBERT` `Hugging Face` `Flask` `React` `TypeScript` `PostgreSQL` `Gemini API`
-
-<a href="https://github.com/yasmeenmh90-beep/AI-Powered-Multi-Language-Code-Vulnerability-Scanner"><img src="https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github"/></a>
-
-</td>
-</tr>
-</table>
+<div align="center">
+<a href="https://github.com/yasmeenmh90-beep/AI-Powered-Multi-Language-Code-Vulnerability-Scanner"><img src="./assets/project-polyguard.svg" width="49%" alt="PolyGuard — AI-Powered Code Vulnerability Scanner"/></a>
+<br/>
+<a href="https://github.com/yasmeenmh90-beep/AI-Powered-Multi-Language-Code-Vulnerability-Scanner"><img src="https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<br/>
+<sub>Evaluated on a hand-written suite of 271 cases: 74.54% accuracy, 77.50% precision, 68.89% recall (vulnerable class).</sub>
+</div>
 
 ---
 
 # ⭐ Featured AI Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<sub>▸ Click a project to expand</sub>
 
-### 🛡️ PromptGuard
-**Automated Security Testing for LLM Applications**
+<details>
+<summary><b>🛡️ PromptGuard</b> &nbsp;·&nbsp; <i>Automated security testing for LLM applications</i></summary>
+<br/>
 
 Security-testing platform for systematically evaluating LLM applications against adversarial inputs and unsafe behavior.
 
@@ -206,11 +115,11 @@ Security-testing platform for systematically evaluating LLM applications against
 
 <a href="https://github.com/yasmeenmh90-beep/PromptGuard-Automated-Security-Testing-for-LLM-Applications"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=flat-square&logo=github"/></a>
 
-</td>
-<td width="50%" valign="top">
+</details>
 
-### 🔎 Scoutly
-**AI Research & Document Intelligence Assistant**
+<details>
+<summary><b>🔎 Scoutly</b> &nbsp;·&nbsp; <i>AI research & document intelligence assistant</i></summary>
+<br/>
 
 Research assistant for retrieving information from uploaded documents and generating grounded responses.
 
@@ -223,20 +132,17 @@ Research assistant for retrieving information from uploaded documents and genera
 
 <a href="https://github.com/yasmeenmh90-beep/scoutly"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=flat-square&logo=github"/></a>
 
-</td>
-</tr>
-</table>
+</details>
 
 ---
 
 # 🎓 MSc Artificial Intelligence Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<sub>▸ Click a project to expand</sub>
 
-### 📡 Real-Time Twitter Sentiment Analysis
-**MSc Dissertation**
+<details>
+<summary><b>📡 Real-Time Twitter Sentiment Analysis</b> &nbsp;·&nbsp; <i>MSc Dissertation · 2.39M tweets</i></summary>
+<br/>
 
 End-to-end real-time sentiment analysis system combining distributed streaming, machine learning and cloud deployment.
 
@@ -249,11 +155,11 @@ End-to-end real-time sentiment analysis system combining distributed streaming, 
 
 <a href="https://github.com/yasmeenmh90-beep/Real-Time-Twitter-Sentiment-Analysis"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=flat-square&logo=github"/></a>
 
-</td>
-<td width="50%" valign="top">
+</details>
 
-### 📧 Spam Email Classification
-**NLP Classification Project**
+<details>
+<summary><b>📧 Spam Email Classification</b> &nbsp;·&nbsp; <i>NLP classification · 98.95% accuracy</i></summary>
+<br/>
 
 Machine-learning pipeline for identifying spam messages from textual email content.
 
@@ -266,14 +172,11 @@ Machine-learning pipeline for identifying spam messages from textual email conte
 
 <a href="https://github.com/yasmeenmh90-beep/spam-email-classification"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=flat-square&logo=github"/></a>
 
-</td>
-</tr>
+</details>
 
-<tr>
-<td width="50%" valign="top">
-
-### ⚖️ Responsible AI
-**Fairness • Interpretability • Privacy**
+<details>
+<summary><b>⚖️ Responsible AI</b> &nbsp;·&nbsp; <i>Fairness · Interpretability · Privacy</i></summary>
+<br/>
 
 Responsible-ML project examining how predictive performance interacts with fairness, transparency and privacy.
 
@@ -286,11 +189,11 @@ Responsible-ML project examining how predictive performance interacts with fairn
 
 <a href="https://github.com/yasmeenmh90-beep/responsible-ai-fairness-interpretability"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=flat-square&logo=github"/></a>
 
-</td>
-<td width="50%" valign="top">
+</details>
 
-### 🚢 Titanic Survival Prediction
-**Machine Learning Group Project**
+<details>
+<summary><b>🚢 Titanic Survival Prediction</b> &nbsp;·&nbsp; <i>ML group project · 88.64% best accuracy</i></summary>
+<br/>
 
 End-to-end classification project comparing multiple ML approaches for passenger-survival prediction.
 
@@ -303,19 +206,17 @@ End-to-end classification project comparing multiple ML approaches for passenger
 
 <a href="https://github.com/yasmeenmh90-beep/Titanic-Survival-Prediction-ML-Group-Project"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=flat-square&logo=github"/></a>
 
-</td>
-</tr>
-</table>
+</details>
 
 ---
 
 # 💻 Additional Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<sub>▸ Click a project to expand</sub>
 
-### 🤖 AI Interview Practice Bot
+<details>
+<summary><b>🤖 AI Interview Practice Bot</b> &nbsp;·&nbsp; <i>Full-stack Django AI app</i></summary>
+<br/>
 
 AI-assisted interview preparation application for practicing questions and receiving structured feedback.
 
@@ -328,10 +229,11 @@ AI-assisted interview preparation application for practicing questions and recei
 
 <a href="https://github.com/yasmeenmh90-beep/ai-interview-practice-bot"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=flat-square&logo=github"/></a>
 
-</td>
-<td width="50%" valign="top">
+</details>
 
-### 🌍 Climate & Weather Dashboard
+<details>
+<summary><b>🌍 Climate & Weather Dashboard</b> &nbsp;·&nbsp; <i>Interactive environmental dashboard</i></summary>
+<br/>
 
 Interactive dashboard for exploring weather conditions and environmental information.
 
@@ -344,19 +246,17 @@ Interactive dashboard for exploring weather conditions and environmental informa
 
 <a href="https://github.com/yasmeenmh90-beep/climate-weather-dashboard"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=flat-square&logo=github"/></a>
 
-</td>
-</tr>
-</table>
+</details>
 
 ---
 
 # 📱 Android Development
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<sub>▸ Click a project to expand</sub>
 
-### 😊 Mood Journal
+<details>
+<summary><b>😊 Mood Journal</b> &nbsp;·&nbsp; <i>Kotlin · Jetpack Compose</i></summary>
+<br/>
 
 Privacy-focused Android application for recording moods and tracking emotional patterns over time.
 
@@ -369,10 +269,11 @@ Privacy-focused Android application for recording moods and tracking emotional p
 
 <a href="https://github.com/yasmeenmh90-beep/MoodJournal"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=flat-square&logo=github"/></a>
 
-</td>
-<td width="50%" valign="top">
+</details>
 
-### 🧠 Quiz Master
+<details>
+<summary><b>🧠 Quiz Master</b> &nbsp;·&nbsp; <i>Kotlin · Jetpack Compose</i></summary>
+<br/>
 
 Feature-rich Android quiz application with competitive and progression-oriented functionality.
 
@@ -385,22 +286,15 @@ Feature-rich Android quiz application with competitive and progression-oriented 
 
 <a href="https://github.com/yasmeenmh90-beep/QuizMaster"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=flat-square&logo=github"/></a>
 
-</td>
-</tr>
-</table>
+</details>
 
 ---
 
 # 🏅 Highlights
 
-<div align="center">
-
-| 🎓 Education | 🥇 Achievement | 🤖 Specialization | 🚀 Engineering |
-|:---:|:---:|:---:|:---:|
-| **MSc Artificial Intelligence** | **Ranked #1** | **Agentic AI** | **Production AI Systems** |
-| First Class Distinction | MSc AI Cohort | Multi-Agent + RAG | Cloud + APIs + ML |
-
-</div>
+<p align="center">
+  <img src="./assets/highlights.svg" width="100%" alt="5 hackathon projects · 116/116 CivicRelay tests passing · 98.95% spam classifier accuracy · 2.39M-tweet MSc dataset · #1 in MSc AI cohort"/>
+</p>
 
 ---
 
