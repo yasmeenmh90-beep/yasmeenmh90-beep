@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:EC4899&height=200&section=header&text=Yasmeen%20Azmat%20Ali&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=AI%2FML%20Engineer%20%E2%80%A2%20Applied%20AI%20Developer%20%E2%80%A2%20Agentic%20Systems&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
 
+<img src="./assets/profile.png" width="170" alt="Yasmeen Azmat Ali"/>
+
 <a href="https://github.com/yasmeenmh90-beep"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=620&lines=Building+Multi-Agent+AI+Systems;Retrieval-Augmented+Generation+(RAG);LLM+Applications+%26+AI+Safety;Machine+Learning+%26+NLP;Human-in-the-Loop+Workflows" alt="Typing SVG"/></a>
 
 <p>
@@ -16,7 +18,8 @@
   <a href="https://www.linkedin.com/in/yasmeen-azmat-a02b44340/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
   <a href="https://yasmeenazmat.com/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>&nbsp;
   <a href="mailto:yasmeenazmat.ali97@icloud.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
-  <a href="https://github.com/yasmeenmh90-beep"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/yasmeenmh90-beep"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
+  <a href="https://www.youtube.com/@YasmeenAzmat-v6y"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 
 </div>
@@ -231,7 +234,8 @@
 <a href="https://www.linkedin.com/in/yasmeen-azmat-a02b44340/"><img src="https://img.shields.io/badge/LinkedIn-Yasmeen_Azmat_Ali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
 <a href="mailto:yasmeenazmat.ali97@icloud.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
 <a href="https://yasmeen-portfolio-gamma.vercel.app"><img src="https://img.shields.io/badge/Portfolio-View_My_Work-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>&nbsp;
-<a href="https://github.com/yasmeenmh90-beep"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/yasmeenmh90-beep"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
+<a href="https://www.youtube.com/@YasmeenAzmat-v6y"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 
 <br/><br/>
 
