@@ -25,32 +25,9 @@
 
 ## 👩‍💻 About Me
 
-<table>
-<tr>
-<td width="55%" valign="top">
-
-I'm an **AI/ML Engineer and Applied AI Developer** with an MSc in Artificial Intelligence, graduating with **First Class Distinction** and ranking **#1 in my cohort**.
-
-I build AI systems that move beyond model prototypes into **complete applications**: multi-agent architectures, retrieval-augmented generation, human-in-the-loop workflows, LLM security, real-time ML pipelines, APIs, dashboards and cloud deployments.
-
-</td>
-<td width="45%" valign="top">
-
-```python
-class YasmeenAzmatAli:
-    role      = "AI/ML Engineer"
-    education = "MSc AI · First Class · #1"
-    location  = "Sharjah, UAE · Remote"
-    focus     = ["Agentic AI", "RAG",
-                 "LLM Security", "HITL"]
-    stack     = ["Python", "PyTorch",
-                 "FastAPI", "LangGraph",
-                 "React", "PostgreSQL"]
-```
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="./assets/about-me.svg" width="100%" alt="I'm an AI/ML Engineer and Applied AI Developer with an MSc in Artificial Intelligence (First Class Distinction, ranked #1 in my cohort). I build complete AI applications: multi-agent architectures, RAG, human-in-the-loop workflows, LLM security, real-time ML pipelines, APIs, dashboards and cloud deployments."/>
+</p>
 
 ### 🎯 What I Work On
 
