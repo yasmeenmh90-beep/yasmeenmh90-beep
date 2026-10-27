@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 330" width="960" height="330" role="img" aria-label="Let's connect — open to AI/ML Engineering, Applied AI, Agentic AI, LLM Applications and Software Engineering roles">
+<defs>
+<linearGradient id="grad" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#4F46E5"/><stop offset="50%" stop-color="#7C3AED"/><stop offset="100%" stop-color="#EC4899"/></linearGradient>
+<linearGradient id="tgrad" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#FFFFFF"/><stop offset="60%" stop-color="#E9D5FF"/><stop offset="100%" stop-color="#F9A8D4"/></linearGradient>
+<linearGradient id="panel" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#1E1B3A"/><stop offset="100%" stop-color="#111827"/></linearGradient>
+<radialGradient id="blob" cx="0" cy="0" r="1"><stop offset="0%" stop-color="#EC4899" stop-opacity=".28"/><stop offset="100%" stop-color="#EC4899" stop-opacity="0"/></radialGradient>
+<radialGradient id="blob2" cx="0" cy="0" r="1"><stop offset="0%" stop-color="#4F46E5" stop-opacity=".3"/><stop offset="100%" stop-color="#4F46E5" stop-opacity="0"/></radialGradient>
+<clipPath id="clip"><rect x="4" y="4" width="952" height="322" rx="22"/></clipPath>
+<clipPath id="type"><rect x="40" y="208" width="640" height="40"><animate attributeName="width" values="0;0;640;640" keyTimes="0;.28;.72;1" dur="4s" fill="freeze"/></rect></clipPath>
+</defs>
+<style>
+ .frame { fill:none; stroke:url(#grad); stroke-width:2; stroke-dasharray:3000; animation: draw 2.2s ease-out both, glow 3.2s ease-in-out 2.2s infinite; }
+ .k { font: 700 12px 'Fira Code', Consolas, monospace; fill:#C4B5FD; letter-spacing:3px; }
+ .h { font: 800 40px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; fill:url(#tgrad); }
+ .st { font: 600 13px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; fill:#CBD5E1; }
+ .role { font: 700 14px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; text-anchor:middle; }
+ .tag { font: 600 17px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; fill:#E5E7EB; }
+ .kw { font: 600 11.5px 'Fira Code', Consolas, monospace; fill:#CBD5E1; text-anchor:middle; }
+ .fu { animation: fadeUp .6s ease-out both; }
+ .pop { animation: pop .5s cubic-bezier(.34,1.56,.64,1) both; transform-box: fill-box; transform-origin:center; }
+ .live { animation: blink 1.6s ease-in-out infinite; }
+ .ring { fill:none; stroke:#EC4899; stroke-width:1.5; transform-box: fill-box; transform-origin:center; animation: ripple 3s ease-out infinite; }
+ .orbit { transform-origin:840px 110px; animation: spin 14s linear infinite; }
+ .orbit2 { transform-origin:840px 110px; animation: spin 22s linear infinite reverse; }
+ .float { animation: bob 3.2s ease-in-out infinite; }
+ .b1 { animation: drift 8s ease-in-out infinite alternate; }
+ .b2 { animation: drift 10s ease-in-out infinite alternate-reverse; }
+ @keyframes draw { from { stroke-dashoffset:3000; } to { stroke-dashoffset:0; } }
+ @keyframes glow { 0%,100% { stroke-opacity:.55; } 50% { stroke-opacity:1; } }
+ @keyframes fadeUp { from { opacity:0; transform:translateY(10px); } to { opacity:1; transform:translateY(0); } }
+ @keyframes pop { from { opacity:0; transform:scale(.5); } to { opacity:1; transform:scale(1); } }
+ @keyframes blink { 0%,100% { opacity:1; } 50% { opacity:.25; } }
+ @keyframes ripple { from { transform:scale(.6); opacity:.9; } to { transform:scale(1.8); opacity:0; } }
+ @keyframes spin { to { transform:rotate(360deg); } }
+ @keyframes bob { 0%,100% { transform:translateY(0); } 50% { transform:translateY(-6px); } }
+ @keyframes drift { from { transform:translate(0,0); } to { transform:translate(50px,30px); } }
+</style>
+<g clip-path="url(#clip)">
+ <rect x="4" y="4" width="952" height="322" fill="url(#panel)"/>
+ <circle cx="880" cy="40" r="260" fill="url(#blob)" class="b1"/>
+ <circle cx="80" cy="330" r="240" fill="url(#blob2)" class="b2"/>
+</g>
+<rect x="4" y="4" width="952" height="322" rx="22" class="frame"/>
+
+<g class="fu" style="animation-delay:.1s">
+ <text x="44" y="50" class="k">📫 LET'S CONNECT</text>
+ <rect x="236" y="34" width="250" height="24" rx="12" fill="#22C55E" fill-opacity=".12" stroke="#22C55E" stroke-opacity=".6"/>
+ <circle cx="252" cy="46" r="4.5" fill="#22C55E" class="live"/>
+ <text x="264" y="50.5" class="st" style="font-size:12px;fill:#86EFAC">Open to opportunities · Remote</text>
+</g>
+<g class="fu" style="animation-delay:.3s"><text x="44" y="112" class="h">Let's build something together.</text></g>
+<text x="44" y="140" class="st" style="animation-delay:.45s">Open to roles in</text>
+<g class="pop" style="animation-delay:0.60s"><rect x="44" y="150" width="168" height="34" rx="17" fill="#22D3EE" fill-opacity=".13" stroke="#22D3EE" stroke-opacity=".75"/><text x="128" y="172" class="role" fill="#22D3EE">AI/ML Engineering</text></g><g class="pop" style="animation-delay:0.75s"><rect x="222" y="150" width="111" height="34" rx="17" fill="#34D399" fill-opacity=".13" stroke="#34D399" stroke-opacity=".75"/><text x="277" y="172" class="role" fill="#34D399">Applied AI</text></g><g class="pop" style="animation-delay:0.90s"><rect x="343" y="150" width="111" height="34" rx="17" fill="#A78BFA" fill-opacity=".13" stroke="#A78BFA" stroke-opacity=".75"/><text x="398" y="172" class="role" fill="#A78BFA">Agentic AI</text></g><g class="pop" style="animation-delay:1.05s"><rect x="464" y="150" width="160" height="34" rx="17" fill="#F472B6" fill-opacity=".13" stroke="#F472B6" stroke-opacity=".75"/><text x="544" y="172" class="role" fill="#F472B6">LLM Applications</text></g><g class="pop" style="animation-delay:1.20s"><rect x="633" y="150" width="192" height="34" rx="17" fill="#F59E0B" fill-opacity=".13" stroke="#F59E0B" stroke-opacity=".75"/><text x="729" y="172" class="role" fill="#F59E0B">Software Engineering</text></g>
+<g clip-path="url(#type)"><text x="44" y="236" class="tag">💫 Building AI systems that are useful, grounded and production-ready.</text></g>
+<g class="fu" style="animation-delay:2.60s"><rect x="44" y="270" width="94" height="26" rx="7" fill="#0D1117" stroke="#30363D"/><text x="91" y="287.5" class="kw">Agentic AI</text></g><g class="fu" style="animation-delay:2.68s"><rect x="146" y="270" width="161" height="26" rx="7" fill="#0D1117" stroke="#30363D"/><text x="226" y="287.5" class="kw">Multi-Agent Systems</text></g><g class="fu" style="animation-delay:2.76s"><rect x="315" y="270" width="42" height="26" rx="7" fill="#0D1117" stroke="#30363D"/><text x="336" y="287.5" class="kw">RAG</text></g><g class="fu" style="animation-delay:2.84s"><rect x="365" y="270" width="138" height="26" rx="7" fill="#0D1117" stroke="#30363D"/><text x="434" y="287.5" class="kw">Machine Learning</text></g><g class="fu" style="animation-delay:2.92s"><rect x="511" y="270" width="50" height="26" rx="7" fill="#0D1117" stroke="#30363D"/><text x="536" y="287.5" class="kw">LLMs</text></g><g class="fu" style="animation-delay:3.00s"><rect x="569" y="270" width="57" height="26" rx="7" fill="#0D1117" stroke="#30363D"/><text x="597" y="287.5" class="kw">Cloud</text></g>
+
+<g class="float">
+ <circle cx="840" cy="110" r="34" class="ring"/>
+ <circle cx="840" cy="110" r="34" class="ring" style="animation-delay:1.5s"/>
+ <g class="orbit"><circle cx="840" cy="110" r="62" fill="none" stroke="#4C1D95" stroke-dasharray="3 6"/><circle cx="902" cy="110" r="5" fill="#A78BFA"/></g>
+ <g class="orbit2"><circle cx="840" cy="110" r="84" fill="none" stroke="#3B2A6B" stroke-dasharray="2 8"/><circle cx="840" cy="26" r="4" fill="#F472B6"/></g>
+ <circle cx="840" cy="110" r="30" fill="#7C3AED" fill-opacity=".2" stroke="url(#grad)" stroke-width="2"/>
+ <rect x="825" y="99" width="30" height="22" rx="4" fill="none" stroke="#FFFFFF" stroke-width="2"/>
+ <path d="M825 101 l15 11 l15 -11" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linejoin="round"/>
+</g>
+</svg>
