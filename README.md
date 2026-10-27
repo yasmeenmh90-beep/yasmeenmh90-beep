@@ -224,18 +224,17 @@
 
 <div align="center">
 
-# 📫 Let's Connect
+<img src="./assets/connect.svg" width="100%" alt="Let's connect — open to AI/ML Engineering, Applied AI, Agentic AI, LLM Applications and Software Engineering roles. Building AI systems that are useful, grounded and production-ready."/>
 
-### Open to opportunities in
+<br/><br/>
 
-**AI/ML Engineering • Applied AI • Agentic AI • LLM Applications • Software Engineering**
+<a href="https://www.linkedin.com/in/yasmeen-azmat-a02b44340/"><img src="https://img.shields.io/badge/LinkedIn-Yasmeen_Azmat_Ali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+<a href="mailto:yasmeenazmat.ali97@icloud.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
+<a href="https://yasmeen-portfolio-gamma.vercel.app"><img src="https://img.shields.io/badge/Portfolio-View_My_Work-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>&nbsp;
+<a href="https://github.com/yasmeenmh90-beep"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-<a href="https://www.linkedin.com/in/yasmeen-azmat-a02b44340/"><img src="https://img.shields.io/badge/LinkedIn-Yasmeen_Azmat_Ali-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-<a href="mailto:yasmeenazmat.ali97@icloud.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail"/></a>
-<a href="https://yasmeen-portfolio-gamma.vercel.app"><img src="https://img.shields.io/badge/Portfolio-View_My_Work-FF7139?style=for-the-badge"/></a>
+<br/><br/>
 
-### 💫 Building AI systems that are useful, grounded and production-ready.
-
-`Agentic AI` • `Multi-Agent Systems` • `RAG` • `Machine Learning` • `LLMs` • `Cloud`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:7C3AED,100:4F46E5&height=120&section=footer&animation=twinkling" width="100%"/>
 
 </div>
