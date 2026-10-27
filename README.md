@@ -176,6 +176,33 @@ AI-powered career intelligence platform helping students and professionals conne
 
 ---
 
+# 💼 QuantumLogics Internship
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+### 🛡️ PolyGuard — AI-Powered Code Vulnerability Scanner
+**👥 Team Project**
+
+Full-stack code review dashboard that classifies submitted code as **safe** or **vulnerable** using a fine-tuned GraphCodeBERT model, with optional Gemini explanations and personal scan history.
+
+- 🧠 Fine-tuned **GraphCodeBERT** classifier with 512-token chunking and validation-tuned aggregation and thresholds
+- 💬 Optional **Google Gemini** explanations covering concerns and suggested remediation (explains only, never changes the verdict)
+- 📊 Dashboard with scan activity, result breakdowns, searchable history, CSV export and PDF reports
+- 🔐 JWT authentication with PostgreSQL-backed accounts and scan storage
+- 🧪 Evaluated on a hand-written suite of **271 cases**: **74.54% accuracy**, **77.50% precision**, **68.89% recall** (vulnerable class)
+
+`PyTorch` `GraphCodeBERT` `Hugging Face` `Flask` `React` `TypeScript` `PostgreSQL` `Gemini API`
+
+<a href="https://github.com/yasmeenmh90-beep/AI-Powered-Multi-Language-Code-Vulnerability-Scanner"><img src="https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github"/></a>
+
+</td>
+</tr>
+</table>
+
+---
+
 # ⭐ Featured AI Projects
 
 <table>
