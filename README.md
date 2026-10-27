@@ -74,13 +74,17 @@
 <a href="https://github.com/yasmeenmh90-beep/civicrelay"><img src="https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://civic-relay.vercel.app"><img src="https://img.shields.io/badge/Live-Demo-000000?style=flat-square&logo=vercel&logoColor=white"/></a> <a href="https://www.youtube.com/watch?v=IdlXDlYbDv4"><img src="https://img.shields.io/badge/YouTube-Demo-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
 </td>
 </tr>
-</table>
-
-<div align="center">
-<a href="https://github.com/yasmeenmh90-beep/AI-Career-Guidance-Assistant"><img src="./assets/project-career-guidance.svg" width="49%" alt="AI Career Guidance Assistant"/></a>
+<tr>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/yasmeenmh90-beep/AI-Career-Guidance-Assistant"><img src="./assets/project-career-guidance.svg" width="100%" alt="AI Career Guidance Assistant"/></a>
 <br/>
 <a href="https://github.com/yasmeenmh90-beep/AI-Career-Guidance-Assistant"><img src="https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://ai-career-guidance-assistant.onrender.com/login/?next=/"><img src="https://img.shields.io/badge/Live-Demo-00C7B7?style=flat-square&logo=render&logoColor=white"/></a> <a href="https://www.youtube.com/watch?v=AOR4rf9_e1Y"><img src="https://img.shields.io/badge/YouTube-Demo-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
-</div>
+</td>
+<td width="50%" align="center" valign="top">
+<img src="./assets/hackathon-summary.svg" width="100%" alt="Hackathon summary: 5 projects shipped, 1 solo / 4 team, 5 live demos, 5 video demos"/>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -196,12 +200,23 @@
 
 <div align="center">
 
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasmeenmh90-beep&theme=github_dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yasmeenmh90-beep&bg_color=1E1B3A&color=C4B5FD&title_color=FFFFFF&line=EC4899&point=A78BFA&area=true&area_color=7C3AED&hide_border=true&radius=16&height=300&custom_title=Contribution%20Activity" width="100%" alt="Contribution activity graph"/>
 
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yasmeenmh90-beep&theme=github_dark"/>
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yasmeenmh90-beep&theme=github_dark"/>
+<table>
+<tr>
+<td width="50%" align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yasmeenmh90-beep&theme=radical" width="100%" alt="Top languages by repo"/></td>
+<td width="50%" align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yasmeenmh90-beep&theme=radical" width="100%" alt="Top languages by commit"/></td>
+</tr>
+</table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yasmeenmh90-beep&theme=github-dark&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yasmeenmh90-beep&background=1E1B3A&hide_border=true&stroke=4C1D95&ring=EC4899&fire=F472B6&currStreakNum=FFFFFF&sideNums=C4B5FD&currStreakLabel=F472B6&sideLabels=A78BFA&dates=8B949E" width="100%" alt="GitHub streak"/>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yasmeenmh90-beep/yasmeenmh90-beep/output/snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/yasmeenmh90-beep/yasmeenmh90-beep/output/snake-dark.svg" width="100%" alt="Contribution snake animation"/>
+</picture>
 
 </div>
 
