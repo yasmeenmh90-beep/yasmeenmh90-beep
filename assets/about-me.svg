@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 400" width="960" height="400" role="img" aria-label="About Yasmeen Azmat Ali">
+<defs>
+<linearGradient id="grad" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#4F46E5"/><stop offset="50%" stop-color="#7C3AED"/><stop offset="100%" stop-color="#EC4899"/></linearGradient>
+<linearGradient id="panel" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#1E1B3A"/><stop offset="100%" stop-color="#111827"/></linearGradient>
+<clipPath id="c0"><rect x="518" y="93" width="384" height="23"><animate attributeName="width" values="0;0;384;384" keyTimes="0;0.133;0.200;1" dur="6.0s" fill="freeze"/></rect></clipPath>
+<clipPath id="c1"><rect x="518" y="118" width="384" height="23"><animate attributeName="width" values="0;0;384;384" keyTimes="0;0.208;0.275;1" dur="6.0s" fill="freeze"/></rect></clipPath>
+<clipPath id="c2"><rect x="518" y="143" width="384" height="23"><animate attributeName="width" values="0;0;384;384" keyTimes="0;0.283;0.350;1" dur="6.0s" fill="freeze"/></rect></clipPath>
+<clipPath id="c3"><rect x="518" y="168" width="384" height="23"><animate attributeName="width" values="0;0;384;384" keyTimes="0;0.358;0.425;1" dur="6.0s" fill="freeze"/></rect></clipPath>
+<clipPath id="c4"><rect x="518" y="193" width="384" height="23"><animate attributeName="width" values="0;0;384;384" keyTimes="0;0.433;0.500;1" dur="6.0s" fill="freeze"/></rect></clipPath>
+<clipPath id="c5"><rect x="518" y="218" width="384" height="23"><animate attributeName="width" values="0;0;384;384" keyTimes="0;0.508;0.575;1" dur="6.0s" fill="freeze"/></rect></clipPath>
+<clipPath id="c6"><rect x="518" y="243" width="384" height="23"><animate attributeName="width" values="0;0;384;384" keyTimes="0;0.583;0.650;1" dur="6.0s" fill="freeze"/></rect></clipPath>
+<clipPath id="c7"><rect x="518" y="268" width="384" height="23"><animate attributeName="width" values="0;0;384;384" keyTimes="0;0.658;0.725;1" dur="6.0s" fill="freeze"/></rect></clipPath>
+<clipPath id="c8"><rect x="518" y="293" width="384" height="23"><animate attributeName="width" values="0;0;384;384" keyTimes="0;0.733;0.800;1" dur="6.0s" fill="freeze"/></rect></clipPath>
+</defs>
+<style>
+ .txt { font: 16px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; animation: fadeUp .6s ease-out both; }
+ .n { fill: #CBD5E1; } .b { fill: #FFFFFF; font-weight: 700; }
+ .chip { animation: pop .5s cubic-bezier(.34,1.56,.64,1) both; transform-box: fill-box; transform-origin: center; }
+ .chipt { font: 600 13px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; text-anchor: middle; }
+ .code { font: 13.5px 'Fira Code', 'JetBrains Mono', Consolas, monospace; }
+ .frame { fill: none; stroke: url(#grad); stroke-width: 2; stroke-dasharray: 1600; animation: draw 1.8s ease-out both, glow 3s ease-in-out 1.8s infinite; }
+ .win { animation: fadeUp .7s ease-out .2s both; }
+ .tag { font: 700 13px 'Fira Code', Consolas, monospace; fill: #A78BFA; letter-spacing: 3px; animation: fadeUp .6s ease-out both; }
+ .cursor { animation: blink 1s step-end infinite; }
+ @keyframes fadeUp { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: translateY(0); } }
+ @keyframes pop { from { opacity: 0; transform: scale(.6); } to { opacity: 1; transform: scale(1); } }
+ @keyframes draw { from { stroke-dashoffset: 1600; } to { stroke-dashoffset: 0; } }
+ @keyframes glow { 0%,100% { stroke-opacity: .55; } 50% { stroke-opacity: 1; } }
+ @keyframes blink { 50% { opacity: 0; } }
+</style>
+<rect x="10" y="10" width="940" height="380" rx="18" fill="url(#panel)"/>
+<rect x="10" y="10" width="940" height="380" rx="18" class="frame"/>
+<text x="44" y="56" class="tag">WHO I AM</text>
+<text x="44" y="92" class="txt" style="animation-delay:0.25s"><tspan class="n">I'm an </tspan><tspan class="b">AI/ML Engineer and Applied AI</tspan></text>
+<text x="44" y="118" class="txt" style="animation-delay:0.34s"><tspan class="b">Developer</tspan><tspan class="n"> with an MSc in Artificial Intelligence,</tspan></text>
+<text x="44" y="144" class="txt" style="animation-delay:0.43s"><tspan class="n">graduating with </tspan><tspan class="b">First Class Distinction</tspan><tspan class="n"> and</tspan></text>
+<text x="44" y="170" class="txt" style="animation-delay:0.52s"><tspan class="n">ranking </tspan><tspan class="b">#1 in my cohort</tspan><tspan class="n">.</tspan></text>
+<text x="44" y="210" class="txt" style="animation-delay:0.70s"><tspan class="n">I build AI systems that move beyond model</tspan></text>
+<text x="44" y="236" class="txt" style="animation-delay:0.79s"><tspan class="n">prototypes into </tspan><tspan class="b">complete applications</tspan><tspan class="n">: multi-</tspan></text>
+<text x="44" y="262" class="txt" style="animation-delay:0.88s"><tspan class="n">agent architectures, RAG, human-in-the-loop</tspan></text>
+<text x="44" y="288" class="txt" style="animation-delay:0.97s"><tspan class="n">workflows, LLM security, real-time ML pipelines,</tspan></text>
+<text x="44" y="314" class="txt" style="animation-delay:1.06s"><tspan class="n">APIs, dashboards and cloud deployments.</tspan></text>
+<g class="chip" style="animation-delay:1.40s"><rect x="44" y="346" width="92" height="30" rx="15" fill="#22C55E" fill-opacity=".14" stroke="#22C55E" stroke-opacity=".7"/><text x="90" y="366" class="chipt" fill="#22C55E">🎓 MSc AI</text></g>
+<g class="chip" style="animation-delay:1.55s"><rect x="145.6" y="346" width="133" height="30" rx="15" fill="#A78BFA" fill-opacity=".14" stroke="#A78BFA" stroke-opacity=".7"/><text x="212" y="366" class="chipt" fill="#A78BFA">🏅 First Class</text></g>
+<g class="chip" style="animation-delay:1.70s"><rect x="288.2" y="346" width="116" height="30" rx="15" fill="#FACC15" fill-opacity=".14" stroke="#FACC15" stroke-opacity=".7"/><text x="346" y="366" class="chipt" fill="#FACC15">🥇 #1 Cohort</text></g>
+<g class="win">
+ <rect x="500" y="40" width="420" height="320" rx="12" fill="#0D1117" stroke="#30363D"/>
+ <path d="M500 52 a12 12 0 0 1 12 -12 h396 a12 12 0 0 1 12 12 v22 h-420 z" fill="#161B22"/>
+ <circle cx="520" cy="57" r="5.5" fill="#FF5F57"/><circle cx="538" cy="57" r="5.5" fill="#FEBC2E"/><circle cx="556" cy="57" r="5.5" fill="#28C840"/>
+ <text x="710.0" y="62" text-anchor="middle" style="font:12px 'Fira Code',Consolas,monospace" fill="#8B949E">profile.py</text>
+ <text x="522" y="110" class="code" xml:space="preserve" clip-path="url(#c0)"><tspan fill="#4B5563"> 1  </tspan><tspan fill="#F472B6">class </tspan><tspan fill="#FBBF24">YasmeenAzmatAli</tspan><tspan fill="#9CA3AF">:</tspan></text>
+<text x="522" y="135" class="code" xml:space="preserve" clip-path="url(#c1)"><tspan fill="#4B5563"> 2  </tspan><tspan fill="#E5E7EB">    role      </tspan><tspan fill="#9CA3AF">= </tspan><tspan fill="#86EFAC">"AI/ML Engineer"</tspan></text>
+<text x="522" y="160" class="code" xml:space="preserve" clip-path="url(#c2)"><tspan fill="#4B5563"> 3  </tspan><tspan fill="#E5E7EB">    education </tspan><tspan fill="#9CA3AF">= </tspan><tspan fill="#86EFAC">"MSc AI · First Class · #1"</tspan></text>
+<text x="522" y="185" class="code" xml:space="preserve" clip-path="url(#c3)"><tspan fill="#4B5563"> 4  </tspan><tspan fill="#E5E7EB">    location  </tspan><tspan fill="#9CA3AF">= </tspan><tspan fill="#86EFAC">"Sharjah, UAE · Remote"</tspan></text>
+<text x="522" y="210" class="code" xml:space="preserve" clip-path="url(#c4)"><tspan fill="#4B5563"> 5  </tspan><tspan fill="#E5E7EB">    focus     </tspan><tspan fill="#9CA3AF">= [</tspan><tspan fill="#86EFAC">"Agentic AI"</tspan><tspan fill="#9CA3AF">, </tspan><tspan fill="#86EFAC">"RAG"</tspan><tspan fill="#9CA3AF">,</tspan></text>
+<text x="522" y="235" class="code" xml:space="preserve" clip-path="url(#c5)"><tspan fill="#4B5563"> 6  </tspan><tspan fill="#E5E7EB">                 </tspan><tspan fill="#86EFAC">"LLM Security"</tspan><tspan fill="#9CA3AF">, </tspan><tspan fill="#86EFAC">"HITL"</tspan><tspan fill="#9CA3AF">]</tspan></text>
+<text x="522" y="260" class="code" xml:space="preserve" clip-path="url(#c6)"><tspan fill="#4B5563"> 7  </tspan><tspan fill="#E5E7EB">    stack     </tspan><tspan fill="#9CA3AF">= [</tspan><tspan fill="#86EFAC">"Python"</tspan><tspan fill="#9CA3AF">, </tspan><tspan fill="#86EFAC">"PyTorch"</tspan><tspan fill="#9CA3AF">,</tspan></text>
+<text x="522" y="285" class="code" xml:space="preserve" clip-path="url(#c7)"><tspan fill="#4B5563"> 8  </tspan><tspan fill="#E5E7EB">                 </tspan><tspan fill="#86EFAC">"FastAPI"</tspan><tspan fill="#9CA3AF">, </tspan><tspan fill="#86EFAC">"LangGraph"</tspan><tspan fill="#9CA3AF">,</tspan></text>
+<text x="522" y="310" class="code" xml:space="preserve" clip-path="url(#c8)"><tspan fill="#4B5563"> 9  </tspan><tspan fill="#E5E7EB">                 </tspan><tspan fill="#86EFAC">"React"</tspan><tspan fill="#9CA3AF">, </tspan><tspan fill="#86EFAC">"PostgreSQL"</tspan><tspan fill="#9CA3AF">]</tspan></text>
+ <rect x="522" y="322" width="8" height="16" fill="#A78BFA" class="cursor" opacity="0"><set attributeName="opacity" to="1" begin="4.85s" fill="freeze"/></rect>
+</g>
+</svg>
