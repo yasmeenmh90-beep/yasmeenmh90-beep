@@ -1,25 +1,23 @@
 <div align="center">
 
-# 👋 Hi, I'm Yasmeen Azmat Ali
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:EC4899&height=200&section=header&text=Yasmeen%20Azmat%20Ali&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=AI%2FML%20Engineer%20%E2%80%A2%20Applied%20AI%20Developer%20%E2%80%A2%20Agentic%20Systems&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
 
-### 🤖 AI/ML Engineer • Applied AI Developer • Agentic Systems
+<a href="https://github.com/yasmeenmh90-beep"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=620&lines=Building+Multi-Agent+AI+Systems;Retrieval-Augmented+Generation+(RAG);LLM+Applications+%26+AI+Safety;Machine+Learning+%26+NLP;Human-in-the-Loop+Workflows" alt="Typing SVG"/></a>
 
-Building production-oriented AI systems with a focus on  
-**Multi-Agent AI • RAG • LLM Applications • Machine Learning • AI Safety**
+<p>
+  <img src="https://img.shields.io/badge/MSc_AI-First_Class_Distinction-22C55E?style=flat-square&labelColor=1F2937&logo=googlescholar&logoColor=white" height="28"/>&nbsp;
+  <img src="https://img.shields.io/badge/Cohort_Rank-%231-FACC15?style=flat-square&labelColor=1F2937&logo=starship&logoColor=white" height="28"/>&nbsp;
+  <img src="https://img.shields.io/badge/Focus-Agentic_AI-8B5CF6?style=flat-square&labelColor=1F2937&logo=openai&logoColor=white" height="28"/>
+</p>
 
-<br/>
+<p>📍 <b>Sharjah, UAE</b> &nbsp;|&nbsp; 🌍 <b>Open to Remote Opportunities</b></p>
 
-<img src="https://img.shields.io/badge/MSc_AI-First_Class-2ea44f?style=for-the-badge"/>&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Ranked-%231-gold?style=for-the-badge"/>&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Focus-Agentic_AI-8A2BE2?style=for-the-badge"/>
-
-<br/>
-
-📍 Sharjah, UAE &nbsp; • &nbsp; 🌍 Open to Remote Opportunities
-
-<br/>
-
-<a href="https://www.linkedin.com/in/yasmeen-azmat-a02b44340/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/></a>&nbsp;&nbsp;&nbsp;<a href="https://yasmeenazmat.com/"><img src="https://img.shields.io/badge/Portfolio-Visit-FF7139?style=for-the-badge&logo=firefox" alt="Visit My Portfolio"/></a>&nbsp;&nbsp;&nbsp;<a href="mailto:yasmeenazmat.ali97@icloud.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/></a>
-
-<br/>
+<p>
+  <a href="https://www.linkedin.com/in/yasmeen-azmat-a02b44340/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+  <a href="https://yasmeenazmat.com/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>&nbsp;
+  <a href="mailto:yasmeenazmat.ali97@icloud.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
+  <a href="https://github.com/yasmeenmh90-beep"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 </div>
 
