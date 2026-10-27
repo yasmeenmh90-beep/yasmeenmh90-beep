@@ -7,7 +7,7 @@
 <p>
   <img src="https://img.shields.io/badge/MSc_AI-First_Class_Distinction-22C55E?style=flat-square&labelColor=1F2937&logo=googlescholar&logoColor=white" height="28"/>&nbsp;
   <img src="https://img.shields.io/badge/Cohort_Rank-%231-FACC15?style=flat-square&labelColor=1F2937&logo=starship&logoColor=white" height="28"/>&nbsp;
-  <img src="https://img.shields.io/badge/Focus-Agentic_AI-8B5CF6?style=flat-square&labelColor=1F2937&logo=openai&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Focus-Agentic_AI-8B5CF6?style=flat-square&labelColor=1F2937" height="28"/>
 </p>
 
 <p>📍 <b>Sharjah, UAE</b> &nbsp;|&nbsp; 🌍 <b>Open to Remote Opportunities</b></p>
@@ -25,17 +25,49 @@
 
 ## 👩‍💻 About Me
 
+<table>
+<tr>
+<td width="55%" valign="top">
+
 I'm an **AI/ML Engineer and Applied AI Developer** with an MSc in Artificial Intelligence, graduating with **First Class Distinction** and ranking **#1 in my cohort**.
 
-I build AI systems that move beyond model prototypes into complete applications — including **multi-agent architectures, retrieval-augmented generation, human-in-the-loop workflows, LLM security, real-time ML pipelines, APIs, dashboards and cloud deployments**.
+I build AI systems that move beyond model prototypes into **complete applications**: multi-agent architectures, retrieval-augmented generation, human-in-the-loop workflows, LLM security, real-time ML pipelines, APIs, dashboards and cloud deployments.
 
-- 🤖 Building **Agentic AI & Multi-Agent Systems**
-- 📚 Developing **RAG & grounded LLM applications**
-- 🧠 Working with **Machine Learning, NLP & Transformers**
-- 🛡️ Exploring **AI safety, guardrails & LLM security**
-- 👥 Designing **Human-in-the-Loop workflows**
-- ⚡ Engineering **real-time ML & data pipelines**
-- ☁️ Deploying **full-stack AI applications**
+</td>
+<td width="45%" valign="top">
+
+```python
+class YasmeenAzmatAli:
+    role      = "AI/ML Engineer"
+    education = "MSc AI · First Class · #1"
+    location  = "Sharjah, UAE · Remote"
+    focus     = ["Agentic AI", "RAG",
+                 "LLM Security", "HITL"]
+    stack     = ["Python", "PyTorch",
+                 "FastAPI", "LangGraph",
+                 "React", "PostgreSQL"]
+```
+
+</td>
+</tr>
+</table>
+
+### 🎯 What I Work On
+
+<table>
+<tr>
+<td align="center" width="25%">🤖<br/><b>Agentic AI</b><br/><sub>Multi-agent systems</sub></td>
+<td align="center" width="25%">📚<br/><b>RAG</b><br/><sub>Grounded LLM apps</sub></td>
+<td align="center" width="25%">🧠<br/><b>ML & NLP</b><br/><sub>Transformers</sub></td>
+<td align="center" width="25%">🛡️<br/><b>AI Safety</b><br/><sub>Guardrails & LLM security</sub></td>
+</tr>
+<tr>
+<td align="center">👥<br/><b>Human-in-the-Loop</b><br/><sub>Approval workflows</sub></td>
+<td align="center">⚡<br/><b>Real-Time ML</b><br/><sub>Data pipelines</sub></td>
+<td align="center">☁️<br/><b>Full-Stack AI</b><br/><sub>APIs & deployments</sub></td>
+<td align="center">📊<br/><b>Dashboards</b><br/><sub>Monitoring & insights</sub></td>
+</tr>
+</table>
 
 ---
 
