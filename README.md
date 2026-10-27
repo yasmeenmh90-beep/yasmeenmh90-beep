@@ -54,20 +54,9 @@ class YasmeenAzmatAli:
 
 ### 🎯 What I Work On
 
-<table>
-<tr>
-<td align="center" width="25%">🤖<br/><b>Agentic AI</b><br/><sub>Multi-agent systems</sub></td>
-<td align="center" width="25%">📚<br/><b>RAG</b><br/><sub>Grounded LLM apps</sub></td>
-<td align="center" width="25%">🧠<br/><b>ML & NLP</b><br/><sub>Transformers</sub></td>
-<td align="center" width="25%">🛡️<br/><b>AI Safety</b><br/><sub>Guardrails & LLM security</sub></td>
-</tr>
-<tr>
-<td align="center">👥<br/><b>Human-in-the-Loop</b><br/><sub>Approval workflows</sub></td>
-<td align="center">⚡<br/><b>Real-Time ML</b><br/><sub>Data pipelines</sub></td>
-<td align="center">☁️<br/><b>Full-Stack AI</b><br/><sub>APIs & deployments</sub></td>
-<td align="center">📊<br/><b>Dashboards</b><br/><sub>Monitoring & insights</sub></td>
-</tr>
-</table>
+<p align="center">
+  <img src="./assets/what-i-work-on.svg" width="100%" alt="Agentic AI, RAG, ML & NLP, AI Safety, Human-in-the-Loop, Real-Time ML, Full-Stack AI, Dashboards"/>
+</p>
 
 ---
 
