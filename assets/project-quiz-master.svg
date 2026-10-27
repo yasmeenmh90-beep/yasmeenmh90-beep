@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" width="480" height="300" role="img" aria-label="Quiz Master">
+<defs>
+<linearGradient id="grad" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#4F46E5"/><stop offset="50%" stop-color="#7C3AED"/><stop offset="100%" stop-color="#EC4899"/></linearGradient>
+<linearGradient id="panel" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#1E1B3A"/><stop offset="100%" stop-color="#111827"/></linearGradient>
+<radialGradient id="blob" cx="0" cy="0" r="1"><stop offset="0%" stop-color="#C084FC" stop-opacity=".35"/><stop offset="100%" stop-color="#C084FC" stop-opacity="0"/></radialGradient>
+<clipPath id="clip"><rect x="4" y="4" width="472" height="292" rx="18"/></clipPath>
+</defs>
+<style>
+ .frame { fill: none; stroke: url(#grad); stroke-width: 2; stroke-dasharray: 1600; animation: draw 1.6s ease-out both, glow 3s ease-in-out 1.6s infinite; }
+ .blob { animation: drift 7s ease-in-out infinite alternate; }
+ .name { font: 800 25px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; fill: #FFFFFF; }
+ .sub { font: 600 13px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; fill: #C084FC; letter-spacing: .3px; }
+ .tl { font: 13.5px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; fill: #CBD5E1; }
+ .ptt { font: 600 13px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; fill: #E5E7EB; }
+ .pill { font: 700 10.5px 'Fira Code', Consolas, monospace; letter-spacing: 1.2px; text-anchor: middle; }
+ .head { animation: fadeUp .6s ease-out .15s both; }
+ .pt { animation: slideIn .5s ease-out both; }
+ .ic { animation: pop .45s cubic-bezier(.34,1.56,.64,1) both; transform-box: fill-box; transform-origin: center; }
+ .cta { font: 700 12.5px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; fill: #C084FC; text-anchor: end; animation: fadeUp .6s ease-out 1.8s both; }
+ .arrow { animation: nudge 1.4s ease-in-out 2.2s infinite; }
+ .emo { font-size: 24px; text-anchor: middle; }
+ .ring { animation: pulse 2.6s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+ @keyframes draw { from { stroke-dashoffset: 1600; } to { stroke-dashoffset: 0; } }
+ @keyframes glow { 0%,100% { stroke-opacity: .55; } 50% { stroke-opacity: 1; } }
+ @keyframes drift { from { transform: translate(0,0); } to { transform: translate(-40px,30px); } }
+ @keyframes fadeUp { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+ @keyframes slideIn { from { opacity: 0; transform: translateX(-12px); } to { opacity: 1; transform: translateX(0); } }
+ @keyframes pop { from { opacity: 0; transform: scale(.4); } to { opacity: 1; transform: scale(1); } }
+ @keyframes nudge { 0%,100% { transform: translateX(0); } 50% { transform: translateX(4px); } }
+ @keyframes pulse { 0%,100% { transform: scale(1); opacity: .5; } 50% { transform: scale(1.12); opacity: 1; } }
+</style>
+<g clip-path="url(#clip)">
+ <rect x="4" y="4" width="472" height="292" fill="url(#panel)"/>
+ <circle cx="440" cy="30" r="190" fill="url(#blob)" class="blob"/>
+</g>
+<rect x="4" y="4" width="472" height="292" rx="18" class="frame"/>
+<g class="head">
+ <circle cx="50" cy="52" r="24" fill="#C084FC" fill-opacity=".14"/>
+ <circle cx="50" cy="52" r="24" fill="none" stroke="#C084FC" stroke-width="1.5" class="ring"/>
+ <text x="50" y="61" class="emo">🧠</text>
+ <text x="88" y="52" class="name">Quiz Master</text>
+ <text x="88" y="73" class="sub">Competitive quiz app</text>
+ <rect x="308" y="18" width="68" height="20" rx="10" fill="#C084FC" fill-opacity=".15" stroke="#C084FC" stroke-opacity=".6"/>
+ <text x="342" y="32" class="pill" fill="#C084FC">KOTLIN</text>
+ <rect x="384" y="18" width="72" height="20" rx="10" fill="#7C3AED" fill-opacity=".15" stroke="#A78BFA" stroke-opacity=".6"/>
+ <text x="420" y="32" class="pill" fill="#C4B5FD">ANDROID</text>
+ <text x="28" y="122" class="tl">Feature-rich Android quiz app with competitive and</text><text x="28" y="141" class="tl">progression-oriented features.</text>
+</g>
+<g class="pt" style="animation-delay:0.70s"><circle cx="34" cy="174" r="7" fill="#C084FC" fill-opacity=".18"/><path d="M30.5 174 l2.5 2.5 l4.5 -5" stroke="#C084FC" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/><text x="50" y="178" class="ptt">Timed quiz sessions</text></g><g class="pt" style="animation-delay:0.88s"><circle cx="34" cy="198" r="7" fill="#C084FC" fill-opacity=".18"/><path d="M30.5 198 l2.5 2.5 l4.5 -5" stroke="#C084FC" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/><text x="50" y="202" class="ptt">Achievements and leaderboards</text></g><g class="pt" style="animation-delay:1.06s"><circle cx="34" cy="222" r="7" fill="#C084FC" fill-opacity=".18"/><path d="M30.5 222 l2.5 2.5 l4.5 -5" stroke="#C084FC" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/><text x="50" y="226" class="ptt">Multiplayer-oriented features</text></g>
+<line x1="28" y1="238" x2="452" y2="238" stroke="#30363D"/>
+<g class="ic" style="animation-delay:1.30s"><rect x="28" y="252" width="28" height="28" rx="7" fill="#0D1117" stroke="#30363D"/><g transform="translate(34,258) scale(.6667)"><path d="M24 24H0V0h24L12 12Z" fill="#7F52FF"/></g></g><g class="ic" style="animation-delay:1.38s"><rect x="62" y="252" width="28" height="28" rx="7" fill="#0D1117" stroke="#30363D"/><g transform="translate(68,258) scale(.6667)"><path d="M12.135.003a2.577 2.577 0 0 0-1.42.344L2.55 5.06a2.577 2.577 0 0 0-.953.967l3.957 2.17a1.765 1.765 0 0 1 .603-.588l4.951-2.86a1.761 1.761 0 0 1 1.76 0l4.951 2.86a1.753 1.753 0 0 1 .526.46l3.921-2.265a2.577 2.577 0 0 0-.816-.744L13.291.347a2.577 2.577 0 0 0-1.152-.34Zm-.145 4.912a1.36 1.36 0 0 0-.68.182L6.36 7.953a1.345 1.345 0 0 0-.454.435l1.92 1.055a1.05 1.05 0 0 1 .31-.275l3.34-1.928a1.054 1.054 0 0 1 1.051 0l3.336 1.928a1.066 1.066 0 0 1 .238.199l.018-.01-.002-.002 1.877-1.08a1.353 1.353 0 0 0-.373-.322l-4.95-2.86a1.357 1.357 0 0 0-.68-.178Zm10.432 1.149-3.92 2.26a1.757 1.757 0 0 1 .2.812v5.715c0 .627-.332 1.21-.88 1.528l-4.95 2.86a1.761 1.761 0 0 1-.64.214v4.524a2.577 2.577 0 0 0 1.059-.313l8.162-4.713a2.577 2.577 0 0 0 1.289-2.23V7.297a2.577 2.577 0 0 0-.318-1.228Zm-20.937.238a2.577 2.577 0 0 0-.227.99v9.43c0 .918.491 1.767 1.293 2.229l8.162 4.713a2.57 2.57 0 0 0 1.225.336v-4.531a1.761 1.761 0 0 1-.833-.235L6.156 16.38a1.765 1.765 0 0 1-.877-1.528V9.136a1.776 1.776 0 0 1 .131-.676Zm16.67 2.223-1.89 1.092a1.058 1.058 0 0 1 .124.46v3.856c0 .378-.2.72-.526.907l-3.336 1.93a1.04 1.04 0 0 1-.295.107v2.17c.152-.027.304-.078.44-.157l4.949-2.859a1.36 1.36 0 0 0 .68-1.18V9.136a1.36 1.36 0 0 0-.147-.607Zm-12.387.13a1.36 1.36 0 0 0-.088.481v5.715a1.36 1.36 0 0 0 .68 1.18l4.95 2.86c.194.112.412.166.627.177v-2.174a1.054 1.054 0 0 1-.46-.123L8.14 14.843a1.054 1.054 0 0 1-.532-.908v-3.853a.99.99 0 0 1 .077-.38l-.034-.013z" fill="#4285F4"/></g></g><g class="ic" style="animation-delay:1.46s"><rect x="96" y="252" width="28" height="28" rx="7" fill="#0D1117" stroke="#30363D"/><g transform="translate(102,258) scale(.6667)"><path d="M18.4395 5.5586c-.675 1.1664-1.352 2.3318-2.0274 3.498-.0366-.0155-.0742-.0286-.1113-.043-1.8249-.6957-3.484-.8-4.42-.787-1.8551.0185-3.3544.4643-4.2597.8203-.084-.1494-1.7526-3.021-2.0215-3.4864a1.1451 1.1451 0 0 0-.1406-.1914c-.3312-.364-.9054-.4859-1.379-.203-.475.282-.7136.9361-.3886 1.5019 1.9466 3.3696-.0966-.2158 1.9473 3.3593.0172.031-.4946.2642-1.3926 1.0177C2.8987 12.176.452 14.772 0 18.9902h24c-.119-1.1108-.3686-2.099-.7461-3.0683-.7438-1.9118-1.8435-3.2928-2.7402-4.1836a12.1048 12.1048 0 0 0-2.1309-1.6875c.6594-1.122 1.312-2.2559 1.9649-3.3848.2077-.3615.1886-.7956-.0079-1.1191a1.1001 1.1001 0 0 0-.8515-.5332c-.5225-.0536-.9392.3128-1.0488.5449zm-.0391 8.461c.3944.5926.324 1.3306-.1563 1.6503-.4799.3197-1.188.0985-1.582-.4941-.3944-.5927-.324-1.3307.1563-1.6504.4727-.315 1.1812-.1086 1.582.4941zM7.207 13.5273c.4803.3197.5506 1.0577.1563 1.6504-.394.5926-1.1038.8138-1.584.4941-.48-.3197-.5503-1.0577-.1563-1.6504.4008-.6021 1.1087-.8106 1.584-.4941z" fill="#3DDC84"/></g></g>
+<text x="436" y="271" class="cta">View code</text>
+<g class="arrow"><path d="M442 266.5 h10 m-4 -4 l4 4 l-4 4" stroke="#C084FC" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/></g>
+</svg>
