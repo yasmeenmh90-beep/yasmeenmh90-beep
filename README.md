@@ -39,24 +39,9 @@
 
 ## 🧰 Tech Stack
 
-<div align="center">
-
-### 🤖 AI / Machine Learning
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow"/>
-
-`Machine Learning` • `Deep Learning` • `NLP` • `Transformers` • `LLMs` • `RAG` • `Agentic AI` • `Multi-Agent Systems` • `Scikit-learn` • `XGBoost`
-
-### ⚙️ Backend / Data / Cloud
-<img src="https://skillicons.dev/icons?i=fastapi,django,postgres,mongodb,redis,docker,aws"/>
-
-`FastAPI` • `Django` • `LangChain` • `LangGraph` • `ChromaDB` • `PostgreSQL` • `MongoDB` • `Kafka` • `Spark` • `REST APIs`
-
-### 💻 Frontend / Mobile
-<img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,kotlin"/>
-
-`React` • `TypeScript` • `JavaScript` • `HTML/CSS` • `Kotlin` • `Jetpack Compose`
-
-</div>
+<p align="center">
+  <img src="./assets/tech-stack.svg" width="100%" alt="Tech stack — AI/ML: Python, PyTorch, TensorFlow, Scikit-learn, XGBoost, LangChain, LangGraph, ChromaDB. Backend/Data/Cloud: FastAPI, Django, PostgreSQL, MongoDB, Redis, Kafka, Spark, Docker, AWS. Frontend/Mobile: React, TypeScript, JavaScript, HTML/CSS, Kotlin, Jetpack Compose."/>
+</p>
 
 ---
 
