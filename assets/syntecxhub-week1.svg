@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 150" width="960" height="150" role="img" aria-label="Syntecxhub AI internship, Week 1: 2 projects completed">
+<defs><linearGradient id="grad" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#4F46E5"/><stop offset="50%" stop-color="#7C3AED"/><stop offset="100%" stop-color="#EC4899"/></linearGradient>
+<linearGradient id="panel" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#1E1B3A"/><stop offset="100%" stop-color="#111827"/></linearGradient>
+<linearGradient id="gline" gradientUnits="userSpaceOnUse" x1="250" y1="0" x2="930" y2="0"><stop offset="0%" stop-color="#7C3AED" stop-opacity=".8"/><stop offset="100%" stop-color="#EC4899" stop-opacity="0"/></linearGradient>
+<radialGradient id="blob" cx="0" cy="0" r="1"><stop offset="0%" stop-color="#7C3AED" stop-opacity=".3"/><stop offset="100%" stop-color="#7C3AED" stop-opacity="0"/></radialGradient>
+<clipPath id="clip"><rect x="4" y="4" width="952" height="142" rx="20"/></clipPath></defs>
+<style>
+ .frame { fill: none; stroke: url(#grad); stroke-width: 2; stroke-dasharray: 3000; animation: draw 2.2s ease-out both; }
+ .pill { font: 700 10.5px 'Fira Code', Consolas, monospace; letter-spacing: 1.2px; text-anchor: middle; }
+ .title { font: 800 40px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; fill: #FFFFFF; }
+ .sub { font: 600 15px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; fill: #A78BFA; }
+ .name { font: 800 22px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; fill: #FFFFFF; }
+ .psub { font: 600 12.5px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; }
+ .d { font: 13.5px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; fill: #CBD5E1; }
+ .f { font: 600 13px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; fill: #E5E7EB; }
+ .cap { font: 11.5px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; fill: #8B949E; }
+ .cta { font: 700 12.5px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; text-anchor: end; }
+ .emo { font-size: 22px; text-anchor: middle; }
+ .rule { stroke: url(#gline); stroke-width: 1.5; }
+ .fu { animation: fadeUp .6s ease-out both; }
+ .si { animation: slideIn .5s ease-out both; }
+ .ring { animation: pulse 2.6s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+ .arrow { animation: nudge 1.4s ease-in-out 2.4s infinite; }
+ .blob { animation: drift 8s ease-in-out infinite alternate; }
+ @keyframes drift { from { transform: translate(0,0); } to { transform: translate(60px,40px); } }
+ @keyframes draw { from { stroke-dashoffset: 3000; } to { stroke-dashoffset: 0; } }
+ @keyframes fadeUp { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+ @keyframes slideIn { from { opacity: 0; transform: translateX(-14px); } to { opacity: 1; transform: translateX(0); } }
+ @keyframes nudge { 0%,100% { transform: translateX(0); } 50% { transform: translateX(4px); } }
+ @keyframes pulse { 0%,100% { transform: scale(1); opacity: .5; } 50% { transform: scale(1.12); opacity: 1; } }
+</style>
+<g clip-path="url(#clip)"><rect x="4" y="4" width="952" height="142" fill="url(#panel)"/><circle cx="120" cy="40" r="260" fill="url(#blob)" class="blob"/></g>
+<rect x="4" y="4" width="952" height="142" rx="20" class="frame"/>
+<g class="fu" style="animation-delay:.1s">
+ <rect x="28" y="28" width="112" height="22" rx="11" fill="#7C3AED" fill-opacity=".18" stroke="#A78BFA" stroke-opacity=".7"/>
+ <text x="84" y="43.5" class="pill" fill="#C4B5FD">SYNTECXHUB</text>
+ <rect x="148" y="28" width="124" height="22" rx="11" fill="#EC4899" fill-opacity=".14" stroke="#F472B6" stroke-opacity=".7"/>
+ <text x="210" y="43.5" class="pill" fill="#F9A8D4">AI INTERNSHIP</text>
+</g>
+<g class="fu" style="animation-delay:.25s">
+ <text x="28" y="104" class="title">Week 1</text>
+ <text x="186" y="103" class="sub">Artificial Intelligence track · 2 projects completed</text>
+ <line x1="28" y1="124" x2="932" y2="124" class="rule"/>
+</g>
+</svg>
