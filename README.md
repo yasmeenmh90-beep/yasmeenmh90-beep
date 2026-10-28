@@ -115,6 +115,24 @@
 </tr>
 </table>
 
+<br/>
+
+<table>
+<tr>
+<td colspan="2">
+<img src="./assets/syntecxhub-week2.svg" width="100%" alt="Syntecxhub AI internship, Week 2: 2 projects completed"/>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/yasmeenmh90-beep/Syntecxhub_Rule_Based_Chatbot"><img src="./assets/syntecxhub-nova-chatbot.svg" width="100%" alt="NOVA: hybrid rule-based + LLM chatbot with 13 intents, a 15-topic knowledge base and 127 unit tests"/></a>
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/yasmeenmh90-beep/Syntecxhub_Sentiment_Analysis_Tool"><img src="./assets/syntecxhub-sentiment.svg" width="100%" alt="Sentiment Analysis Tool: TF-IDF with Naive Bayes and Logistic Regression, 91.9% accuracy on IMDb reviews"/></a>
+</td>
+</tr>
+</table>
+
 ---
 
 # ⭐ Featured AI Projects
