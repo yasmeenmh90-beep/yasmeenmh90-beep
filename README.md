@@ -127,13 +127,9 @@
 <tr>
 <td width="50%" align="center" valign="top">
 <a href="https://github.com/yasmeenmh90-beep/PromptGuard-Automated-Security-Testing-for-LLM-Applications"><img src="./assets/project-promptguard.svg" width="100%" alt="PromptGuard"/></a>
-<br/>
-<a href="https://github.com/yasmeenmh90-beep/PromptGuard-Automated-Security-Testing-for-LLM-Applications"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=flat-square&logo=github&logoColor=white"/></a>
 </td>
 <td width="50%" align="center" valign="top">
 <a href="https://github.com/yasmeenmh90-beep/scoutly"><img src="./assets/project-scoutly.svg" width="100%" alt="Scoutly"/></a>
-<br/>
-<a href="https://github.com/yasmeenmh90-beep/scoutly"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=flat-square&logo=github&logoColor=white"/></a>
 </td>
 </tr>
 </table>
@@ -146,25 +142,17 @@
 <tr>
 <td width="50%" align="center" valign="top">
 <a href="https://github.com/yasmeenmh90-beep/Real-Time-Twitter-Sentiment-Analysis"><img src="./assets/project-twitter-sentiment.svg" width="100%" alt="Twitter Sentiment"/></a>
-<br/>
-<a href="https://github.com/yasmeenmh90-beep/Real-Time-Twitter-Sentiment-Analysis"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=flat-square&logo=github&logoColor=white"/></a>
 </td>
 <td width="50%" align="center" valign="top">
 <a href="https://github.com/yasmeenmh90-beep/spam-email-classification"><img src="./assets/project-spam-classifier.svg" width="100%" alt="Spam Classifier"/></a>
-<br/>
-<a href="https://github.com/yasmeenmh90-beep/spam-email-classification"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=flat-square&logo=github&logoColor=white"/></a>
 </td>
 </tr>
 <tr>
 <td width="50%" align="center" valign="top">
 <a href="https://github.com/yasmeenmh90-beep/responsible-ai-fairness-interpretability"><img src="./assets/project-responsible-ai.svg" width="100%" alt="Responsible AI"/></a>
-<br/>
-<a href="https://github.com/yasmeenmh90-beep/responsible-ai-fairness-interpretability"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=flat-square&logo=github&logoColor=white"/></a>
 </td>
 <td width="50%" align="center" valign="top">
 <a href="https://github.com/yasmeenmh90-beep/Titanic-Survival-Prediction-ML-Group-Project"><img src="./assets/project-titanic.svg" width="100%" alt="Titanic Survival"/></a>
-<br/>
-<a href="https://github.com/yasmeenmh90-beep/Titanic-Survival-Prediction-ML-Group-Project"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=flat-square&logo=github&logoColor=white"/></a>
 </td>
 </tr>
 </table>
@@ -177,13 +165,9 @@
 <tr>
 <td width="50%" align="center" valign="top">
 <a href="https://github.com/yasmeenmh90-beep/ai-interview-practice-bot"><img src="./assets/project-interview-bot.svg" width="100%" alt="AI Interview Bot"/></a>
-<br/>
-<a href="https://github.com/yasmeenmh90-beep/ai-interview-practice-bot"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=flat-square&logo=github&logoColor=white"/></a>
 </td>
 <td width="50%" align="center" valign="top">
 <a href="https://github.com/yasmeenmh90-beep/climate-weather-dashboard"><img src="./assets/project-climate-dashboard.svg" width="100%" alt="Climate Dashboard"/></a>
-<br/>
-<a href="https://github.com/yasmeenmh90-beep/climate-weather-dashboard"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=flat-square&logo=github&logoColor=white"/></a>
 </td>
 </tr>
 </table>
@@ -196,13 +180,9 @@
 <tr>
 <td width="50%" align="center" valign="top">
 <a href="https://github.com/yasmeenmh90-beep/MoodJournal"><img src="./assets/project-mood-journal.svg" width="100%" alt="Mood Journal"/></a>
-<br/>
-<a href="https://github.com/yasmeenmh90-beep/MoodJournal"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=flat-square&logo=github&logoColor=white"/></a>
 </td>
 <td width="50%" align="center" valign="top">
 <a href="https://github.com/yasmeenmh90-beep/QuizMaster"><img src="./assets/project-quiz-master.svg" width="100%" alt="Quiz Master"/></a>
-<br/>
-<a href="https://github.com/yasmeenmh90-beep/QuizMaster"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=flat-square&logo=github&logoColor=white"/></a>
 </td>
 </tr>
 </table>
