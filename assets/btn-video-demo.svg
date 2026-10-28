@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 48" width="200" height="48" role="img" aria-label="Video demo on YouTube">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#4F46E5"/><stop offset="50%" stop-color="#7C3AED"/><stop offset="100%" stop-color="#EC4899"/></linearGradient>
+<linearGradient id="p" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#1E1B3A"/><stop offset="100%" stop-color="#111827"/></linearGradient></defs>
+<style>
+ .t { font: 700 15px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; fill: #FFFFFF; }
+ .a { font: 700 15px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; }
+ .pulse { animation: pulse 1.8s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+ .n { animation: nudge 1.4s ease-in-out infinite; }
+ @keyframes pulse { 0%,100% { transform: scale(1); opacity: .9; } 50% { transform: scale(1.9); opacity: 0; } }
+ @keyframes nudge { 0%,100% { transform: translateX(0); } 50% { transform: translateX(3px); } }
+</style>
+<rect x="2" y="2" width="196" height="44" rx="22" fill="url(#p)" stroke="url(#g)" stroke-width="2"/>
+<rect x="20" y="15" width="26" height="18" rx="5" fill="#FF0000"/><path d="M30 19.5 v9 l7.5 -4.5z" fill="#FFFFFF"/>
+<text x="56" y="29.5" class="t">Video Demo</text>
+<g class="n"><path d="M172 24 h9 m-3.5 -3.5 l3.5 3.5 l-3.5 3.5" stroke="#F472B6" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/></g>
+</svg>
