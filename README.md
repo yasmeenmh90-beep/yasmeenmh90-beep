@@ -101,6 +101,19 @@
 
 ---
 
+# 💼 Syntecxhub Internship
+
+<p align="center">
+  <img src="./assets/syntecxhub-week1.svg" width="100%" alt="Syntecxhub internship, Week 1. Project 1: RescueBot, an A* maze solver with 5 search algorithms and 31 unit tests. Project 2: PhishGuard, a rule-based phishing expert system with 48 forward-chaining rules and certainty factors."/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/yasmeenmh90-beep/Syntecxhub_Maze_Solver"><img src="https://img.shields.io/badge/Project_1-RescueBot-34D399?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/yasmeenmh90-beep/Syntecxhub_PhishGuard"><img src="https://img.shields.io/badge/Project_2-PhishGuard-FBBF24?style=flat-square&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
 # ⭐ Featured AI Projects
 
 <table>
