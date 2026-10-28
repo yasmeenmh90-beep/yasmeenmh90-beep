@@ -48,38 +48,38 @@
 
 # 🏆 Completed Hackathon Projects
 
-> Five completed and submitted hackathon projects spanning **agentic AI, RAG, financial automation, civic technology and career intelligence**. Click any card to open the code.
+> Five completed and submitted hackathon projects spanning **agentic AI, RAG, financial automation, civic technology and career intelligence**. Click a card to open its code, or use the buttons for the live demo and video.
 
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
 <a href="https://github.com/yasmeenmh90-beep/multi-agent-rag-research-assistant"><img src="./assets/project-multi-agent-rag.svg" width="100%" alt="multi-agent-rag"/></a>
 <br/>
-<a href="https://github.com/yasmeenmh90-beep/multi-agent-rag-research-assistant"><img src="https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://rag-dashboard-mpr4.onrender.com"><img src="https://img.shields.io/badge/Live-Demo-00C7B7?style=flat-square&logo=render&logoColor=white"/></a> <a href="https://www.youtube.com/watch?v=jM5vrCund78&t=309s"><img src="https://img.shields.io/badge/YouTube-Demo-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
+<a href="https://rag-dashboard-mpr4.onrender.com"><img src="./assets/btn-live-demo.svg" height="40" alt="Live demo"/></a>&nbsp;<a href="https://www.youtube.com/watch?v=jM5vrCund78&t=309s"><img src="./assets/btn-video-demo.svg" height="40" alt="Video demo"/></a>
 </td>
 <td width="50%" align="center" valign="top">
 <a href="https://github.com/yasmeenmh90-beep/invoiceguard"><img src="./assets/project-invoiceguard.svg" width="100%" alt="invoiceguard"/></a>
 <br/>
-<a href="https://github.com/yasmeenmh90-beep/invoiceguard"><img src="https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://invoiceguard-murex.vercel.app"><img src="https://img.shields.io/badge/Live-Demo-000000?style=flat-square&logo=vercel&logoColor=white"/></a> <a href="https://www.youtube.com/watch?v=PPiI_tBXf6A&t=3s"><img src="https://img.shields.io/badge/YouTube-Demo-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
+<a href="https://invoiceguard-murex.vercel.app"><img src="./assets/btn-live-demo.svg" height="40" alt="Live demo"/></a>&nbsp;<a href="https://www.youtube.com/watch?v=PPiI_tBXf6A&t=3s"><img src="./assets/btn-video-demo.svg" height="40" alt="Video demo"/></a>
 </td>
 </tr>
 <tr>
 <td width="50%" align="center" valign="top">
 <a href="https://github.com/yasmeenmh90-beep/Clerkly"><img src="./assets/project-clerkly.svg" width="100%" alt="clerkly"/></a>
 <br/>
-<a href="https://github.com/yasmeenmh90-beep/Clerkly"><img src="https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://clerkly-mu.vercel.app"><img src="https://img.shields.io/badge/Live-Demo-000000?style=flat-square&logo=vercel&logoColor=white"/></a> <a href="https://www.youtube.com/watch?v=Qm3CAmAwrUo&t=25s"><img src="https://img.shields.io/badge/YouTube-Demo-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
+<a href="https://clerkly-mu.vercel.app"><img src="./assets/btn-live-demo.svg" height="40" alt="Live demo"/></a>&nbsp;<a href="https://www.youtube.com/watch?v=Qm3CAmAwrUo&t=25s"><img src="./assets/btn-video-demo.svg" height="40" alt="Video demo"/></a>
 </td>
 <td width="50%" align="center" valign="top">
 <a href="https://github.com/yasmeenmh90-beep/civicrelay"><img src="./assets/project-civicrelay.svg" width="100%" alt="civicrelay"/></a>
 <br/>
-<a href="https://github.com/yasmeenmh90-beep/civicrelay"><img src="https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://civic-relay.vercel.app"><img src="https://img.shields.io/badge/Live-Demo-000000?style=flat-square&logo=vercel&logoColor=white"/></a> <a href="https://www.youtube.com/watch?v=IdlXDlYbDv4"><img src="https://img.shields.io/badge/YouTube-Demo-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
+<a href="https://civic-relay.vercel.app"><img src="./assets/btn-live-demo.svg" height="40" alt="Live demo"/></a>&nbsp;<a href="https://www.youtube.com/watch?v=IdlXDlYbDv4"><img src="./assets/btn-video-demo.svg" height="40" alt="Video demo"/></a>
 </td>
 </tr>
 <tr>
 <td width="50%" align="center" valign="top">
 <a href="https://github.com/yasmeenmh90-beep/AI-Career-Guidance-Assistant"><img src="./assets/project-career-guidance.svg" width="100%" alt="AI Career Guidance Assistant"/></a>
 <br/>
-<a href="https://github.com/yasmeenmh90-beep/AI-Career-Guidance-Assistant"><img src="https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://ai-career-guidance-assistant.onrender.com/login/?next=/"><img src="https://img.shields.io/badge/Live-Demo-00C7B7?style=flat-square&logo=render&logoColor=white"/></a> <a href="https://www.youtube.com/watch?v=AOR4rf9_e1Y"><img src="https://img.shields.io/badge/YouTube-Demo-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
+<a href="https://ai-career-guidance-assistant.onrender.com/login/?next=/"><img src="./assets/btn-live-demo.svg" height="40" alt="Live demo"/></a>&nbsp;<a href="https://www.youtube.com/watch?v=AOR4rf9_e1Y"><img src="./assets/btn-video-demo.svg" height="40" alt="Video demo"/></a>
 </td>
 <td width="50%" align="center" valign="top">
 <img src="./assets/hackathon-summary.svg" width="100%" alt="Hackathon summary: 5 projects shipped, 1 solo / 4 team, 5 live demos, 5 video demos"/>
@@ -93,10 +93,6 @@
 
 <p align="center">
   <a href="https://github.com/yasmeenmh90-beep/AI-Powered-Multi-Language-Code-Vulnerability-Scanner"><img src="./assets/quantumlogics-polyguard.svg" width="100%" alt="PolyGuard — QuantumLogics internship team project. Fine-tuned GraphCodeBERT code vulnerability scanner. Evaluated on 271 hand-written cases: 74.54% accuracy, 77.50% precision, 68.89% recall, 72.94% F1."/></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/yasmeenmh90-beep/AI-Powered-Multi-Language-Code-Vulnerability-Scanner"><img src="https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
 
 ---
