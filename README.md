@@ -84,13 +84,15 @@
 <td width="50%" align="center" valign="top">
 <a href="https://github.com/yasmeenmh90-beep/NVIDIA-agentops-ai"><img src="./assets/project-agentops-ai.svg" width="100%" alt="AgentOps AI — team project for the Nebius × NVIDIA Global AI Hackathon 2026. NVIDIA Nemotron agents investigate Python errors, propose fixes, verify tests and open PRs after human approval."/></a>
 <br/>
+<a href="https://nvidia-agentops-ai-1.onrender.com"><img src="./assets/btn-live-demo.svg" height="40" alt="Live demo"/></a>&nbsp;<a href="https://www.youtube.com/watch?v=7trQKYdCTp4&amp;t=11s"><img src="./assets/btn-video-demo.svg" height="40" alt="Video demo"/></a>
+<br/>
 <a href="https://github.com/yasmeenmh90-beep/agentops-test-shop"><b>🧪 Testing Repository</b></a>&nbsp; · &nbsp;<a href="https://github.com/yasmeenmh90-beep/agentops-test-shop/pulls"><b>🔍 Repair PRs &amp; Evidence</b></a>
 </td>
 </tr>
 </table>
 
 <p align="center">
-<img src="./assets/hackathon-summary.svg" width="480" alt="Hackathon summary: 6 projects shipped, 1 solo / 5 team, 5 live demos, 5 video demos"/>
+<img src="./assets/hackathon-summary.svg" width="480" alt="Hackathon summary: 6 projects shipped, 1 solo / 5 team, 6 live demos, 6 video demos"/>
 </p>
 
 ---
