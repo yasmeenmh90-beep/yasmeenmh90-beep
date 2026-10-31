@@ -3,7 +3,7 @@
 <linearGradient id="grad" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#4F46E5"/><stop offset="50%" stop-color="#7C3AED"/><stop offset="100%" stop-color="#EC4899"/></linearGradient>
 <linearGradient id="panel" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#1E1B3A"/><stop offset="100%" stop-color="#111827"/></linearGradient>
 <radialGradient id="blob" cx="0" cy="0" r="1"><stop offset="0%" stop-color="#76B900" stop-opacity=".35"/><stop offset="100%" stop-color="#76B900" stop-opacity="0"/></radialGradient>
-<clipPath id="clip"><rect x="4" y="4" width="472" height="292" rx="18"/></clipPath>
+<clipPath id="clip"><path d="M4 300V22Q4 4 22 4H458Q476 4 476 22V300Z"/></clipPath>
 </defs>
 <style>
  .frame { fill: none; stroke: url(#grad); stroke-width: 2; stroke-dasharray: 1600; animation: draw 1.6s ease-out both, glow 3s ease-in-out 1.6s infinite; }
@@ -30,10 +30,10 @@
  @keyframes pulse { 0%,100% { transform: scale(1); opacity: .5; } 50% { transform: scale(1.12); opacity: 1; } }
 </style>
 <g clip-path="url(#clip)">
- <rect x="4" y="4" width="472" height="292" fill="url(#panel)"/>
+ <rect x="4" y="4" width="472" height="296" fill="url(#panel)"/>
  <circle cx="440" cy="30" r="190" fill="url(#blob)" class="blob"/>
 </g>
-<rect x="4" y="4" width="472" height="292" rx="18" class="frame"/>
+<path d="M4 300V22Q4 4 22 4H458Q476 4 476 22V300" class="frame"/>
 <g class="head">
  <circle cx="50" cy="52" r="24" fill="#76B900" fill-opacity=".14"/>
  <circle cx="50" cy="52" r="24" fill="none" stroke="#76B900" stroke-width="1.5" class="ring"/>
