@@ -33,7 +33,7 @@
 <g class="stat" style="animation-delay:0.10s">
 <rect x="28.0" y="22" width="168.0" height="126" rx="16" fill="#0D1117" stroke="#22D3EE" stroke-opacity=".45"/>
 <rect x="92.0" y="22" width="40" height="3" rx="1.5" fill="#22D3EE" class="bar"/>
-<g clip-path="url(#d0_0)"><g transform="translate(0,-750)" style="animation: r0_0 1.4s cubic-bezier(.2,.8,.2,1) 0.30s both"><text x="112.0" y="82" class="num" fill="#22D3EE">0</text><text x="112.0" y="132" class="num" fill="#22D3EE">1</text><text x="112.0" y="182" class="num" fill="#22D3EE">2</text><text x="112.0" y="232" class="num" fill="#22D3EE">3</text><text x="112.0" y="282" class="num" fill="#22D3EE">4</text><text x="112.0" y="332" class="num" fill="#22D3EE">5</text><text x="112.0" y="382" class="num" fill="#22D3EE">6</text><text x="112.0" y="432" class="num" fill="#22D3EE">7</text><text x="112.0" y="482" class="num" fill="#22D3EE">8</text><text x="112.0" y="532" class="num" fill="#22D3EE">9</text><text x="112.0" y="582" class="num" fill="#22D3EE">0</text><text x="112.0" y="632" class="num" fill="#22D3EE">1</text><text x="112.0" y="682" class="num" fill="#22D3EE">2</text><text x="112.0" y="732" class="num" fill="#22D3EE">3</text><text x="112.0" y="782" class="num" fill="#22D3EE">4</text><text x="112.0" y="832" class="num" fill="#22D3EE">5</text></g></g>
+<text x="112.0" y="82" class="num" fill="#22D3EE">6</text>
 <text x="112.0" y="124" class="lab">Hackathon projects</text>
 </g><g class="stat" style="animation-delay:0.25s">
 <rect x="212.0" y="22" width="168.0" height="126" rx="16" fill="#0D1117" stroke="#34D399" stroke-opacity=".45"/>
