@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 290" width="480" height="290" role="img" aria-label="AgentOps AI">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" width="480" height="300" role="img" aria-label="AgentOps AI">
 <defs>
 <linearGradient id="grad" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#4F46E5"/><stop offset="50%" stop-color="#7C3AED"/><stop offset="100%" stop-color="#EC4899"/></linearGradient>
 <linearGradient id="panel" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#1E1B3A"/><stop offset="100%" stop-color="#111827"/></linearGradient>
 <radialGradient id="blob" cx="0" cy="0" r="1"><stop offset="0%" stop-color="#76B900" stop-opacity=".35"/><stop offset="100%" stop-color="#76B900" stop-opacity="0"/></radialGradient>
-<clipPath id="clip"><rect x="4" y="4" width="472" height="282" rx="18"/></clipPath>
+<clipPath id="clip"><rect x="4" y="4" width="472" height="292" rx="18"/></clipPath>
 </defs>
 <style>
  .frame { fill: none; stroke: url(#grad); stroke-width: 2; stroke-dasharray: 1600; animation: draw 1.6s ease-out both, glow 3s ease-in-out 1.6s infinite; }
@@ -30,10 +30,10 @@
  @keyframes pulse { 0%,100% { transform: scale(1); opacity: .5; } 50% { transform: scale(1.12); opacity: 1; } }
 </style>
 <g clip-path="url(#clip)">
- <rect x="4" y="4" width="472" height="282" fill="url(#panel)"/>
+ <rect x="4" y="4" width="472" height="292" fill="url(#panel)"/>
  <circle cx="440" cy="30" r="190" fill="url(#blob)" class="blob"/>
 </g>
-<rect x="4" y="4" width="472" height="282" rx="18" class="frame"/>
+<rect x="4" y="4" width="472" height="292" rx="18" class="frame"/>
 <g class="head">
  <circle cx="50" cy="52" r="24" fill="#76B900" fill-opacity=".14"/>
  <circle cx="50" cy="52" r="24" fill="none" stroke="#76B900" stroke-width="1.5" class="ring"/>
@@ -49,4 +49,6 @@
 <g class="pt" style="animation-delay:0.70s"><circle cx="34" cy="174" r="7" fill="#76B900" fill-opacity=".18"/><path d="M30.5 174 l2.5 2.5 l4.5 -5" stroke="#76B900" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/><text x="50" y="178" class="ptt">Detect, investigate, fix and verify with agents</text></g><g class="pt" style="animation-delay:0.88s"><circle cx="34" cy="198" r="7" fill="#76B900" fill-opacity=".18"/><path d="M30.5 198 l2.5 2.5 l4.5 -5" stroke="#76B900" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/><text x="50" y="202" class="ptt">NVIDIA Nemotron via Nebius Token Factory</text></g><g class="pt" style="animation-delay:1.06s"><circle cx="34" cy="222" r="7" fill="#76B900" fill-opacity=".18"/><path d="M30.5 222 l2.5 2.5 l4.5 -5" stroke="#76B900" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/><text x="50" y="226" class="ptt">Regression tests, Docker sandbox and GitHub PRs</text></g>
 <line x1="28" y1="238" x2="452" y2="238" stroke="#30363D"/>
 <text x="28" y="271" class="ptt">FastAPI · React · TypeScript · pytest</text>
+<text x="436" y="271" class="cta">View code</text>
+<path d="M442 266.5 h10 m-4 -4 l4 4 l-4 4" stroke="#76B900" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
