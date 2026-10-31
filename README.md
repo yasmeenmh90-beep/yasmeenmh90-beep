@@ -48,7 +48,7 @@
 
 # 🏆 Completed Hackathon Projects
 
-> Five completed and submitted hackathon projects spanning **agentic AI, RAG, financial automation, civic technology and career intelligence**. Click a card to open its code, or use the buttons for the live demo and video.
+> Six completed and submitted hackathon projects spanning **agentic AI, RAG, financial automation, civic technology, career intelligence and AI incident engineering**. Click a card to open its code, or use the links for available demos and testing evidence.
 
 <table>
 <tr>
@@ -82,10 +82,16 @@
 <a href="https://ai-career-guidance-assistant.onrender.com/login/?next=/"><img src="./assets/btn-live-demo.svg" height="40" alt="Live demo"/></a>&nbsp;<a href="https://www.youtube.com/watch?v=AOR4rf9_e1Y"><img src="./assets/btn-video-demo.svg" height="40" alt="Video demo"/></a>
 </td>
 <td width="50%" align="center" valign="top">
-<img src="./assets/hackathon-summary.svg" width="100%" alt="Hackathon summary: 5 projects shipped, 1 solo / 4 team, 5 live demos, 5 video demos"/>
+<a href="https://github.com/yasmeenmh90-beep/NVIDIA-agentops-ai"><img src="./assets/project-agentops-ai.svg" width="100%" alt="AgentOps AI — team project for the Nebius × NVIDIA Global AI Hackathon 2026. NVIDIA Nemotron agents investigate Python errors, propose fixes, verify tests and open PRs after human approval."/></a>
+<br/>
+<a href="https://github.com/yasmeenmh90-beep/agentops-test-shop"><b>🧪 Testing Repository</b></a>&nbsp; · &nbsp;<a href="https://github.com/yasmeenmh90-beep/agentops-test-shop/pulls"><b>🔍 Repair PRs &amp; Evidence</b></a>
 </td>
 </tr>
 </table>
+
+<p align="center">
+<img src="./assets/hackathon-summary.svg" width="480" alt="Hackathon summary: 6 projects shipped, 1 solo / 5 team, 5 live demos, 5 video demos"/>
+</p>
 
 ---
 
@@ -206,7 +212,7 @@
 # 🏅 Highlights
 
 <p align="center">
-  <img src="./assets/highlights.svg" width="100%" alt="5 hackathon projects · 116/116 CivicRelay tests passing · 98.95% spam classifier accuracy · 2.39M-tweet MSc dataset · #1 in MSc AI cohort"/>
+  <img src="./assets/highlights.svg" width="100%" alt="6 hackathon projects · 116/116 CivicRelay tests passing · 98.95% spam classifier accuracy · 2.39M-tweet MSc dataset · #1 in MSc AI cohort"/>
 </p>
 
 ---
