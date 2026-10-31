@@ -82,11 +82,21 @@
 <a href="https://ai-career-guidance-assistant.onrender.com/login/?next=/"><img src="./assets/btn-live-demo.svg" height="40" alt="Live demo"/></a>&nbsp;<a href="https://www.youtube.com/watch?v=AOR4rf9_e1Y"><img src="./assets/btn-video-demo.svg" height="40" alt="Video demo"/></a>
 </td>
 <td width="50%" align="center" valign="top">
-<a href="https://github.com/yasmeenmh90-beep/NVIDIA-agentops-ai"><img src="./assets/project-agentops-ai.svg" width="100%" alt="AgentOps AI — team project for the Nebius × NVIDIA Global AI Hackathon 2026. NVIDIA Nemotron agents investigate Python errors, propose fixes, verify tests and open PRs after human approval."/></a>
-<br/>
+<table>
+<tr><td colspan="2" align="center">
+<a href="https://github.com/yasmeenmh90-beep/NVIDIA-agentops-ai"><img src="./assets/project-agentops-ai.svg" width="100%" alt="AgentOps AI — Nebius × NVIDIA Global AI Hackathon team project"/></a>
+</td></tr>
+<tr><td colspan="2" align="center">
+<a href="https://github.com/yasmeenmh90-beep/NVIDIA-agentops-ai"><img src="./assets/btn-agentops-code.svg" height="36" alt="View Code"/></a>
+</td></tr>
+<tr>
+<td width="50%" align="center"><a href="https://github.com/yasmeenmh90-beep/agentops-test-shop"><img src="./assets/btn-agentops-testing.svg" width="100%" alt="Testing Repository"/></a></td>
+<td width="50%" align="center"><a href="https://github.com/yasmeenmh90-beep/agentops-test-shop/pulls"><img src="./assets/btn-agentops-evidence.svg" width="100%" alt="Repair PRs &amp; Evidence"/></a></td>
+</tr>
+<tr><td colspan="2" align="center">
 <a href="https://nvidia-agentops-ai-1.onrender.com"><img src="./assets/btn-live-demo.svg" height="40" alt="Live demo"/></a>&nbsp;<a href="https://www.youtube.com/watch?v=7trQKYdCTp4&amp;t=11s"><img src="./assets/btn-video-demo.svg" height="40" alt="Video demo"/></a>
-<br/>
-<a href="https://github.com/yasmeenmh90-beep/agentops-test-shop"><b>🧪 Testing Repository</b></a>&nbsp; · &nbsp;<a href="https://github.com/yasmeenmh90-beep/agentops-test-shop/pulls"><b>🔍 Repair PRs &amp; Evidence</b></a>
+</td></tr>
+</table>
 </td>
 </tr>
 </table>
