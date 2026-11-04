@@ -8,6 +8,11 @@ on:
   push:
     branches: [main]
 
+# Prevent overlapping runs from force-pushing the same generated branch.
+concurrency:
+  group: contribution-snake-output
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
