@@ -139,6 +139,24 @@
 </tr>
 </table>
 
+<br/>
+
+<table>
+<tr>
+<td colspan="2">
+<img src="./assets/syntecxhub-week3.svg" width="100%" alt="Syntecxhub AI internship, Week 3: 2 projects completed"/>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/yasmeenmh90-beep/Syntecxhub_Face_Recognition"><img src="./assets/syntecxhub-face-recognition.svg" width="100%" alt="Face Recognition: OpenCV YuNet and SFace real-time face detection, registration and identification"/></a>
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/yasmeenmh90-beep/Syntecxhub_Hand_Gesture_Recognization"><img src="./assets/syntecxhub-hand-gestures.svg" width="100%" alt="Hand Gesture Recognition: MediaPipe and OpenCV gesture-based media, presentation and mouse control"/></a>
+</td>
+</tr>
+</table>
+
 ---
 
 # ⭐ Featured AI Projects
