@@ -230,7 +230,7 @@
 # 🏅 Highlights
 
 <p align="center">
-  <img src="./assets/highlights.svg" width="100%" alt="6 hackathon projects · 116/116 CivicRelay tests passing · 98.95% spam classifier accuracy · 2.39M-tweet MSc dataset · #1 in MSc AI cohort"/>
+  <img src="./assets/highlights-gold-static.svg" width="100%" alt="6 hackathon projects · 116/116 CivicRelay tests passing · 98.95% spam classifier accuracy · 2.39M-tweet MSc dataset · #1 in MSc AI cohort"/>
 </p>
 
 ---

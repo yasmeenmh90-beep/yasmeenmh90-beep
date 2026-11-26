@@ -1,57 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" width="480" height="300" role="img" aria-label="AgentOps AI">
-<defs>
-<linearGradient id="grad" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#80602E"/><stop offset="48%" stop-color="#F0D59B"/><stop offset="100%" stop-color="#A47D3D"/></linearGradient>
-<linearGradient id="panel" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#202020"/><stop offset="100%" stop-color="#090909"/></linearGradient>
-<radialGradient id="blob" cx="0" cy="0" r="1"><stop offset="0%" stop-color="#D6B66F" stop-opacity=".35"/><stop offset="100%" stop-color="#D6B66F" stop-opacity="0"/></radialGradient>
-<clipPath id="clip"><path d="M4 300V22Q4 4 22 4H458Q476 4 476 22V300Z"/></clipPath>
-</defs>
-<style>
- .frame { fill: none; stroke: url(#grad); stroke-width: 2;   }
- .blob {  }
- .name { font: 800 25px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; fill: #F5F1E8; }
- .sub { font: 600 13px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; fill: #D6B66F; letter-spacing: .3px; }
- .tl { font: 13.5px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; fill: #E9D5A1; }
- .ptt { font: 600 13px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; fill: #F5F1E8; }
- .pill { font: 700 10.5px 'Fira Code', Consolas, monospace; letter-spacing: 1.2px; text-anchor: middle; }
- .head {  }
- .pt {  }
- .ic {  transform-box: fill-box; transform-origin: center; }
- .cta { font: 700 12.5px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; fill: #D6B66F; text-anchor: end;  }
- .arrow {  }
- .emo { font-size: 24px; text-anchor: middle; }
- .ring {  transform-box: fill-box; transform-origin: center; }
- @keyframes draw { from { stroke-dashoffset: 1600; } to { stroke-dashoffset: 0; } }
- @keyframes glow { 0%,100% { stroke-opacity: .55; } 50% { stroke-opacity: 1; } }
- @keyframes drift { from { transform: translate(0,0); } to { transform: translate(-40px,30px); } }
- @keyframes fadeUp { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
- @keyframes slideIn { from { opacity: 0; transform: translateX(-12px); } to { opacity: 1; transform: translateX(0); } }
- @keyframes pop { from { opacity: 0; transform: scale(.4); } to { opacity: 1; transform: scale(1); } }
- @keyframes nudge { 0%,100% { transform: translateX(0); } 50% { transform: translateX(4px); } }
- @keyframes pulse { 0%,100% { transform: scale(1); opacity: .5; } 50% { transform: scale(1.12); opacity: 1; } }
-</style>
-<g clip-path="url(#clip)">
- <rect x="4" y="4" width="472" height="296" fill="url(#panel)"/>
- <circle cx="440" cy="30" r="190" fill="url(#blob)" class="blob"/>
-</g>
-<path d="M4 300V22Q4 4 22 4H458Q476 4 476 22V300" class="frame"/>
-<g class="head">
- <circle cx="50" cy="52" r="24" fill="#D6B66F" fill-opacity=".14"/>
- <circle cx="50" cy="52" r="24" fill="none" stroke="#D6B66F" stroke-width="1.5" class="ring"/>
- <text x="50" y="61" class="emo">🛠️</text>
- <text x="88" y="52" class="name">AgentOps AI</text>
- <text x="88" y="73" class="sub">AI incident engineering workspace</text>
- <rect x="309" y="18" width="52" height="20" rx="10" fill="#D6B66F" fill-opacity=".15" stroke="#D6B66F" stroke-opacity=".6"/>
- <text x="335" y="32" class="pill" fill="#D6B66F">TEAM</text>
- <rect x="369" y="18" width="87" height="20" rx="10" fill="#342C20" fill-opacity=".15" stroke="#D6B66F" stroke-opacity=".6"/>
- <text x="413" y="32" class="pill" fill="#D6B66F">HACKATHON</text>
- <text x="28" y="122" class="tl">Nebius × NVIDIA Global AI Hackathon 2026</text><text x="28" y="141" class="tl">Python errors → verified fixes → human-approved PRs.</text>
-</g>
-<g class="pt" style="animation-delay:0.70s"><circle cx="34" cy="174" r="7" fill="#D6B66F" fill-opacity=".18"/><path d="M30.5 174 l2.5 2.5 l4.5 -5" stroke="#D6B66F" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/><text x="50" y="178" class="ptt">Detect, investigate, fix and verify with agents</text></g><g class="pt" style="animation-delay:0.88s"><circle cx="34" cy="198" r="7" fill="#D6B66F" fill-opacity=".18"/><path d="M30.5 198 l2.5 2.5 l4.5 -5" stroke="#D6B66F" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/><text x="50" y="202" class="ptt">NVIDIA Nemotron via Nebius Token Factory</text></g><g class="pt" style="animation-delay:1.06s"><circle cx="34" cy="222" r="7" fill="#D6B66F" fill-opacity=".18"/><path d="M30.5 222 l2.5 2.5 l4.5 -5" stroke="#D6B66F" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/><text x="50" y="226" class="ptt">Regression tests, Docker sandbox and GitHub PRs</text></g>
-<line x1="28" y1="238" x2="452" y2="238" stroke="#342C20"/>
-<g class="ic" style="animation-delay:1.3s" transform="translate(28,252)"><title>FastAPI</title><rect width="28" height="28" rx="7" fill="#101010" stroke="#342C20"/><circle cx="14" cy="14" r="10" fill="#B28B49"/><path d="M15 6L8 15h5l-1 7 8-11h-5z" fill="white"/></g>
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="355" viewBox="0 0 480 355" role="img"><defs><linearGradient id="bg" x2="0" y2="1"><stop stop-color="#1D1D1D"/><stop offset="1" stop-color="#090909"/></linearGradient><linearGradient id="metal"><stop stop-color="#8A6735"/><stop offset=".5" stop-color="#F2DCA7"/><stop offset="1" stop-color="#9C783B"/></linearGradient></defs><rect x="2" y="2" width="476" height="351" rx="12" fill="url(#bg)" stroke="#79613D"/><path d="M23 3 H457" stroke="url(#metal)" stroke-width="3"/><rect x="18" y="18" width="444" height="37" rx="5" fill="#101010" stroke="#383027"/><circle cx="31" cy="36" r="3.5" fill="#D6B66F"/><text x="43" y="40" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#C6A15B" font-weight="700">TEAM  /  HACKATHON</text><path d="M424 28 h23 v16 h-23 z M428 33 l4 3 -4 3 M435 39 h7" fill="none" stroke="#C6A15B" stroke-width="1.3"/><text x="24" y="92" font-family="Georgia,serif" font-size="30" fill="#F2DCA7">AgentOps AI</text><text x="25" y="115" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#B9B0A0" font-weight="600">AI incident engineering workspace</text><text x="25" y="145" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#E9E4DA" font-weight="400">Nebius × NVIDIA Global AI Hackathon 2026</text><text x="25" y="164" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#E9E4DA" font-weight="400">Python errors → verified fixes → human-approved PRs.</text><rect x="18" y="182" width="444" height="106" rx="6" fill="#131313" stroke="#383027"/><text x="30" y="200" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#BFA16A" font-weight="700">ENGINEERING DETAILS</text><path d="M31 218 l4 -4 4 4 -4 4z" fill="#C6A15B"/><text x="47" y="222" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#E9E4DA" font-weight="400">Detect, investigate, fix and verify with agents</text><path d="M31 241 l4 -4 4 4 -4 4z" fill="#C6A15B"/><text x="47" y="245" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#E9E4DA" font-weight="400">NVIDIA Nemotron via Nebius Token Factory</text><path d="M31 264 l4 -4 4 4 -4 4z" fill="#C6A15B"/><text x="47" y="268" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#E9E4DA" font-weight="400">Regression tests, Docker sandbox and GitHub PRs</text><path d="M24 299 H456" stroke="#51432D"/><g transform="translate(0 58)"><g class="ic" style="animation-delay:1.3s" transform="translate(28,252)"><title>FastAPI</title><rect width="28" height="28" rx="7" fill="#101010" stroke="#342C20"/><circle cx="14" cy="14" r="10" fill="#B28B49"/><path d="M15 6L8 15h5l-1 7 8-11h-5z" fill="white"/></g>
 <g class="ic" style="animation-delay:1.3800000000000001s" transform="translate(62,252)"><title>React</title><rect width="28" height="28" rx="7" fill="#101010" stroke="#342C20"/><g transform="translate(14 14)" fill="none" stroke="#E9D5A1" stroke-width="1"><ellipse rx="11" ry="4"/><ellipse rx="11" ry="4" transform="rotate(60)"/><ellipse rx="11" ry="4" transform="rotate(120)"/><circle r="2" fill="#E9D5A1" stroke="none"/></g></g>
 <g class="ic" style="animation-delay:1.46s" transform="translate(96,252)"><title>TypeScript</title><rect width="28" height="28" rx="7" fill="#101010" stroke="#342C20"/><rect x="4" y="4" width="20" height="20" rx="2" fill="#B28B49"/><text x="14" y="20" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" font-weight="bold" fill="white">TS</text></g>
 <g class="ic" style="animation-delay:1.54s" transform="translate(130,252)"><title>pytest</title><rect width="28" height="28" rx="7" fill="#101010" stroke="#342C20"/><path d="M6 7h16M6 11h16" stroke="#D6B66F" stroke-width="2"/><path d="M8 4v3m6-3v3m6-3v3" stroke="#D6B66F" stroke-width="2"/><path d="M8 14v9" stroke="#E9D5A1" stroke-width="3"/><path d="M14 14v7" stroke="#B28B49" stroke-width="3"/><path d="M20 14v9" stroke="#D6B66F" stroke-width="3"/></g>
-<text x="436" y="271" class="cta">View code</text>
-<path d="M442 266.5 h10 m-4 -4 l4 4 l-4 4" stroke="#D6B66F" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>
+</g><rect x="335" y="310" width="121" height="29" rx="5" fill="#D6B66F"/><text x="348" y="329" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#121212" font-weight="700">VIEW CODE</text><path d="M432 324 h11 m-4 -4 4 4 -4 4" fill="none" stroke="#121212" stroke-width="1.5"/></svg>
