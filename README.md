@@ -1,23 +1,25 @@
+
+
 <div align="center">
 
-<img src="./assets/gold-hero.svg" width="100%" alt="Yasmeen Azmat Ali — AI/ML Engineer, Applied AI Developer, Agentic Systems"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:EC4899&height=200&section=header&text=Yasmeen%20Azmat%20Ali&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=AI%2FML%20Engineer%20%E2%80%A2%20Applied%20AI%20Developer%20%E2%80%A2%20Agentic%20Systems&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
 
-<a href="https://github.com/yasmeenmh90-beep"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=C6A15B&center=true&vCenter=true&width=620&lines=Building+Multi-Agent+AI+Systems;Retrieval-Augmented+Generation+(RAG);LLM+Applications+%26+AI+Safety;Machine+Learning+%26+NLP;Human-in-the-Loop+Workflows" alt="Typing SVG"/></a>
+<a href="https://github.com/yasmeenmh90-beep"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=620&lines=Building+Multi-Agent+AI+Systems;Retrieval-Augmented+Generation+(RAG);LLM+Applications+%26+AI+Safety;Machine+Learning+%26+NLP;Human-in-the-Loop+Workflows" alt="Typing SVG"/></a>
 
 <p>
-  <img src="https://img.shields.io/badge/MSc_AI-First_Class_Distinction-B28B49?style=flat-square&labelColor=101010&logo=googlescholar&logoColor=F5F1E8" height="28"/>&nbsp;
-  <img src="https://img.shields.io/badge/Cohort_Rank-%231-B28B49?style=flat-square&labelColor=101010&logo=starship&logoColor=F5F1E8" height="28"/>&nbsp;
-  <img src="https://img.shields.io/badge/Focus-Agentic_AI-B28B49?style=flat-square&labelColor=101010" height="28"/>
+  <img src="https://img.shields.io/badge/MSc_AI-First_Class_Distinction-22C55E?style=flat-square&labelColor=1F2937&logo=googlescholar&logoColor=white" height="28"/>&nbsp;
+  <img src="https://img.shields.io/badge/Cohort_Rank-%231-FACC15?style=flat-square&labelColor=1F2937&logo=starship&logoColor=white" height="28"/>&nbsp;
+  <img src="https://img.shields.io/badge/Focus-Agentic_AI-8B5CF6?style=flat-square&labelColor=1F2937" height="28"/>
 </p>
 
 <p>📍 <b>Sharjah, UAE</b> &nbsp;|&nbsp; 🌍 <b>Open to Remote Opportunities</b></p>
 
 <p>
-  <a href="https://www.linkedin.com/in/yasmeen-azmat-a02b44340/"><img src="https://img.shields.io/badge/LinkedIn-B28B49?style=for-the-badge&logo=linkedin&logoColor=F5F1E8"/></a>&nbsp;
-  <a href="https://yasmeenazmat.com/"><img src="https://img.shields.io/badge/Portfolio-B28B49?style=for-the-badge&logo=googlechrome&logoColor=F5F1E8"/></a>&nbsp;
-  <a href="mailto:yasmeenazmat.ali97@icloud.com"><img src="https://img.shields.io/badge/Email-B28B49?style=for-the-badge&logo=gmail&logoColor=F5F1E8"/></a>&nbsp;
-  <a href="https://github.com/yasmeenmh90-beep"><img src="https://img.shields.io/badge/GitHub-B28B49?style=for-the-badge&logo=github&logoColor=F5F1E8"/></a>&nbsp;
-  <a href="https://www.youtube.com/@YasmeenAzmat-v6y"><img src="https://img.shields.io/badge/YouTube-B28B49?style=for-the-badge&logo=youtube&logoColor=F5F1E8"/></a>
+  <a href="https://www.linkedin.com/in/yasmeen-azmat-a02b44340/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+  <a href="https://yasmeenazmat.com/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>&nbsp;
+  <a href="mailto:yasmeenazmat.ali97@icloud.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
+  <a href="https://github.com/yasmeenmh90-beep"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
+  <a href="https://www.youtube.com/@YasmeenAzmat-v6y"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 
 </div>
@@ -230,7 +232,7 @@
 # 🏅 Highlights
 
 <p align="center">
-  <img src="./assets/highlights-gold-static.svg" width="100%" alt="6 hackathon projects · 116/116 CivicRelay tests passing · 98.95% spam classifier accuracy · 2.39M-tweet MSc dataset · #1 in MSc AI cohort"/>
+  <img src="./assets/highlights.svg" width="100%" alt="6 hackathon projects · 116/116 CivicRelay tests passing · 98.95% spam classifier accuracy · 2.39M-tweet MSc dataset · #1 in MSc AI cohort"/>
 </p>
 
 ---
@@ -239,16 +241,16 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasmeenmh90-beep&theme=github_dark" width="100%" alt="Contribution activity"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasmeenmh90-beep&theme=radical" width="100%" alt="Contribution activity"/>
 
 <table>
 <tr>
-<td width="50%" align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yasmeenmh90-beep&theme=github_dark" width="100%" alt="Top languages by repo"/></td>
-<td width="50%" align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yasmeenmh90-beep&theme=github_dark" width="100%" alt="Top languages by commit"/></td>
+<td width="50%" align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yasmeenmh90-beep&theme=radical" width="100%" alt="Top languages by repo"/></td>
+<td width="50%" align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yasmeenmh90-beep&theme=radical" width="100%" alt="Top languages by commit"/></td>
 </tr>
 </table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yasmeenmh90-beep&background=090909&hide_border=true&stroke=80602E&ring=C6A15B&fire=E9D5A1&currStreakNum=FFFFFF&sideNums=E9D5A1&currStreakLabel=C6A15B&sideLabels=C6A15B&dates=8B949E" width="100%" alt="GitHub streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yasmeenmh90-beep&background=1E1B3A&hide_border=true&stroke=4C1D95&ring=EC4899&fire=F472B6&currStreakNum=FFFFFF&sideNums=C4B5FD&currStreakLabel=F472B6&sideLabels=A78BFA&dates=8B949E" width="100%" alt="GitHub streak"/>
 
 <br/><br/>
 
@@ -267,14 +269,14 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/yasmeen-azmat-a02b44340/"><img src="https://img.shields.io/badge/LinkedIn-Yasmeen_Azmat_Ali-B28B49?style=for-the-badge&logo=linkedin&logoColor=F5F1E8"/></a>&nbsp;
-<a href="mailto:yasmeenazmat.ali97@icloud.com"><img src="https://img.shields.io/badge/Email-Contact_Me-B28B49?style=for-the-badge&logo=gmail&logoColor=F5F1E8"/></a>&nbsp;
-<a href="https://yasmeen-portfolio-gamma.vercel.app"><img src="https://img.shields.io/badge/Portfolio-View_My_Work-B28B49?style=for-the-badge&logo=googlechrome&logoColor=F5F1E8"/></a>&nbsp;
-<a href="https://github.com/yasmeenmh90-beep"><img src="https://img.shields.io/badge/GitHub-Follow-B28B49?style=for-the-badge&logo=github&logoColor=F5F1E8"/></a>&nbsp;
-<a href="https://www.youtube.com/@YasmeenAzmat-v6y"><img src="https://img.shields.io/badge/YouTube-Subscribe-B28B49?style=for-the-badge&logo=youtube&logoColor=F5F1E8"/></a>
+<a href="https://www.linkedin.com/in/yasmeen-azmat-a02b44340/"><img src="https://img.shields.io/badge/LinkedIn-Yasmeen_Azmat_Ali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+<a href="mailto:yasmeenazmat.ali97@icloud.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
+<a href="https://yasmeen-portfolio-gamma.vercel.app"><img src="https://img.shields.io/badge/Portfolio-View_My_Work-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>&nbsp;
+<a href="https://github.com/yasmeenmh90-beep"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
+<a href="https://www.youtube.com/@YasmeenAzmat-v6y"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090909,50:80602E,100:C6A15B&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:7C3AED,100:4F46E5&height=120&section=footer&animation=twinkling" width="100%"/>
 
 </div>
