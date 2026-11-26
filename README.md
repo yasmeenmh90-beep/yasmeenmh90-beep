@@ -1,5 +1,3 @@
-
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:EC4899&height=200&section=header&text=Yasmeen%20Azmat%20Ali&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=AI%2FML%20Engineer%20%E2%80%A2%20Applied%20AI%20Developer%20%E2%80%A2%20Agentic%20Systems&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>

@@ -1,18 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 380" width="960" height="380" role="img" aria-label="What I work on">
 <defs>
-  <linearGradient id="grad" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#80602E"/><stop offset="48%" stop-color="#F0D59B"/><stop offset="100%" stop-color="#A47D3D"/></linearGradient>
+  <linearGradient id="grad" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#4F46E5"/><stop offset="50%" stop-color="#7C3AED"/><stop offset="100%" stop-color="#EC4899"/>
+  </linearGradient>
   <linearGradient id="cardbg" x1="0" y1="0" x2="0" y2="1">
-    <stop offset="0%" stop-color="#101010"/><stop offset="100%" stop-color="#101010"/>
+    <stop offset="0%" stop-color="#1E1B3A"/><stop offset="100%" stop-color="#111827"/>
   </linearGradient>
 </defs>
 <style>
-  .card {  }
+  .card { animation: fadeUp .7s ease-out both; }
   .bg { fill: url(#cardbg); }
-  .border { fill: none; stroke: url(#grad); stroke-width: 1.5; stroke-dasharray: 740; stroke-dashoffset: 0;  }
-  .icon { font-size: 34px; text-anchor: middle;  transform-box: fill-box; transform-origin: center; }
-  .title { font: 700 19px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; fill: #F5F1E8; text-anchor: middle; }
-  .desc { font: 400 13.5px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; fill: #D6B66F; text-anchor: middle; }
-  .heading { font: 700 15px 'Fira Code', Consolas, monospace; fill: #D6B66F; letter-spacing: 3px; text-anchor: middle;  }
+  .border { fill: none; stroke: url(#grad); stroke-width: 2; stroke-dasharray: 740; stroke-dashoffset: 0; animation: draw 1.6s ease-out both, glow 3s ease-in-out 1.6s infinite; }
+  .icon { font-size: 34px; text-anchor: middle; animation: bob 2.8s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+  .title { font: 700 19px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; fill: #F3F4F6; text-anchor: middle; }
+  .desc { font: 400 13.5px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; fill: #A5B4FC; text-anchor: middle; }
+  .heading { font: 700 15px 'Fira Code', Consolas, monospace; fill: #A78BFA; letter-spacing: 3px; text-anchor: middle; animation: fadeUp .6s ease-out both; }
   @keyframes fadeUp { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: translateY(0); } }
   @keyframes draw { from { stroke-dashoffset: 740; } to { stroke-dashoffset: 0; } }
   @keyframes glow { 0%,100% { stroke-opacity: .55; } 50% { stroke-opacity: 1; } }
