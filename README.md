@@ -1,165 +1,280 @@
 <div align="center">
 
-<img src="./assets/studio-hero.svg" width="100%" alt="Yasmeen Azmat Ali — AI engineering portfolio"/>
+<img src="./assets/gold-hero.svg" width="100%" alt="Yasmeen Azmat Ali — AI/ML Engineer, Applied AI Developer, Agentic Systems"/>
 
-**AI/ML Engineer** &nbsp; / &nbsp; **Applied AI Developer** &nbsp; / &nbsp; **Agentic Systems**
+<a href="https://github.com/yasmeenmh90-beep"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=C6A15B&center=true&vCenter=true&width=620&lines=Building+Multi-Agent+AI+Systems;Retrieval-Augmented+Generation+(RAG);LLM+Applications+%26+AI+Safety;Machine+Learning+%26+NLP;Human-in-the-Loop+Workflows" alt="Typing SVG"/></a>
 
-Sharjah, UAE · Open to remote opportunities
+<p>
+  <img src="https://img.shields.io/badge/MSc_AI-First_Class_Distinction-B28B49?style=flat-square&labelColor=101010&logo=googlescholar&logoColor=F5F1E8" height="28"/>&nbsp;
+  <img src="https://img.shields.io/badge/Cohort_Rank-%231-B28B49?style=flat-square&labelColor=101010&logo=starship&logoColor=F5F1E8" height="28"/>&nbsp;
+  <img src="https://img.shields.io/badge/Focus-Agentic_AI-B28B49?style=flat-square&labelColor=101010" height="28"/>
+</p>
 
-<a href="https://yasmeenazmat.com/">Portfolio</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/yasmeen-azmat-a02b44340/">LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:yasmeenazmat.ali97@icloud.com">Email</a> &nbsp;·&nbsp; <a href="https://github.com/yasmeenmh90-beep">GitHub</a> &nbsp;·&nbsp; <a href="https://www.youtube.com/@YasmeenAzmat-v6y">YouTube</a> &nbsp;·&nbsp; <a href="./Yasmeen_Azmat_Ali_CV.pdf">CV</a>
+<p>📍 <b>Sharjah, UAE</b> &nbsp;|&nbsp; 🌍 <b>Open to Remote Opportunities</b></p>
+
+<p>
+  <a href="https://www.linkedin.com/in/yasmeen-azmat-a02b44340/"><img src="https://img.shields.io/badge/LinkedIn-B28B49?style=for-the-badge&logo=linkedin&logoColor=F5F1E8"/></a>&nbsp;
+  <a href="https://yasmeenazmat.com/"><img src="https://img.shields.io/badge/Portfolio-B28B49?style=for-the-badge&logo=googlechrome&logoColor=F5F1E8"/></a>&nbsp;
+  <a href="mailto:yasmeenazmat.ali97@icloud.com"><img src="https://img.shields.io/badge/Email-B28B49?style=for-the-badge&logo=gmail&logoColor=F5F1E8"/></a>&nbsp;
+  <a href="https://github.com/yasmeenmh90-beep"><img src="https://img.shields.io/badge/GitHub-B28B49?style=for-the-badge&logo=github&logoColor=F5F1E8"/></a>&nbsp;
+  <a href="https://www.youtube.com/@YasmeenAzmat-v6y"><img src="https://img.shields.io/badge/YouTube-B28B49?style=for-the-badge&logo=youtube&logoColor=F5F1E8"/></a>
+</p>
 
 </div>
 
-<img src="./assets/studio-about.svg" width="100%" alt="MSc AI First Class Distinction; number one in cohort; six hackathon projects"/>
+---
 
-I'm an **AI/ML engineer** and **applied AI developer**, with an MSc in Artificial Intelligence (**First Class Distinction, ranked #1 in my cohort**). I build complete AI applications: **agentic architectures, retrieval-augmented generation, human-in-the-loop workflows, LLM security, real-time ML pipelines, APIs and interactive interfaces.**
+## 👩‍💻 About Me
 
-> **Current interests:** multi-agent research, trustworthy AI, practical automation, document intelligence, AI operations, and backend systems that make intelligent tools usable.
+<p align="center">
+  <img src="./assets/about-me.svg" width="100%" alt="I'm an AI/ML Engineer and Applied AI Developer with an MSc in Artificial Intelligence (First Class Distinction, ranked #1 in my cohort). I build complete AI applications: multi-agent architectures, RAG, human-in-the-loop workflows, LLM security, real-time ML pipelines, APIs, dashboards and cloud deployments."/>
+</p>
 
-<img src="./assets/studio-section1.svg" width="100%" alt="01 / Selected work"/>
+### 🎯 What I Work On
 
-### Six completed hackathon projects
-Source code, demos and walkthroughs are linked below. Each card opens its repository.
+<p align="center">
+  <img src="./assets/what-i-work-on.svg" width="100%" alt="Agentic AI, RAG, ML & NLP, AI Safety, Human-in-the-Loop, Real-Time ML, Full-Stack AI, Dashboards"/>
+</p>
 
-<table>
-<tr>
-<td width="50%" valign="top"><a href="https://github.com/yasmeenmh90-beep/multi-agent-rag-research-assistant"><img src="./assets/studio-multi-agent-rag.svg" width="100%" alt="Multi-Agent RAG: Seven-agent research assistant"/></a><br/><b>Multi-Agent RAG</b> &nbsp; <a href="https://github.com/yasmeenmh90-beep/multi-agent-rag-research-assistant">Code</a> · <a href="https://rag-dashboard-mpr4.onrender.com">Live demo</a> · <a href="https://www.youtube.com/watch?v=jM5vrCund78&t=309s">Video</a></td>
-<td width="50%" valign="top"><a href="https://github.com/yasmeenmh90-beep/invoiceguard"><img src="./assets/studio-invoiceguard.svg" width="100%" alt="InvoiceGuard: Finance anomaly detection"/></a><br/><b>InvoiceGuard</b> &nbsp; <a href="https://github.com/yasmeenmh90-beep/invoiceguard">Code</a> · <a href="https://invoiceguard-murex.vercel.app">Live demo</a> · <a href="https://www.youtube.com/watch?v=PPiI_tBXf6A&t=3s">Video</a></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://github.com/yasmeenmh90-beep/Clerkly"><img src="./assets/studio-clerkly.svg" width="100%" alt="Clerkly: Task intake and approval system"/></a><br/><b>Clerkly</b> &nbsp; <a href="https://github.com/yasmeenmh90-beep/Clerkly">Code</a> · <a href="https://clerkly-mu.vercel.app">Live demo</a> · <a href="https://www.youtube.com/watch?v=Qm3CAmAwrUo&t=25s">Video</a></td>
-<td width="50%" valign="top"><a href="https://github.com/yasmeenmh90-beep/civicrelay"><img src="./assets/studio-civicrelay.svg" width="100%" alt="CivicRelay: Civic technology workflows"/></a><br/><b>CivicRelay</b> &nbsp; <a href="https://github.com/yasmeenmh90-beep/civicrelay">Code</a> · <a href="https://civic-relay.vercel.app">Live demo</a> · <a href="https://www.youtube.com/watch?v=IdlXDlYbDv4">Video</a></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://github.com/yasmeenmh90-beep/AI-Career-Guidance-Assistant"><img src="./assets/studio-career-guidance.svg" width="100%" alt="AI Career Guidance: Intelligent career assistance"/></a><br/><b>AI Career Guidance</b> &nbsp; <a href="https://github.com/yasmeenmh90-beep/AI-Career-Guidance-Assistant">Code</a> · <a href="https://ai-career-guidance-assistant.onrender.com/login/?next=/">Live demo</a> · <a href="https://www.youtube.com/watch?v=AOR4rf9_e1Y">Video</a></td>
-<td width="50%" valign="top"><a href="https://github.com/yasmeenmh90-beep/NVIDIA-agentops-ai"><img src="./assets/studio-agentops-ai.svg" width="100%" alt="AgentOps AI: Incident discovery and repair"/></a><br/><b>AgentOps AI</b> &nbsp; <a href="https://github.com/yasmeenmh90-beep/NVIDIA-agentops-ai">Code</a> · <a href="https://nvidia-agentops-ai-1.onrender.com">Live demo</a> · <a href="https://www.youtube.com/watch?v=7trQKYdCTp4&t=11s">Video</a> · <a href="https://github.com/yasmeenmh90-beep/agentops-test-shop">Test repo</a> · <a href="https://github.com/yasmeenmh90-beep/agentops-test-shop/pulls">Repair evidence</a></td>
-</tr>
-</table>
+---
 
+## 🧰 Tech Stack
 
-**Hackathon snapshot:** 6 submitted projects · 1 solo / 5 team · 6 live demos · 6 video demos.
+<p align="center">
+  <img src="./assets/tech-stack.svg" width="100%" alt="Tech stack — AI/ML: Python, PyTorch, TensorFlow, Scikit-learn, XGBoost, LangChain, LangGraph, ChromaDB. Backend/Data/Cloud: FastAPI, Django, PostgreSQL, MongoDB, Redis, Kafka, Spark, Docker, AWS. Frontend/Mobile: React, TypeScript, JavaScript, HTML/CSS, Kotlin, Jetpack Compose."/>
+</p>
 
-<img src="./assets/studio-section2.svg" width="100%" alt="02 / Engineering journey"/>
+---
 
-### QuantumLogics — internship work
+# 🏆 Completed Hackathon Projects
+
+> Six completed and submitted hackathon projects spanning **agentic AI, RAG, financial automation, civic technology, career intelligence and AI incident engineering**. Click a card to open its code, or use the links for available demos and testing evidence.
 
 <table>
 <tr>
-<td width="50%" valign="top"><a href="https://github.com/yasmeenmh90-beep/AI-Powered-Multi-Language-Code-Vulnerability-Scanner"><img src="./assets/studio-polyguard.svg" width="100%" alt="PolyGuard: AI code vulnerability detection"/></a><br/><b>PolyGuard</b> &nbsp; <a href="https://github.com/yasmeenmh90-beep/AI-Powered-Multi-Language-Code-Vulnerability-Scanner">Code</a></td>
-<td width="50%"></td>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/yasmeenmh90-beep/multi-agent-rag-research-assistant"><img src="./assets/project-multi-agent-rag.svg" width="100%" alt="multi-agent-rag"/></a>
+<br/>
+<a href="https://rag-dashboard-mpr4.onrender.com"><img src="./assets/btn-live-demo.svg" height="40" alt="Live demo"/></a>&nbsp;<a href="https://www.youtube.com/watch?v=jM5vrCund78&t=309s"><img src="./assets/btn-video-demo.svg" height="40" alt="Video demo"/></a>
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/yasmeenmh90-beep/invoiceguard"><img src="./assets/project-invoiceguard.svg" width="100%" alt="invoiceguard"/></a>
+<br/>
+<a href="https://invoiceguard-murex.vercel.app"><img src="./assets/btn-live-demo.svg" height="40" alt="Live demo"/></a>&nbsp;<a href="https://www.youtube.com/watch?v=PPiI_tBXf6A&t=3s"><img src="./assets/btn-video-demo.svg" height="40" alt="Video demo"/></a>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/yasmeenmh90-beep/Clerkly"><img src="./assets/project-clerkly.svg" width="100%" alt="clerkly"/></a>
+<br/>
+<a href="https://clerkly-mu.vercel.app"><img src="./assets/btn-live-demo.svg" height="40" alt="Live demo"/></a>&nbsp;<a href="https://www.youtube.com/watch?v=Qm3CAmAwrUo&t=25s"><img src="./assets/btn-video-demo.svg" height="40" alt="Video demo"/></a>
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/yasmeenmh90-beep/civicrelay"><img src="./assets/project-civicrelay.svg" width="100%" alt="civicrelay"/></a>
+<br/>
+<a href="https://civic-relay.vercel.app"><img src="./assets/btn-live-demo.svg" height="40" alt="Live demo"/></a>&nbsp;<a href="https://www.youtube.com/watch?v=IdlXDlYbDv4"><img src="./assets/btn-video-demo.svg" height="40" alt="Video demo"/></a>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/yasmeenmh90-beep/AI-Career-Guidance-Assistant"><img src="./assets/project-career-guidance.svg" width="100%" alt="AI Career Guidance Assistant"/></a>
+<br/>
+<a href="https://ai-career-guidance-assistant.onrender.com/login/?next=/"><img src="./assets/btn-live-demo.svg" height="40" alt="Live demo"/></a>&nbsp;<a href="https://www.youtube.com/watch?v=AOR4rf9_e1Y"><img src="./assets/btn-video-demo.svg" height="40" alt="Video demo"/></a>
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/yasmeenmh90-beep/NVIDIA-agentops-ai"><img src="./assets/project-agentops-ai.svg" width="100%" alt="AgentOps AI — Nebius × NVIDIA Global AI Hackathon team project. View code."/></a><br/><a href="https://github.com/yasmeenmh90-beep/agentops-test-shop"><img src="./assets/btn-agentops-testing.svg" width="50%" alt="Testing Repository"/></a><a href="https://github.com/yasmeenmh90-beep/agentops-test-shop/pulls"><img src="./assets/btn-agentops-evidence.svg" width="50%" alt="Repair PRs &amp; Evidence"/></a>
+<br/>
+<a href="https://nvidia-agentops-ai-1.onrender.com"><img src="./assets/btn-live-demo.svg" height="40" alt="Live demo"/></a>&nbsp;<a href="https://www.youtube.com/watch?v=7trQKYdCTp4&amp;t=11s"><img src="./assets/btn-video-demo.svg" height="40" alt="Video demo"/></a>
+</td>
 </tr>
 </table>
 
+<p align="center">
+<img src="./assets/hackathon-summary.svg" width="480" alt="Hackathon summary: 6 projects shipped, 1 solo / 5 team, 6 live demos, 6 video demos"/>
+</p>
 
-**PolyGuard evaluation:** 271 hand-written test cases; **74.54% accuracy**, **77.50% precision**, **68.89% recall** and **72.94% F1** in project-specific evaluation.
+---
 
-### Syntecxhub — internship work
+# 💼 QuantumLogics Internship
 
-**WEEK 01 / SEARCH + RULES**
+<p align="center">
+  <a href="https://github.com/yasmeenmh90-beep/AI-Powered-Multi-Language-Code-Vulnerability-Scanner"><img src="./assets/quantumlogics-polyguard.svg" width="100%" alt="PolyGuard — QuantumLogics internship team project. Fine-tuned GraphCodeBERT code vulnerability scanner. Evaluated on 271 hand-written cases: 74.54% accuracy, 77.50% precision, 68.89% recall, 72.94% F1."/></a>
+</p>
+
+---
+
+# 💼 Syntecxhub Internship
 
 <table>
 <tr>
-<td width="50%" valign="top"><a href="https://github.com/yasmeenmh90-beep/Syntecxhub_Maze_Solver"><img src="./assets/studio-maze-solver.svg" width="100%" alt="RescueBot: A* maze-solving simulation"/></a><br/><b>RescueBot</b> &nbsp; <a href="https://github.com/yasmeenmh90-beep/Syntecxhub_Maze_Solver">Code</a></td>
-<td width="50%" valign="top"><a href="https://github.com/yasmeenmh90-beep/Syntecxhub_PhishGuard"><img src="./assets/studio-phishguard.svg" width="100%" alt="PhishGuard: Phishing expert system"/></a><br/><b>PhishGuard</b> &nbsp; <a href="https://github.com/yasmeenmh90-beep/Syntecxhub_PhishGuard">Code</a></td>
+<td colspan="2">
+<img src="./assets/syntecxhub-week1.svg" width="100%" alt="Syntecxhub AI internship, Week 1: 2 projects completed"/>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/yasmeenmh90-beep/Syntecxhub_Maze_Solver"><img src="./assets/syntecxhub-maze-solver.svg" width="100%" alt="RescueBot: A* maze solver with 5 search algorithms and 31 unit tests"/></a>
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/yasmeenmh90-beep/Syntecxhub_PhishGuard"><img src="./assets/syntecxhub-phishguard.svg" width="100%" alt="PhishGuard: rule-based phishing expert system with 48 forward-chaining rules"/></a>
+</td>
 </tr>
 </table>
 
-
-**WEEK 02 / NLP + DIALOGUE**
+<br/>
 
 <table>
 <tr>
-<td width="50%" valign="top"><a href="https://github.com/yasmeenmh90-beep/Syntecxhub_Rule_Based_Chatbot"><img src="./assets/studio-nova-chatbot.svg" width="100%" alt="NOVA Chatbot: Hybrid rule-based + LLM bot"/></a><br/><b>NOVA Chatbot</b> &nbsp; <a href="https://github.com/yasmeenmh90-beep/Syntecxhub_Rule_Based_Chatbot">Code</a></td>
-<td width="50%" valign="top"><a href="https://github.com/yasmeenmh90-beep/Syntecxhub_Sentiment_Analysis_Tool"><img src="./assets/studio-sentiment.svg" width="100%" alt="Sentiment Analysis: IMDb review classification"/></a><br/><b>Sentiment Analysis</b> &nbsp; <a href="https://github.com/yasmeenmh90-beep/Syntecxhub_Sentiment_Analysis_Tool">Code</a></td>
+<td colspan="2">
+<img src="./assets/syntecxhub-week2.svg" width="100%" alt="Syntecxhub AI internship, Week 2: 2 projects completed"/>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/yasmeenmh90-beep/Syntecxhub_Rule_Based_Chatbot"><img src="./assets/syntecxhub-nova-chatbot.svg" width="100%" alt="NOVA: hybrid rule-based + LLM chatbot with 13 intents, a 15-topic knowledge base and 127 unit tests"/></a>
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/yasmeenmh90-beep/Syntecxhub_Sentiment_Analysis_Tool"><img src="./assets/syntecxhub-sentiment.svg" width="100%" alt="Sentiment Analysis Tool: TF-IDF with Naive Bayes and Logistic Regression, 91.9% accuracy on IMDb reviews"/></a>
+</td>
 </tr>
 </table>
 
-
-**WEEK 03 / COMPUTER VISION**
+<br/>
 
 <table>
 <tr>
-<td width="50%" valign="top"><a href="https://github.com/yasmeenmh90-beep/Syntecxhub_Face_Recognition"><img src="./assets/studio-face-recognition.svg" width="100%" alt="Face Recognition: Real-time face identification"/></a><br/><b>Face Recognition</b> &nbsp; <a href="https://github.com/yasmeenmh90-beep/Syntecxhub_Face_Recognition">Code</a></td>
-<td width="50%" valign="top"><a href="https://github.com/yasmeenmh90-beep/Syntecxhub_Hand_Gesture_Recognization"><img src="./assets/studio-hand-gestures.svg" width="100%" alt="Gesture Control: Gesture-based interaction"/></a><br/><b>Gesture Control</b> &nbsp; <a href="https://github.com/yasmeenmh90-beep/Syntecxhub_Hand_Gesture_Recognization">Code</a></td>
+<td colspan="2">
+<img src="./assets/syntecxhub-week3.svg" width="100%" alt="Syntecxhub AI internship, Week 3: 2 projects completed"/>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/yasmeenmh90-beep/Syntecxhub_Face_Recognition"><img src="./assets/syntecxhub-face-recognition.svg" width="100%" alt="Face Recognition: OpenCV YuNet and SFace real-time face detection, registration and identification"/></a>
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/yasmeenmh90-beep/Syntecxhub_Hand_Gesture_Recognization"><img src="./assets/syntecxhub-hand-gestures.svg" width="100%" alt="Hand Gesture Recognition: MediaPipe and OpenCV gesture-based media, presentation and mouse control"/></a>
+</td>
 </tr>
 </table>
 
+---
 
-<img src="./assets/studio-section3.svg" width="100%" alt="03 / The AI lab"/>
-
-### Featured AI projects
+# ⭐ Featured AI Projects
 
 <table>
 <tr>
-<td width="50%" valign="top"><a href="https://github.com/yasmeenmh90-beep/PromptGuard-Automated-Security-Testing-for-LLM-Applications"><img src="./assets/studio-promptguard.svg" width="100%" alt="PromptGuard: LLM security testing"/></a><br/><b>PromptGuard</b> &nbsp; <a href="https://github.com/yasmeenmh90-beep/PromptGuard-Automated-Security-Testing-for-LLM-Applications">Code</a></td>
-<td width="50%" valign="top"><a href="https://github.com/yasmeenmh90-beep/scoutly"><img src="./assets/studio-scoutly.svg" width="100%" alt="Scoutly: Agentic RAG intelligence"/></a><br/><b>Scoutly</b> &nbsp; <a href="https://github.com/yasmeenmh90-beep/scoutly">Code</a></td>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/yasmeenmh90-beep/PromptGuard-Automated-Security-Testing-for-LLM-Applications"><img src="./assets/project-promptguard.svg" width="100%" alt="PromptGuard"/></a>
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/yasmeenmh90-beep/scoutly"><img src="./assets/project-scoutly.svg" width="100%" alt="Scoutly"/></a>
+</td>
 </tr>
 </table>
 
+---
 
-### MSc Artificial Intelligence projects
+# 🎓 MSc Artificial Intelligence Projects
 
 <table>
 <tr>
-<td width="50%" valign="top"><a href="https://github.com/yasmeenmh90-beep/Real-Time-Twitter-Sentiment-Analysis"><img src="./assets/studio-twitter-sentiment.svg" width="100%" alt="Twitter Sentiment: Live sentiment analysis"/></a><br/><b>Twitter Sentiment</b> &nbsp; <a href="https://github.com/yasmeenmh90-beep/Real-Time-Twitter-Sentiment-Analysis">Code</a></td>
-<td width="50%" valign="top"><a href="https://github.com/yasmeenmh90-beep/spam-email-classification"><img src="./assets/studio-spam-classifier.svg" width="100%" alt="Spam Classifier: Email spam detection"/></a><br/><b>Spam Classifier</b> &nbsp; <a href="https://github.com/yasmeenmh90-beep/spam-email-classification">Code</a></td>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/yasmeenmh90-beep/Real-Time-Twitter-Sentiment-Analysis"><img src="./assets/project-twitter-sentiment.svg" width="100%" alt="Twitter Sentiment"/></a>
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/yasmeenmh90-beep/spam-email-classification"><img src="./assets/project-spam-classifier.svg" width="100%" alt="Spam Classifier"/></a>
+</td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://github.com/yasmeenmh90-beep/responsible-ai-fairness-interpretability"><img src="./assets/studio-responsible-ai.svg" width="100%" alt="Responsible AI: Fairness and interpretability"/></a><br/><b>Responsible AI</b> &nbsp; <a href="https://github.com/yasmeenmh90-beep/responsible-ai-fairness-interpretability">Code</a></td>
-<td width="50%" valign="top"><a href="https://github.com/yasmeenmh90-beep/Titanic-Survival-Prediction-ML-Group-Project"><img src="./assets/studio-titanic.svg" width="100%" alt="Titanic Prediction: Survival prediction model"/></a><br/><b>Titanic Prediction</b> &nbsp; <a href="https://github.com/yasmeenmh90-beep/Titanic-Survival-Prediction-ML-Group-Project">Code</a></td>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/yasmeenmh90-beep/responsible-ai-fairness-interpretability"><img src="./assets/project-responsible-ai.svg" width="100%" alt="Responsible AI"/></a>
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/yasmeenmh90-beep/Titanic-Survival-Prediction-ML-Group-Project"><img src="./assets/project-titanic.svg" width="100%" alt="Titanic Survival"/></a>
+</td>
 </tr>
 </table>
 
+---
 
-<img src="./assets/studio-section4.svg" width="100%" alt="04 / Beyond AI"/>
-
-### Product experiments
+# 💻 Additional Projects
 
 <table>
 <tr>
-<td width="50%" valign="top"><a href="https://github.com/yasmeenmh90-beep/ai-interview-practice-bot"><img src="./assets/studio-interview-bot.svg" width="100%" alt="Interview Practice: AI-assisted interview practice"/></a><br/><b>Interview Practice</b> &nbsp; <a href="https://github.com/yasmeenmh90-beep/ai-interview-practice-bot">Code</a></td>
-<td width="50%" valign="top"><a href="https://github.com/yasmeenmh90-beep/climate-weather-dashboard"><img src="./assets/studio-climate-dashboard.svg" width="100%" alt="Climate Dashboard: Weather and climate dashboard"/></a><br/><b>Climate Dashboard</b> &nbsp; <a href="https://github.com/yasmeenmh90-beep/climate-weather-dashboard">Code</a></td>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/yasmeenmh90-beep/ai-interview-practice-bot"><img src="./assets/project-interview-bot.svg" width="100%" alt="AI Interview Bot"/></a>
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/yasmeenmh90-beep/climate-weather-dashboard"><img src="./assets/project-climate-dashboard.svg" width="100%" alt="Climate Dashboard"/></a>
+</td>
 </tr>
 </table>
 
+---
 
-### Android applications
+# 📱 Android Development
 
 <table>
 <tr>
-<td width="50%" valign="top"><a href="https://github.com/yasmeenmh90-beep/MoodJournal"><img src="./assets/studio-mood-journal.svg" width="100%" alt="MoodJournal: Mood tracking application"/></a><br/><b>MoodJournal</b> &nbsp; <a href="https://github.com/yasmeenmh90-beep/MoodJournal">Code</a></td>
-<td width="50%" valign="top"><a href="https://github.com/yasmeenmh90-beep/QuizMaster"><img src="./assets/studio-quiz-master.svg" width="100%" alt="QuizMaster: Interactive quiz application"/></a><br/><b>QuizMaster</b> &nbsp; <a href="https://github.com/yasmeenmh90-beep/QuizMaster">Code</a></td>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/yasmeenmh90-beep/MoodJournal"><img src="./assets/project-mood-journal.svg" width="100%" alt="Mood Journal"/></a>
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/yasmeenmh90-beep/QuizMaster"><img src="./assets/project-quiz-master.svg" width="100%" alt="Quiz Master"/></a>
+</td>
 </tr>
 </table>
 
+---
 
-<img src="./assets/studio-tech.svg" width="100%" alt="Engineering toolbox: Python, PyTorch, TensorFlow, scikit-learn, LangGraph, LangChain, RAG, ChromaDB, FastAPI, Django, PostgreSQL, MongoDB, Redis, AWS, Kafka, Spark, React, TypeScript, Kotlin and Android"/>
+# 🏅 Highlights
 
-### Highlights worth sharing
+<p align="center">
+  <img src="./assets/highlights.svg" width="100%" alt="6 hackathon projects · 116/116 CivicRelay tests passing · 98.95% spam classifier accuracy · 2.39M-tweet MSc dataset · #1 in MSc AI cohort"/>
+</p>
 
-| Focus | Evidence |
-|:--|:--|
-| MSc Artificial Intelligence | **First Class Distinction** · #1 cohort rank |
-| Hackathons | **6** completed and submitted projects |
-| CivicRelay | **116 / 116** passing tests |
-| Spam classification | **98.95%** reported model accuracy |
-| Streaming sentiment | **2.39M** tweets in the research dataset |
-| PolyGuard | **271** hand-written evaluation cases; **72.94% F1** |
+---
 
-### GitHub activity
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasmeenmh90-beep&theme=github_dark" width="100%" alt="GitHub activity"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasmeenmh90-beep&theme=github_dark" width="100%" alt="Contribution activity"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yasmeenmh90-beep&theme=github_dark" width="49%" alt="Languages by repositories"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yasmeenmh90-beep&theme=github_dark" width="49%" alt="Languages by commits"/>
+<table>
+<tr>
+<td width="50%" align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yasmeenmh90-beep&theme=github_dark" width="100%" alt="Top languages by repo"/></td>
+<td width="50%" align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yasmeenmh90-beep&theme=github_dark" width="100%" alt="Top languages by commit"/></td>
+</tr>
+</table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yasmeenmh90-beep&background=162F2B&hide_border=true&stroke=597467&ring=F3C95A&fire=E96C45&currStreakNum=FFF6E8&sideNums=F3C95A&currStreakLabel=E96C45&sideLabels=BBD3C4&dates=9DB5A8" width="100%" alt="GitHub streak stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yasmeenmh90-beep&background=090909&hide_border=true&stroke=80602E&ring=C6A15B&fire=E9D5A1&currStreakNum=FFFFFF&sideNums=E9D5A1&currStreakLabel=C6A15B&sideLabels=C6A15B&dates=8B949E" width="100%" alt="GitHub streak"/>
 
-<img src="https://raw.githubusercontent.com/yasmeenmh90-beep/yasmeenmh90-beep/output/snake-dark.svg" width="100%" alt="Contribution snake"/>
+<br/><br/>
 
-<img src="./assets/studio-footer.svg" width="100%" alt="Let's build something that matters"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yasmeenmh90-beep/yasmeenmh90-beep/output/snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/yasmeenmh90-beep/yasmeenmh90-beep/output/snake-dark.svg" width="100%" alt="Contribution snake animation"/>
+</picture>
 
-<a href="https://www.linkedin.com/in/yasmeen-azmat-a02b44340/">LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:yasmeenazmat.ali97@icloud.com">Email</a> &nbsp;·&nbsp; <a href="https://yasmeen-portfolio-gamma.vercel.app">Portfolio (alternate)</a> &nbsp;·&nbsp; <a href="https://github.com/yasmeenmh90-beep">GitHub</a> &nbsp;·&nbsp; <a href="https://www.youtube.com/@YasmeenAzmat-v6y">YouTube</a>
+</div>
+
+---
+
+<div align="center">
+
+<img src="./assets/connect.svg" width="100%" alt="Let's connect — open to AI/ML Engineering, Applied AI, Agentic AI, LLM Applications and Software Engineering roles. Building AI systems that are useful, grounded and production-ready."/>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/yasmeen-azmat-a02b44340/"><img src="https://img.shields.io/badge/LinkedIn-Yasmeen_Azmat_Ali-B28B49?style=for-the-badge&logo=linkedin&logoColor=F5F1E8"/></a>&nbsp;
+<a href="mailto:yasmeenazmat.ali97@icloud.com"><img src="https://img.shields.io/badge/Email-Contact_Me-B28B49?style=for-the-badge&logo=gmail&logoColor=F5F1E8"/></a>&nbsp;
+<a href="https://yasmeen-portfolio-gamma.vercel.app"><img src="https://img.shields.io/badge/Portfolio-View_My_Work-B28B49?style=for-the-badge&logo=googlechrome&logoColor=F5F1E8"/></a>&nbsp;
+<a href="https://github.com/yasmeenmh90-beep"><img src="https://img.shields.io/badge/GitHub-Follow-B28B49?style=for-the-badge&logo=github&logoColor=F5F1E8"/></a>&nbsp;
+<a href="https://www.youtube.com/@YasmeenAzmat-v6y"><img src="https://img.shields.io/badge/YouTube-Subscribe-B28B49?style=for-the-badge&logo=youtube&logoColor=F5F1E8"/></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090909,50:80602E,100:C6A15B&height=120&section=footer&animation=twinkling" width="100%"/>
 
 </div>
